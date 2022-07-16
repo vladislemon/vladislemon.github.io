@@ -1,0 +1,13 @@
+name = "Torch Key [Forge]"
+filename = "torch-key-forge-1.1.0-1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81615d1386b67f05775bec17725e829385b15f16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3558930
+project-id = 422690

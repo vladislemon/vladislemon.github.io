@@ -46,6 +46,11 @@ hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "3b188291f70174653470ae7722bd0edc019f538b2d7a100158e6d55fa51a14f9"
 metafile = true
@@ -248,4 +253,14 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.pw.toml"
+hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
+metafile = true
+
+[[files]]
+file = "mods/torch-key-forge.pw.toml"
+hash = "1aa884c566e0318bd5be22cc789205b2f6acd68614dc8a106f2a7cc59e29ac4a"
 metafile = true
