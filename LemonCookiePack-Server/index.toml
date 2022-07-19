@@ -66,6 +66,11 @@ hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f181fc197ac8ae31bfe1f3c5e73eb70be527fba3c09bdd556f976218316b01d0"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "80770ac24587025c5e62946c4daed9671fe2eda021a9dc07ad49fae335ca0098"
+metafile = true
+
+[[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "888ebe202495ea6f15173c81698ef2da6a23ea98a985ab4590f47bef480ac8f3"
 metafile = true
 
 [[files]]
@@ -161,6 +171,11 @@ hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
 metafile = true
 
 [[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "b61137301d238d28d5f193aae83e5d159299d1367c69467373797babed888154"
 metafile = true
@@ -168,21 +183,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "bf653e1b062530e3603c2cda65db7ee0a8d1b76ead4c0cfdda0d191d197c878b"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-immersive-engineering.pw.toml"
-hash = "ec0ff13c5582c8e209b41f7573fafa41f31f6df074dbbaf859f5011bff9e2cd4"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "00c6f50df4a456b606e9d9c23ecece05680f4d7377085db487528f58b1c24a08"
 metafile = true
 
 [[files]]
@@ -243,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-gauges-and-switches.pw.toml"
 hash = "e5108fbd9e94a0870ec6a5feb42059729ff824d56688cd730f1af1aa031f1677"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "32b0420f5b5614b499d1262503f0c7b2910dcc5da5b995cf63c7ab3a2c0b9e35"
 metafile = true
 
 [[files]]
