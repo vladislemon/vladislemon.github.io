@@ -176,6 +176,21 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "bf653e1b062530e3603c2cda65db7ee0a8d1b76ead4c0cfdda0d191d197c878b"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-immersive-engineering.pw.toml"
+hash = "ec0ff13c5582c8e209b41f7573fafa41f31f6df074dbbaf859f5011bff9e2cd4"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "00c6f50df4a456b606e9d9c23ecece05680f4d7377085db487528f58b1c24a08"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
@@ -253,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-gauges-and-switches.pw.toml"
 hash = "e5108fbd9e94a0870ec6a5feb42059729ff824d56688cd730f1af1aa031f1677"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "32b0420f5b5614b499d1262503f0c7b2910dcc5da5b995cf63c7ab3a2c0b9e35"
 metafile = true
 
 [[files]]
