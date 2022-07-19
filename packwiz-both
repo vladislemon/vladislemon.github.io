@@ -1,0 +1,6 @@
+#!/bin/bash
+cd LemonCookiePack
+packwiz "$@"
+cd ../LemonCookiePack-Server
+packwiz "$@"
+cd ..
