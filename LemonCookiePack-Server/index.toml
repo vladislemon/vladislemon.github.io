@@ -31,11 +31,6 @@ hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "d039b9333db26814d7e92f033e295f3ad577a144fc15cc1aa88bf87b0c01a204"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
