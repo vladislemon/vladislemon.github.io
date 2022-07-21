@@ -96,6 +96,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-transfer-forge.pw.toml"
+hash = "2db643b2ab4c2880f38ebc8fc47cf137f8bae5a8aa9468179883985bfafb9cc2"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "f2bc82283a6f574ff863418609905c9c5cf315834088cd372fe6ee3b16df44e7"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "1a2b93fb3d80c29b3b9fab0c1e4be8be8c483be5b935ffe71c4edbabbc2548ed"
 metafile = true
 
 [[files]]
