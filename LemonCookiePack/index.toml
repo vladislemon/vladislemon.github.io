@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anvil-fix-forge-port.pw.toml"
+hash = "ea88f7949c507138ee19c646cf3217b6027a3dd09a1d450d66a61c27b29bc6f2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
 metafile = true
@@ -363,9 +368,4 @@ metafile = true
 [[files]]
 file = "mods/torch-key-forge.pw.toml"
 hash = "1aa884c566e0318bd5be22cc789205b2f6acd68614dc8a106f2a7cc59e29ac4a"
-metafile = true
-
-[[files]]
-file = "mods/xpisnoobject.pw.toml"
-hash = "556bc76731a6ad370839e8d722e696e715a5c68345fb12f2eeb19138e1783e6b"
 metafile = true

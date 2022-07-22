@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anvil-fix-forge-port.pw.toml"
+hash = "ea88f7949c507138ee19c646cf3217b6027a3dd09a1d450d66a61c27b29bc6f2"
+metafile = true
+
+[[files]]
 file = "mods/applied-botanics-addon.pw.toml"
 hash = "687ac1414270fbbca0c8bdd74470bcc03870e558e938d5bd49e93e1312e71f72"
 metafile = true
@@ -328,9 +333,4 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
-metafile = true
-
-[[files]]
-file = "mods/xpisnoobject.pw.toml"
-hash = "556bc76731a6ad370839e8d722e696e715a5c68345fb12f2eeb19138e1783e6b"
 metafile = true

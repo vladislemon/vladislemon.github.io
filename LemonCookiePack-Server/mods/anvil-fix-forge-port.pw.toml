@@ -1,0 +1,13 @@
+name = "Anvil Fix [FORGE PORT]"
+filename = "anvilfix-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c016ac00d4fb747d8475af993ecfd075e525af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3815286
+project-id = 630127
