@@ -96,11 +96,6 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-transfer-forge.pw.toml"
-hash = "2db643b2ab4c2880f38ebc8fc47cf137f8bae5a8aa9468179883985bfafb9cc2"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "f2bc82283a6f574ff863418609905c9c5cf315834088cd372fe6ee3b16df44e7"
 metafile = true
@@ -333,4 +328,9 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/xpisnoobject.pw.toml"
+hash = "556bc76731a6ad370839e8d722e696e715a5c68345fb12f2eeb19138e1783e6b"
 metafile = true

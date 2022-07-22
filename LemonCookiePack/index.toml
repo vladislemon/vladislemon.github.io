@@ -106,11 +106,6 @@ hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-transfer-forge.pw.toml"
-hash = "2db643b2ab4c2880f38ebc8fc47cf137f8bae5a8aa9468179883985bfafb9cc2"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "f2bc82283a6f574ff863418609905c9c5cf315834088cd372fe6ee3b16df44e7"
 metafile = true
@@ -368,4 +363,9 @@ metafile = true
 [[files]]
 file = "mods/torch-key-forge.pw.toml"
 hash = "1aa884c566e0318bd5be22cc789205b2f6acd68614dc8a106f2a7cc59e29ac4a"
+metafile = true
+
+[[files]]
+file = "mods/xpisnoobject.pw.toml"
+hash = "556bc76731a6ad370839e8d722e696e715a5c68345fb12f2eeb19138e1783e6b"
 metafile = true
