@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
+hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "3b188291f70174653470ae7722bd0edc019f538b2d7a100158e6d55fa51a14f9"
+hash = "89d29e338d3ee4bf85fccf0ef016959dea459fef1c71a3956e4143aecb5910e2"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "28d07ef42a05d8481367aa90562fa67f7b1ef6c3fd8060052fe89f3a6efacd9b"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "f5ff7542a20c71a77ac2039fe83c87045bc48a4f9d6eee2434abc1856d66829f"
+hash = "9960eeca58e8e02471b78c736bf16e1d925464f138064e014dd479d0ecd87c40"
 metafile = true
 
 [[files]]
@@ -182,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
+hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
 metafile = true
 
 [[files]]
@@ -332,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+hash = "a765e2532653e60cb187460774548380aeb726ecfd11108648bd21910e95a7fd"
 metafile = true
 
 [[files]]
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "5f62a1b53954ac5f25d506f24755c7bde75b179895219260612f4ccad31bf2c5"
 metafile = true
 
 [[files]]
