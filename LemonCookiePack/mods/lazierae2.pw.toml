@@ -1,0 +1,13 @@
+name = "Lazier AE2"
+filename = "lazierae2-1.18.2-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37500c0bb05c78642cf0f362f767b437d64224f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925577
+project-id = 489843
