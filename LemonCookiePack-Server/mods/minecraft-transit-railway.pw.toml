@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-forge-1.18.2-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ae6ee5384b38735b3f529866a1119782e8ba860"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838020
+project-id = 266707

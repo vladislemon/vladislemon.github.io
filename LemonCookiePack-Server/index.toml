@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "73b76577132ec9d89f80f28d0bb12d7b2e04fd3eb7282dbf5b46226433142c07"
+hash = "934f044442cbc246ab43112ebd5ab982f03f1d44cfa4a6479ad212755d3d6853"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "4a845c35df39c5075494a80f2d7cb9335803595c6be8bc79bedfc1d131e8e24a"
+hash = "92407a0dff6c187a08f8571425558867ec2d48a9dc3c8b7428a24095875b5f0a"
 metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
+hash = "50033122cf61e35c245ff0e675f58dcfbd08e1594cd94ab09a4b8717c007e5ae"
 metafile = true
 
 [[files]]
@@ -96,8 +96,8 @@ hash = "b6ebcd2b9bd6ef8d11194e95d01059c95a3603cad7ba9b1fb82b8dac6c044536"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
+file = "mods/corail-tombstone.pw.toml"
+hash = "2bb8d5828c1da3d573580eeaa2f59f673e036e8a4396836c505b3bdbb6f90ba9"
 metafile = true
 
 [[files]]
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "144730b736b78ae7fc1640496106096ba23b8233b50b443e6c1bc934d21cf4f6"
+hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
 metafile = true
 
 [[files]]
 file = "mods/createtweaker.pw.toml"
-hash = "d9df1a4cc67ba4e941b021d19d562c43a40f86865992d3ea3937fef197720574"
+hash = "09963aad4ac5ef3152ce9a120a83cf72288189210dd8bb0823ca15fdb8a49078"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "1afe8713c2f7b4fe8eb2bc2fddbb98688afe51709dbb52a24569d79c2745054e"
+hash = "36e44f8cff135b54b107bc943e796a1e0e874af4848597a2f81d632e6989191e"
 metafile = true
 
 [[files]]
@@ -207,12 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
+hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
 file = "mods/jeitweaker.pw.toml"
-hash = "3293dddac5ba9d8390ca6792ff1668ff52ddc39974a9e9a0c69674e7f4ac7099"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
@@ -296,28 +296,33 @@ hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "22719c35f0cc08e58f1bfa857b0acd2feaac95addde4d2ffcd0fc9e6058ca3d7"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "0918816b559523a88d96b6f3c5094124bc08544bb6df6ef719a73b9f6108d3ed"
+hash = "a3778a795e79486f80ab62b8b6c1dd8123e4cd2738df2287ab5290df75261d39"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "a7b18ba4f69fd7dff11ccb6de84dc923c6520f8ed198cae101a1578992994221"
+hash = "e786b40a72206eb8757d7147311eb1d83570df88e8a9048a603bc20941ac0469"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
-hash = "a96b1f986269854aa6edf907521d3e65b50c763ebe7e6f4f9f625fa89cf3884a"
+hash = "d657c8a19fe21627fe24e902e43008727c54bb01beeb552ceebeb9759582b47e"
 metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
-hash = "1b0584f35cbe22383d81cc34267f221d05c5aaf8441b94a2f83b651f1b68888d"
+hash = "3689cb476436d4a13114f5fd3852155663c81e9bc37939e837285c91b67243ae"
 metafile = true
 
 [[files]]
@@ -327,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f3f1aefa6bd088d2bd817cd7601000d5737b211ab87203d10419f50a1c1eafab"
+hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "ee5bfa9ee029011dd6fce1162c8472f641ab94eb3389fb1ca6dd213a7eb2a24a"
+hash = "496f471d200fc0cefa8fba76de996b26dbf19cf492734ba429ecf28d412626ce"
 metafile = true
 
 [[files]]
@@ -357,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e8fb28e1cb542bda89984dbf4a5ecbb85f29380f58e365b176ae568bb0881a70"
+hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4b9a08d59ef1dd59731faa0482ea3e172d70c90fe3499fa9dee6094f20ac3f94"
+hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
@@ -393,4 +398,9 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
 metafile = true
