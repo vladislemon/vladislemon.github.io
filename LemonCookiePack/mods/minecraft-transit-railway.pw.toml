@@ -3,11 +3,11 @@ filename = "MTR-forge-1.18.2-3.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.18.2-3.0.1/MTR-forge-1.18.2-3.0.1.jar"
 hash-format = "sha1"
 hash = "3ae6ee5384b38735b3f529866a1119782e8ba860"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3838020
-project-id = 266707
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "L5PZEkXK"

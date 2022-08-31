@@ -1,12 +1,12 @@
 name = "LemonCookiePack"
 author = "vladislemon"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e119e85efefb1131e0c5356e6c75a6eb942ddf28861b07536bb0b8abd3bbb388"
+hash = "ebddac69d356aa358f77938bd1ff4cc078782a696d8b289d2c82046c76f3800f"
 
 [versions]
 forge = "40.1.54"
