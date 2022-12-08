@@ -1,0 +1,13 @@
+name = "Lite Pack Server"
+author = "vladislemon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d11c19e8686695d8c54789546c23e31e1880c6bbcf4e0236e16f9e3fafaa8c70"
+
+[versions]
+forge = "40.1.86"
+minecraft = "1.18.2"
