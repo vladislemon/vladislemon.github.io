@@ -1,12 +1,12 @@
 name = "Lite Pack"
 author = "vladislemon"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ec01e7fdd1acd287ff346de4d0b71d850645873f06ebbc772eac9d19ef7dc6ed"
+hash = "bf1907c15f53097ba1fe96275c175c6db73a9fe5780d4557ab131dc3e8adc2bb"
 
 [versions]
 forge = "40.1.86"
