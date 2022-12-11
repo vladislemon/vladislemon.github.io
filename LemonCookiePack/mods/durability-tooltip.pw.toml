@@ -1,13 +1,13 @@
 name = "Durability Tooltip"
-filename = "durabilitytooltip-1.1.3-forge-mc1.18.jar"
+filename = "durabilitytooltip-1.1.4-forge-mc1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0ac9ad1609724be6ff27231b80c45bb704a420ab"
+hash = "34afd45195bf9a215e769d8b395e97a1e73d0df5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3939819
+file-id = 4016226
 project-id = 511040
