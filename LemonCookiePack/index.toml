@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "629e07e5a8dbe4e5323fed22acf1f7ccaec089ecd5904f5724caf029ba4aa748"
+hash = "fd752b0cd22ed8c263b8fd261674831cea83d6259784a8dfc767fa66926559ad"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "15a8e3759f395da24354f9313aca76449c87a4a69b4a720448f5248c5bcad367"
+hash = "7b67d42ac3d1e69c7a5e7aaba22b001dc3965d1c9f009dd9a38334f897ad0ad1"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
+hash = "550373c6cde926832ea77f0d5e6fda708e37323468caca5a32d8ae9b88baeea7"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "34c84af29ce8728c7b09857979eb47c0284e798e560d9c12cc1910ff2aeef483"
+hash = "1436267db6abd51ca826c1798394fc1b0d36ea3f1886bce461c9d3dd7dc7f9aa"
 metafile = true
 
 [[files]]
@@ -151,11 +151,6 @@ hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "01963e975a9a59f259dea3790009111e34c56640ce7d8272dedcd93239cac35c"
-metafile = true
-
-[[files]]
 file = "mods/farsight.pw.toml"
 hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
@@ -177,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
+hash = "9e0ad54ad0766fce2609aebb53f9f4e3a4b67dab325990fb498ef178e933b7a5"
 metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "4ad6ae7fa58aa2f1d7bde402b7fca56c32e4f20534317fa65073da3f33340e0e"
+hash = "b54758f8a03f324887043c56cf6284d1430b68c17e8159c59d398fe70b47fdf3"
 metafile = true
 
 [[files]]
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "1cf9de7c4f23a426b8cfadac340304e031e3043ad564a78caac685f2f521c559"
+hash = "e397bb0de80ce1a5991859332ad23f6eaeebebea401c22552e3ec4416b2eaf9f"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "b942507027c0cc43e68da2b799ac4bc29693c7218fecc55c35a97dd9c7fa0ab7"
+hash = "baa87005941e24020129354c6fc1e93f92251e7fc53383b907cd269c33fd32ff"
 metafile = true
 
 [[files]]
@@ -327,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "2e8e4488e9e4bf378f7a297bdc5399295c6cdab95460ab22637d46accc1fab33"
+hash = "f04e10ca7b9a412461e52c581a1e2995174344e34e2d8dd2699e60623aea37ca"
 metafile = true
 
 [[files]]
@@ -402,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "57636e52adb8aecd084e682f6015c5e2767ddf84b0149efcda6aa2eae31c2a07"
+hash = "9917ab370f6e9bcddcf45a2fe6ead50ce47591e0431abad95b8c1086bb5e9363"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7bdf9090b87e24d7a3edfefbde9e34c165a5dfceec9dd04167d7393ba3142864"
+hash = "f6fcea8dbfc6e72b787ace96f59550d928f0cf347df8f1e94018fe598c327f6e"
 metafile = true
 
 [[files]]
