@@ -16,6 +16,11 @@ hash = "6663077046f164b7ce5b0214b73b2d8e705e92ce8be2a841422ada7fbbb74d3b"
 metafile = true
 
 [[files]]
+file = "mods/alternate-terrain-generation.pw.toml"
+hash = "1f3d10295d32a166712df281b77edb47532c636ef4d9c59e9da054d00fe241b4"
+metafile = true
+
+[[files]]
 file = "mods/aobd.pw.toml"
 hash = "7cf3e205e54cf89bb80a5c8143cb35c2a95cf1f8fd6cc3360058fbd92faeed93"
 metafile = true
