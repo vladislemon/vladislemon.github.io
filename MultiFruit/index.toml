@@ -381,11 +381,6 @@ hash = "c141313cf04e807c762c1b8fe9ac8cd380a657b6f5c3f35bb0df0860b1b9b858"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-1.7.10-community-edition.pw.toml"
-hash = "14a33f30b3344bd0e3b75cc2c0bab2621a557c97e027e4b26cf67af35de622a7"
-metafile = true
-
-[[files]]
 file = "mods/minefactory-reloaded.pw.toml"
 hash = "07010584b084b6b3cf91fb7b29cbb0957d8d6e9def7df98bcb888e65db86c013"
 metafile = true
