@@ -1,0 +1,13 @@
+name = "Solar Flux"
+filename = "SolarFlux-1.7.10-0.8b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "434817ae44fb4bb412c764266b11d28c8c947d16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2250666
+project-id = 223548

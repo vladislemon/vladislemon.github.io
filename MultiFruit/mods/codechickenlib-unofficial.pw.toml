@@ -1,0 +1,13 @@
+name = "CodeChickenLib Unofficial"
+filename = "CodeChickenLib-1.7.10-1.1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7c1517b8cf3c525494a48a1c7a4c66efa8c6554"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4192688
+project-id = 746280

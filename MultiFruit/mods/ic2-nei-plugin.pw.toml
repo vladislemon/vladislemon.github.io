@@ -1,0 +1,7 @@
+name = "ic2-nei-plugin"
+filename = "IC2.Nei.Plugin.Version.1.1.0.jar"
+
+[download]
+url = "https://github.com/TinyModularThings/IC2-Nei-Plugin/releases/download/1.1.0/IC2.Nei.Plugin.Version.1.1.0.jar"
+hash-format = "sha1"
+hash = "f958b5a10036116de257bf624e50e7b0446a2275"

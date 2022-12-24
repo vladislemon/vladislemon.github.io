@@ -1,0 +1,13 @@
+name = "OreDictionaryConverter"
+filename = "OreDictionaryConverter-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7505b945d79aa0f891745250eb95bd62562d121f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2226312
+project-id = 227564

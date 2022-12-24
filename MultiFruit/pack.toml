@@ -1,0 +1,13 @@
+name = "MultiFruit"
+author = "vladislemon"
+version = "2.0.0-dev"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be385440c95616171856ddfda87872d2f869ace7ee23f243d433e32af813abf0"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

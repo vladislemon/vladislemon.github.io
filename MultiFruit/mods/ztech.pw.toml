@@ -1,0 +1,7 @@
+name = "ztech"
+filename = "ztech1.7.10-0.0.3.jar"
+
+[download]
+url = "https://vladislemon.github.io/third-party-mc-mods/ztech1.7.10-0.0.3.jar"
+hash-format = "sha1"
+hash = "33f8b2f0df676c76ea3ad5b830da85ea6859c25b"

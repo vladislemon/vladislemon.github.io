@@ -1,0 +1,7 @@
+name = "aobd"
+filename = "AOBD-2.9.2.jar"
+
+[download]
+url = "https://vladislemon.github.io/third-party-mc-mods/AOBD-2.9.2.jar"
+hash-format = "sha1"
+hash = "33c8c576e8d69b580985261805c3cd945ec43880"

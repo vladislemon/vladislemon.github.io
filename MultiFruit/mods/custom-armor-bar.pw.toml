@@ -1,0 +1,13 @@
+name = "Custom Armor Bar"
+filename = "overloadedarmorbar-1.7.10-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJUppOop/versions/1.0.0/overloadedarmorbar-1.7.10-1.0.0.jar"
+hash-format = "sha1"
+hash = "e930d1e0a982720af153617bb2cdb58cc350cbae"
+
+[update]
+[update.modrinth]
+mod-id = "fJUppOop"
+version = "DhhltppF"

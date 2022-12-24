@@ -1,0 +1,13 @@
+name = "Catwalks 2"
+filename = "catwalks-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4219276168e7841777db0361adb727f459d1ab39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2296725
+project-id = 236460

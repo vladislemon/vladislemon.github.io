@@ -1,0 +1,13 @@
+name = "FTB Utilities (Forge)"
+filename = "FTBUtilities-1.7.10-1.0.18.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8480ca22729204f2cc033a0b30b351432bc04cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2291494
+project-id = 237102

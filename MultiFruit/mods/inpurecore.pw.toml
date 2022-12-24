@@ -1,0 +1,13 @@
+name = "INpureCore"
+filename = "INpureCore-[1.7.10]1.0.0B9-62.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83e774abd91fa98e4ee809d724085116d0e155b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2238507
+project-id = 223792

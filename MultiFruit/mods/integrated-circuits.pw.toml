@@ -1,0 +1,7 @@
+name = "integrated-circuits"
+filename = "integratedcircuits-1.7.10-0.9r38.228.jar"
+
+[download]
+url = "https://vladislemon.github.io/third-party-mc-mods/integratedcircuits-1.7.10-0.9r38.228.jar"
+hash-format = "sha1"
+hash = "27efaf6c574855d60ac0607616bf79a82c0a2474"

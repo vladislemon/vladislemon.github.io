@@ -1,0 +1,13 @@
+name = "Leaf Culling"
+filename = "leafculling-mc1.7.10-1.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vDF8nXb3/versions/mD7v7XUS/leafculling-mc1.7.10-1.0.9.jar"
+hash-format = "sha1"
+hash = "d865a4c440bb290139b862e993d5db1397885a9e"
+
+[update]
+[update.modrinth]
+mod-id = "vDF8nXb3"
+version = "mD7v7XUS"

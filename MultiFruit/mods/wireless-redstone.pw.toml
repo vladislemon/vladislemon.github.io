@@ -1,0 +1,7 @@
+name = "wireless-redstone"
+filename = "WR-CBE-1.7.10-1.4.1.9-universal.jar"
+
+[download]
+url = "https://vladislemon.github.io/third-party-mc-mods/WR-CBE-1.7.10-1.4.1.9-universal.jar"
+hash-format = "sha1"
+hash = "0f5ec22e841ac08a1a27d0bdaf51bc10507ae8cf"
