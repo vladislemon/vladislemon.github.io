@@ -351,11 +351,6 @@ hash = "013e3526e64121394d2cd3e5d1390ba33bca4bacf13f67adb82a0b0d5feee329"
 metafile = true
 
 [[files]]
-file = "mods/lglegacy.pw.toml"
-hash = "7e0daee6045a550ef11e94acc39c25dd2113fbbe8e0a8f5296c69cccbd59dd97"
-metafile = true
-
-[[files]]
 file = "mods/logistics-pipes.pw.toml"
 hash = "0d0e57adb88b457dadf48794635abf0894b6590dd9431225a08bee47d024aeae"
 metafile = true
