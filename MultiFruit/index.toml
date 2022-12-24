@@ -56,6 +56,11 @@ hash = "dc5f706980eb319b8e761dbc5c59301424f2236a4d4989ca54a5df7d4b78a561"
 metafile = true
 
 [[files]]
+file = "mods/avaritia.pw.toml"
+hash = "9432dee3d5fba13170b9588e29d3ca5e3e0f0675c4efcd93ec3d2d8464717d0b"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
