@@ -1,0 +1,13 @@
+name = "EndlessIDs"
+filename = "endlessids-mc1.7.10-1.4.0-beta0003.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qGHY4QGo/versions/h9XLyr0q/endlessids-mc1.7.10-1.4.0-beta0003.jar"
+hash-format = "sha1"
+hash = "e307d732efd606bb08f11819ede161770771274d"
+
+[update]
+[update.modrinth]
+mod-id = "qGHY4QGo"
+version = "h9XLyr0q"

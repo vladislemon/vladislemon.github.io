@@ -21,6 +21,11 @@ hash = "1f3d10295d32a166712df281b77edb47532c636ef4d9c59e9da054d00fe241b4"
 metafile = true
 
 [[files]]
+file = "mods/animfix.pw.toml"
+hash = "0166b315bdd42bc981aec158ea2432cdbc4783c4c275fc9d64faa3049a46d127"
+metafile = true
+
+[[files]]
 file = "mods/aobd.pw.toml"
 hash = "7cf3e205e54cf89bb80a5c8143cb35c2a95cf1f8fd6cc3360058fbd92faeed93"
 metafile = true
@@ -46,6 +51,11 @@ hash = "4418f884b662d783f51f219c361aecfa8875047b121b828d4dcf7c79ed6f773d"
 metafile = true
 
 [[files]]
+file = "mods/audino.pw.toml"
+hash = "dc5f706980eb319b8e761dbc5c59301424f2236a4d4989ca54a5df7d4b78a561"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
@@ -53,6 +63,16 @@ metafile = true
 [[files]]
 file = "mods/bdlib.pw.toml"
 hash = "d9016e994a24c00cabc4f0d738a4c51d5e508c09d11a1c220627736fc379a09d"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "7b396112c33121377cd7c6146d274832982bbf68312db1246d70aee40d171cb8"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "14fa4fac8d12ca6bef0104a0666256dc8c24b7693672d6be4e31c4d543c26007"
 metafile = true
 
 [[files]]
@@ -116,6 +136,11 @@ hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "3e50649ee1e6ba0395f3c4e0001e7d5cb3090967fb94a933724700b86db6c26f"
+metafile = true
+
+[[files]]
 file = "mods/compacter.pw.toml"
 hash = "adb5402616dbf6f9b0202256c05f4d315822980e9638ae52196fe3294650826c"
 metafile = true
@@ -133,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/custom-armor-bar.pw.toml"
 hash = "932cf54f736868300036d51d75b27e494f15ae8a2d61085ee19c25056016c7a7"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "63d14af2db154effb6e43970af2947522cd141625f754eb3bab021e613acab79"
 metafile = true
 
 [[files]]
@@ -166,6 +196,16 @@ hash = "8a90610b2b49731ea0a985bf924bfc79664b9a3fc31e18f4863240785905bc43"
 metafile = true
 
 [[files]]
+file = "mods/endlessids.pw.toml"
+hash = "816027183bca12463847ce8d4e543b65bcc1460a33036366351a934c2d77d9d1"
+metafile = true
+
+[[files]]
+file = "mods/erde.pw.toml"
+hash = "52475efc6d526e7195216bd9cd65a04860b15b6c4aebfb14d144d9f28c1cfd1c"
+metafile = true
+
+[[files]]
 file = "mods/extra-cells-2-samlam140330s-fork.pw.toml"
 hash = "2cfc94710554608853aea5f9543ee087f0b5c9515a70594e727a51f806710151"
 metafile = true
@@ -181,6 +221,11 @@ hash = "2d94d6457b6e0f8859b0bf265d1f3fda35c0e085f04bd13258e3f0defee976ce"
 metafile = true
 
 [[files]]
+file = "mods/farseek.pw.toml"
+hash = "fb336f1365e5d3ef2154848d93194943a3f529a73515d73e507cd1292cb8c8fc"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
@@ -188,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/fastcraft.pw.toml"
 hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+hash = "82aa6464c6bbb43ca459b937ee8e9c2dd23789f7c16415b1778d7e335a60f43d"
 metafile = true
 
 [[files]]
@@ -296,6 +346,11 @@ hash = "013e3526e64121394d2cd3e5d1390ba33bca4bacf13f67adb82a0b0d5feee329"
 metafile = true
 
 [[files]]
+file = "mods/lglegacy.pw.toml"
+hash = "7e0daee6045a550ef11e94acc39c25dd2113fbbe8e0a8f5296c69cccbd59dd97"
+metafile = true
+
+[[files]]
 file = "mods/logistics-pipes.pw.toml"
 hash = "0d0e57adb88b457dadf48794635abf0894b6590dd9431225a08bee47d024aeae"
 metafile = true
@@ -326,6 +381,11 @@ hash = "c141313cf04e807c762c1b8fe9ac8cd380a657b6f5c3f35bb0df0860b1b9b858"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-1.7.10-community-edition.pw.toml"
+hash = "14a33f30b3344bd0e3b75cc2c0bab2621a557c97e027e4b26cf67af35de622a7"
+metafile = true
+
+[[files]]
 file = "mods/minefactory-reloaded.pw.toml"
 hash = "07010584b084b6b3cf91fb7b29cbb0957d8d6e9def7df98bcb888e65db86c013"
 metafile = true
@@ -338,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
 
 [[files]]
@@ -521,6 +586,11 @@ hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
 
 [[files]]
+file = "mods/streams.pw.toml"
+hash = "bac002375e036a84c6dfcf35db12d1720cb4a16a2912be7d751316e4dd14597b"
+metafile = true
+
+[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "7b19fb2ec0270e2705af2419239120cbf3eb9116982e8f18c2ee99356a87d201"
 metafile = true
@@ -538,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/turbo.pw.toml"
 hash = "5c930bce65b0458b5656143b369334442837e8c574edf646f7c1a265f25cd52c"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "3bc49fc971a2ed20c8379c091f46c1dd5c2daf84fb460f1a071eb05cebcdf81f"
 metafile = true
 
 [[files]]
