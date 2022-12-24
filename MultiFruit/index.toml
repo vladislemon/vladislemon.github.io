@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur.pw.toml"
-hash = "7e28be42219c7f22d2de94b05b838ae332967c5469d1e56a719f339cb28f82eb"
+hash = "b875c033f398b639b3ebdb782e79a15c598e0b00896579ed7e41e7723be740c6"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview.pw.toml"
-hash = "09224c5f2d67746149535ae4a9aa57b523fd71c979a924926f93b480c5847cc7"
+hash = "158a9ad143d6eb1842b6f001fd426438d1a96a5f59adefa72b19114c75e789ab"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ed858eedaab2e93b2a4dbc031071548dc90ea77f4f7f2b9522f0b908fadb3e73"
+hash = "355ee94c6fdd9039f134f1a0bc525c90a0f30c173ac385415a7d167d5803fe2c"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-armor-bar.pw.toml"
-hash = "61607344b705025cd2c59b977b8039f324cfa3ecbe141cf14ee68a31276e1894"
+hash = "932cf54f736868300036d51d75b27e494f15ae8a2d61085ee19c25056016c7a7"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/resiever.pw.toml"
-hash = "0f2c38574a8646d4d8aefd129732a020cab4556a172ea71e6ef133d4664620af"
+hash = "20dac8074ec945b190ff8298524cbb3f31fe5db6a41e1e106e61e73de00d084a"
 metafile = true
 
 [[files]]
