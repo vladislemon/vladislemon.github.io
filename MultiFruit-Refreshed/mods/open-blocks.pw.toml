@@ -1,0 +1,7 @@
+name = "open-blocks"
+filename = "OpenBlocks-1.6.10-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.6.10-GTNH/OpenBlocks-1.6.10-GTNH.jar"
+hash-format = "sha1"
+hash = "4d6c7d145c908397b8a8ee0594ad66f050f8c2d2"

@@ -1,0 +1,7 @@
+name = "controlling"
+filename = "controlling-1.0.0.5.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Controlling/releases/download/1.0.0.5/controlling-1.0.0.5.jar"
+hash-format = "sha1"
+hash = "efbb24e532b41e9d135863aa10255833c682a84e"

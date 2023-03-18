@@ -1,0 +1,7 @@
+name = "gravisuiteneo"
+filename = "gravisuiteneo-1.0.8.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.0.8/gravisuiteneo-1.0.8.jar"
+hash-format = "sha1"
+hash = "548868cfc44303deac5b3bb770eeeaba16470ff8"

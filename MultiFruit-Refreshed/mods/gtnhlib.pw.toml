@@ -1,0 +1,13 @@
+name = "GTNH Lib"
+filename = "gtnhlib-0.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/Xn4O8qI1/gtnhlib-0.0.13.jar"
+hash-format = "sha1"
+hash = "ca7dd89df945dde9b5979a62be6f975a0e9fdc5c"
+
+[update]
+[update.modrinth]
+mod-id = "vTvnv7qp"
+version = "Xn4O8qI1"

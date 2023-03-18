@@ -1,0 +1,7 @@
+name = "BetterAchievements"
+filename = "BetterAchievements-1.7.10-0.1.3.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.1.3/BetterAchievements-1.7.10-0.1.3.jar"
+hash-format = "sha1"
+hash = "e0237620b664f7167fff1e0671b85679eed58e1d"

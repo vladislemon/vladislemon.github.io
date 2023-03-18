@@ -1,0 +1,7 @@
+name = "mouse-tweaks"
+filename = "MouseTweaks-2.4.8-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.8-GTNH/MouseTweaks-2.4.8-GTNH.jar"
+hash-format = "sha1"
+hash = "e7ed4f1b9269e73eba9c09845c4498cb8d7256c3"

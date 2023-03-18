@@ -1,0 +1,7 @@
+name = "CarpentersBlocks"
+filename = "CarpentersBlocks-1.7.10-3.3.8.2-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.3.8.2-GTNH/CarpentersBlocks-1.7.10-3.3.8.2-GTNH.jar"
+hash-format = "sha1"
+hash = "8799178fd9e132e208eb28eff94f6eadb642a1cd"

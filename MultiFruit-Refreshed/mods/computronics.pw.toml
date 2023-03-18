@@ -1,0 +1,7 @@
+name = "Computronics"
+filename = "Computronics-1.6.19-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Computronics/releases/download/1.6.19-GTNH/Computronics-1.6.19-GTNH.jar"
+hash-format = "sha1"
+hash = "d8e50cc6c6c5756b291c146f3c672c7b026b5df5"

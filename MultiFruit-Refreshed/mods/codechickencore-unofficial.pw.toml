@@ -1,0 +1,13 @@
+name = "CodeChickenCore Unofficial 1.7.10"
+filename = "CodeChickenCore-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qMOdaUOs/versions/uK1V66Fl/CodeChickenCore-1.1.11.jar"
+hash-format = "sha1"
+hash = "441c75c3ed60d571da38afd4820334ae4a6eb5fb"
+
+[update]
+[update.modrinth]
+mod-id = "qMOdaUOs"
+version = "uK1V66Fl"

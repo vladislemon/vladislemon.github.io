@@ -1,0 +1,13 @@
+name = "Multi Fruit Refreshed"
+author = "vladislemon"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09c46a4e2a968d4119705f18a9dc0b523527589b35f217edba621097f3ba69bd"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"
