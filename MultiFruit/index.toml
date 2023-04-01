@@ -311,6 +311,11 @@ hash = "051421d4db8256eb5149b934f23cc4426785165ed9aafb0a9b50b2bbaf91a395"
 metafile = true
 
 [[files]]
+file = "mods/neodymium.pw.toml"
+hash = "48ae8f687d461782c60502d91195da34e64771a9a14f48d2a973a405ef3143c4"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "57453af164305a3a506a4e89682fc95044a8ea7bac86a6a15f55f1363cd944bd"
 metafile = true
