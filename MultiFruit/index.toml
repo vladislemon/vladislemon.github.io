@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/overloadedarmorbar.pw.toml"
-hash = "972ea5781c8b9e91e8007a9ddec2f1b0d28ffb08d5159752454fabf41e0b5b83"
+hash = "dec692200ed3248bcbe4aa8d080eeda601488150c07a85512173f920747669f7"
 metafile = true
 
 [[files]]
