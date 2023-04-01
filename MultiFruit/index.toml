@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur.pw.toml"
-hash = "7e28be42219c7f22d2de94b05b838ae332967c5469d1e56a719f339cb28f82eb"
+hash = "b875c033f398b639b3ebdb782e79a15c598e0b00896579ed7e41e7723be740c6"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickenlib-unofficial.pw.toml"
-hash = "64a4fbe206a9ed5b9d32171151d83d362e3415075154d6311e5f7dd971ce56e1"
+hash = "c99ba4a5bafd50e68e31f722daf2a301734b9f081f50e5a144f3e93359f226de"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "5df5afd2232ffe3ce444d087a9b39c1760870d094189c3d559eb8a1b332671fe"
+hash = "8e46b73188bbcd321a7a0deb26701639b5066ada0b721798fdedd5437f0b180f"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/overloadedarmorbar.pw.toml"
-hash = "c0090691967301a233265e01ccfba5a0728def3b8c64dae91cee80f1d9433ae7"
+hash = "972ea5781c8b9e91e8007a9ddec2f1b0d28ffb08d5159752454fabf41e0b5b83"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-reloader.pw.toml"
-hash = "90cb2f08820037faa7de05b0e9b44d736ed8e1f1a698bc8560b1583c35e2999c"
+hash = "828857199888d89aa53c5ccdd1b4005fa082da1b01b8cb2dde196127159529eb"
 metafile = true
 
 [[files]]
