@@ -1,7 +1,0 @@
-name = "forestry"
-filename = "Forestry-4.5.9-pre.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.5.9-pre/Forestry-4.5.9-pre.jar"
-hash-format = "sha1"
-hash = "0ad91e613cf35dbf6325f402dd22232426b3cb40"

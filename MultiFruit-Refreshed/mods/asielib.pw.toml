@@ -1,7 +1,0 @@
-name = "AsieLib"
-filename = "AsieLib-1.7.10-0.5.3.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/AsieLib/releases/download/0.5.3/AsieLib-1.7.10-0.5.3.jar"
-hash-format = "sha1"
-hash = "10fefb421564a2b95918a835ff67dd299d6eb04a"

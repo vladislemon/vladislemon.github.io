@@ -1,7 +1,0 @@
-name = "nei-integration"
-filename = "NEIIntegration-MC1.7.10-1.1.2.jar"
-
-[download]
-url = "https://vladislemon.github.io/third-party-mc-mods/NEIIntegration-MC1.7.10-1.1.2.jar"
-hash-format = "sha1"
-hash = "faa216961fee0d2edb1fb5ad353dae9122db04b7"

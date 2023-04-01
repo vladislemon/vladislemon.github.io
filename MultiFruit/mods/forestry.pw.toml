@@ -1,13 +1,7 @@
-name = "Forestry"
-filename = "forestry_1.7.10-4.2.16.64.jar"
-side = "both"
+name = "forestry"
+filename = "Forestry-4.6.3.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.6.3/Forestry-4.6.3.jar"
 hash-format = "sha1"
-hash = "93c294b2f463890fd9de575e6ce6d71d931bc3f4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2333823
-project-id = 59751
+hash = "872a24fcad7e022ddb69bea59938f4abb56f5efc"

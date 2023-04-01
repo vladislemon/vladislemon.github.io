@@ -1,13 +1,7 @@
-name = "UniDict"
-filename = "UniDict-1.7.10-2.9.2.jar"
-side = "both"
+name = "unidict"
+filename = "UniDict-mc1.7.10-2.9.3.jar"
 
 [download]
+url = "https://github.com/vladislemon/UniDict/releases/download/2.9.3/UniDict-mc1.7.10-2.9.3.jar"
 hash-format = "sha1"
-hash = "345c1da13949f200705b40388b74e9bd88dc6ad9"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2329986
-project-id = 244258
+hash = "bd989c5afdea9c0da39005491ab94881f6cff9bc"

@@ -1,7 +1,0 @@
-name = "void-tech"
-filename = "VoidTech-1.7.10_1.3.jar"
-
-[download]
-url = "https://www.mikej.de/minecraft/mcfiles/VoidTech-1.7.10_1.3.jar"
-hash-format = "sha1"
-hash = "8af3f7f504787bde020a113ef319e5e77c60cf9f"

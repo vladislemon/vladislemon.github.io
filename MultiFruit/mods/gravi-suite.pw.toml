@@ -1,7 +1,0 @@
-name = "gravi-suite"
-filename = "4519-gravisuite-1-7-10-2-0-3-jar"
-
-[download]
-url = "https://forum.industrial-craft.net/core/attachment/4519-gravisuite-1-7-10-2-0-3-jar/"
-hash-format = "sha1"
-hash = "176c2c7530440a440b60a1b9f9a21caeb6589155"

@@ -1,13 +1,7 @@
-name = "INpureCore"
-filename = "INpureCore-[1.7.10]1.0.0B9-62.jar"
-side = "both"
+name = "inpurecore"
+filename = "INpureCore-1.1.5-GTNH.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/INpureCore/releases/download/1.1.5-GTNH/INpureCore-1.1.5-GTNH.jar"
 hash-format = "sha1"
-hash = "83e774abd91fa98e4ee809d724085116d0e155b6"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2238507
-project-id = 223792
+hash = "8f24641cfca14903c1a483155f497d0ddef88d3f"

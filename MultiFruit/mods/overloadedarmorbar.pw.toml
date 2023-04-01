@@ -1,0 +1,8 @@
+name = "overloadedarmorbar"
+filename = "overloadedarmorbar-1.7.10-1.0.1.jar"
+side = client
+
+[download]
+url = "https://github.com/GTNewHorizons/OverloadedArmorBar/releases/download/1.0.1/overloadedarmorbar-1.7.10-1.0.1.jar"
+hash-format = "sha1"
+hash = "de3a5531c10f190ecff13a601af3f3213f9b1de4"

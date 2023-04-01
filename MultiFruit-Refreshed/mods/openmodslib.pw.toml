@@ -1,7 +1,0 @@
-name = "OpenModsLib"
-filename = "OpenModsLibs-1.7.10-0.10.6.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.6/OpenModsLibs-1.7.10-0.10.6.jar"
-hash-format = "sha1"
-hash = "0e2ca3ad82e7d5899a66b71beefc6ade0db2c9a9"

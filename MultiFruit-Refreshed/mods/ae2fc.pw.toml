@@ -1,7 +1,0 @@
-name = "ae2fc"
-filename = "ae2fc-1.1.0-gtnh.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.1.0-gtnh/ae2fc-1.1.0-gtnh.jar"
-hash-format = "sha1"
-hash = "cf92739a6765ee1aba881b9a61eaa393efa3d52a"

@@ -1,13 +1,8 @@
-name = "Controlling"
-filename = "Controlling-1.7.10-1.0.0.4.jar"
+name = "controlling"
+filename = "controlling-1.0.0.5.jar"
 side = "client"
 
 [download]
+url = "https://github.com/GTNewHorizons/Controlling/releases/download/1.0.0.5/controlling-1.0.0.5.jar"
 hash-format = "sha1"
-hash = "3a816187749c6bbbff25259efbc538c8ddc6ecba"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4173844
-project-id = 250398
+hash = "efbb24e532b41e9d135863aa10255833c682a84e"

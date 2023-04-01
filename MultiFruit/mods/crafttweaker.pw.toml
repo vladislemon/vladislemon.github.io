@@ -1,13 +1,7 @@
-name = "CraftTweaker"
-filename = "CraftTweaker-1.7.10-3.1.0-legacy.jar"
-side = "both"
+name = "crafttweaker"
+filename = "CraftTweaker-3.2.11.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/CraftTweaker-3.2.11.jar"
 hash-format = "sha1"
-hash = "ecd735d334578d127b75fc4a680a2a8043e0f5d5"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2838720
-project-id = 239197
+hash = "e42ad4d965476a2d4101b0e91d36fc5117e726de"

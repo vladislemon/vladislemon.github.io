@@ -1,13 +1,13 @@
-name = "RFTools"
+name = "RFTools (Legacy)"
 filename = "rftools-4.23.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/FwyGRcXc/versions/yh0gvwT5/rftools-4.23.jar"
 hash-format = "sha1"
 hash = "f68cb455b9bd7b88054bfb82c534a0f2e609374b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2287287
-project-id = 224641
+[update.modrinth]
+mod-id = "FwyGRcXc"
+version = "yh0gvwT5"

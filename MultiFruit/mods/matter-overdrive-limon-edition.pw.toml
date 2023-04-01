@@ -1,7 +1,0 @@
-name = "matter-overdrive-limon-edition"
-filename = "MatterOverdrive-1.7.10-0.4.1_limonEdition.jar"
-
-[download]
-url = "https://vladislemon.github.io/third-party-mc-mods/MatterOverdrive-1.7.10-0.4.1_limonEdition.jar"
-hash-format = "sha1"
-hash = "e9295c03b8143458fcaba73bc134cda1c03dee15"

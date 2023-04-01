@@ -1,7 +1,0 @@
-name = "neiaddons"
-filename = "NEIAddons-1.7.10-1.12.22.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/neiaddons/releases/download/1.12.22/NEIAddons-1.7.10-1.12.22.jar"
-hash-format = "sha1"
-hash = "4638564b54e570ee39704020aacd3d05c623874a"

@@ -1,13 +1,7 @@
-name = "Chisel"
-filename = "Chisel-2.9.5.11.jar"
-side = "both"
+name = "chisel"
+filename = "chisel-2.10.17-GTNH.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.10.17-GTNH/chisel-2.10.17-GTNH.jar"
 hash-format = "sha1"
-hash = "d9e4b54913bbd38543ab873043145e3b4992bf95"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2287442
-project-id = 235279
+hash = "f8b7acf4b59aa68456c23acffc014a5dc92299f7"

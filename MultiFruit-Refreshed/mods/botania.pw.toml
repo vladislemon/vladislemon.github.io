@@ -1,7 +1,0 @@
-name = "botania"
-filename = "Botania-1.9.16-GTNH.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/Botania/releases/download/1.9.16-GTNH/Botania-1.9.16-GTNH.jar"
-hash-format = "sha1"
-hash = "5b04b40006fcc67e48da6abe76146d93b0865c5e"

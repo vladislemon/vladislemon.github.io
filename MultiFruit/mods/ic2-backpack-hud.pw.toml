@@ -1,7 +1,0 @@
-name = "ic2-backpack-hud"
-filename = "ic2-backpack-hud-3.0-1.7.10.jar"
-
-[download]
-url = "https://vladislemon.github.io/third-party-mc-mods/ic2-backpack-hud-3.0-1.7.10.jar"
-hash-format = "sha1"
-hash = "7f785fcdb89a44cf777a0e65d509224b95833827"

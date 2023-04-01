@@ -1,13 +1,7 @@
-name = "Inventory Tweaks [1.12 only] "
-filename = "InventoryTweaks-1.59-dev-152.jar"
-side = "both"
+name = "inventory-tweaks"
+filename = "inventorytweaks-1.5.16.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.5.16/inventorytweaks-1.5.16.jar"
 hash-format = "sha1"
-hash = "3643e09b93e66c5690de7b9c3daa62da7789e7f5"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2210792
-project-id = 223094
+hash = "534457976e48525c33a14fcdd4922d14ebc94308"

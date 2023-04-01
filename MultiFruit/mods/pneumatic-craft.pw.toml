@@ -2,6 +2,6 @@ name = "pneumatic-craft"
 filename = "PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
 
 [download]
-url = "https://vladislemon.github.io/third-party-mc-mods/PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
+url = "https://vladislemon.github.io/mod-jars/PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
 hash-format = "sha1"
 hash = "b606e82ebb9bdab13f0d3e87c9700f4bb3de1eb4"

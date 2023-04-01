@@ -1,0 +1,7 @@
+name = "lwjgl3ify"
+filename = "lwjgl3ify-1.3.4.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/1.3.4/lwjgl3ify-1.3.4.jar"
+hash-format = "sha1"
+hash = "1f77282aacba91b9b42e228d2f5e0718183273f5"

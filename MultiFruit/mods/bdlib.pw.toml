@@ -1,13 +1,7 @@
-name = "BdLib"
-filename = "bdlib-1.9.4.109-mc1.7.10.jar"
-side = "both"
+name = "bdlib"
+filename = "bdlib-1.7.10-1.9.8-GTNH.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/bdlib/releases/download/1.9.8-GTNH/bdlib-1.7.10-1.9.8-GTNH.jar"
 hash-format = "sha1"
-hash = "f9d965a3b66f4e2cbe392217ce9fe7ca753611cb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2269259
-project-id = 70496
+hash = "6d792210c30787af42505d45e1aa7645ab21c119"

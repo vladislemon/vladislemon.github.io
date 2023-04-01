@@ -1,13 +1,7 @@
-name = "Buildcraft Compat"
-filename = "buildcraft-compat-7.1.8.jar"
-side = "both"
+name = "buildcraft-compat"
+filename = "buildcraft-compat-1.7.10-7.1.12.jar"
 
 [download]
+url = "https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.1.12/buildcraft-compat-1.7.10-7.1.12.jar"
 hash-format = "sha1"
-hash = "5e5f8d2106e44b9fd695d203d8ab258fd14f06bd"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3538654
-project-id = 233140
+hash = "c17ecdff12e60073854d2b3bf8821e14e3696285"

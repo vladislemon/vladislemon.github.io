@@ -1,0 +1,7 @@
+name = "enderio"
+filename = "EnderIO-2.4.9.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderIO/releases/download/2.4.9/EnderIO-2.4.9.jar"
+hash-format = "sha1"
+hash = "3d7b52b971e29768caeb17444ae042fd4a15d324"
