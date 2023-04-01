@@ -1,13 +1,7 @@
-name = "Realistic Terrain Generation"
+name = "realistic-terrain-generation"
 filename = "RTG-1.7.10-1.1.1.7.jar"
-side = "both"
 
 [download]
+url = "https://github.com/Team-RTG/Realistic-Terrain-Generation/releases/download/v1.7.10-1.1.1.7/RTG-1.7.10-1.1.1.7.jar"
 hash-format = "sha1"
 hash = "7d542c0e06b4a543468f033e365fee01d8bdd91b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2521557
-project-id = 237989
