@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/unofficial-gs.pw.toml"
-hash = "626a7d7f05653fce3ac454a46959c3038e4ccc2454530a35c9f7462dc5df1647"
+hash = "52d5afc1ad187a09d264623bac5dc1e9bdc588650dbacd9c3796e63de543b92c"
 metafile = true
 
 [[files]]
