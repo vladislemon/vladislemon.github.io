@@ -61,6 +61,11 @@ hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
 
 [[files]]
+file = "mods/block-replacement-mc1.7.10.pw.toml"
+hash = "24223f948e3e33202fc955ab324b719a92ba19c9b69bc6f1bdfc8c6083fc7870"
+metafile = true
+
+[[files]]
 file = "mods/blur.pw.toml"
 hash = "b875c033f398b639b3ebdb782e79a15c598e0b00896579ed7e41e7723be740c6"
 metafile = true
