@@ -311,6 +311,11 @@ hash = "25aaf8e821925ccd421be7f00b8d4bd15e7390fa7700b5667e6e5fee4e13ffab"
 metafile = true
 
 [[files]]
+file = "mods/nei-addons.pw.toml"
+hash = "a9cc1f7ec965f7a9d0ab5b39d62dd3cd76ecf8ae4940f82843d28d5e4e1fe73e"
+metafile = true
+
+[[files]]
 file = "mods/neiintegration.pw.toml"
 hash = "051421d4db8256eb5149b934f23cc4426785165ed9aafb0a9b50b2bbaf91a395"
 metafile = true
