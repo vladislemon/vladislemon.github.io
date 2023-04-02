@@ -166,6 +166,11 @@ hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
 
 [[files]]
+file = "mods/fastcraft.pw.toml"
+hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
+metafile = true
+
+[[files]]
 file = "mods/forestry.pw.toml"
 hash = "131ed3073887c3bad06c5523e08a5c99c0de5eb923def2dda701f126ff16ff5a"
 metafile = true
