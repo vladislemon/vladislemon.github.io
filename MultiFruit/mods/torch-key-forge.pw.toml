@@ -1,0 +1,13 @@
+name = "Torch Key [Forge]"
+filename = "torchkey-mc1.7.10-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "543e6505aa6daf235d2c6e76515dddab5ed67c2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4471385
+project-id = 422690

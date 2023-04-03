@@ -466,6 +466,11 @@ hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
 metafile = true
 
 [[files]]
+file = "mods/torch-key-forge.pw.toml"
+hash = "9660c2b98eb730eb6a4ea0506319d118b5c591c4cab42075f422234ada9a7c01"
+metafile = true
+
+[[files]]
 file = "mods/translocator.pw.toml"
 hash = "9e851cb07ed0d60feb35009961ef7eb7544a7a0fd5913ee6e2c571b8e8c2da0a"
 metafile = true
