@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-key-forge.pw.toml"
-hash = "9660c2b98eb730eb6a4ea0506319d118b5c591c4cab42075f422234ada9a7c01"
+hash = "a6614bd4a7300b0faffafd438bfe32ba80645d80233a54291ebde438dfa5ef38"
 metafile = true
 
 [[files]]
