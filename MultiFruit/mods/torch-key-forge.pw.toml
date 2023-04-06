@@ -1,13 +1,13 @@
 name = "Torch Key [Forge]"
-filename = "torchkey-mc1.7.10-1.0.0.jar"
+filename = "torchkey-mc1.7.10-1.0.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "543e6505aa6daf235d2c6e76515dddab5ed67c2e"
+hash = "eac8901831cfb2c49e55b226972ca444e0b40cb9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4471385
+file-id = 4478055
 project-id = 422690
