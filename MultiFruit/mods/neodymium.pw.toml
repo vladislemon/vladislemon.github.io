@@ -1,5 +1,6 @@
 name = "neodymium"
 filename = "neodymium-1.7.10-0.1.8.4.jar"
+side = "client"
 
 [download]
 url = "https://github.com/makamys/Neodymium/releases/download/0.1.8.4/neodymium-1.7.10-0.1.8.4.jar"
