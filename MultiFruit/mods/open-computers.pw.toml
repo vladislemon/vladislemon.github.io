@@ -1,7 +1,7 @@
 name = "open-computers"
-filename = "OpenComputers-1.9.0-GTNH.jar"
+filename = "OpenComputers-1.9.12-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.9.0-GTNH/OpenComputers-1.9.0-GTNH.jar"
+url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.9.12-GTNH/OpenComputers-1.9.12-GTNH.jar"
 hash-format = "sha1"
-hash = "e3bfbada752a47a685f58e91f7be86dd40a0ce15"
+hash = "49c4fe85a1c8bf646a8cec426ac49b4beefba13f"

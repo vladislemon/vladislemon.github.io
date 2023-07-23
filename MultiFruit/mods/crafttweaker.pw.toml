@@ -1,7 +1,7 @@
 name = "crafttweaker"
-filename = "CraftTweaker-3.2.11.jar"
+filename = "CraftTweaker-3.2.13.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/CraftTweaker-3.2.11.jar"
+url = "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.13/CraftTweaker-3.2.13.jar"
 hash-format = "sha1"
-hash = "e42ad4d965476a2d4101b0e91d36fc5117e726de"
+hash = "2eb55dc71fb969f611d98fd17637189993240f1c"

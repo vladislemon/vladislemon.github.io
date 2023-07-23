@@ -1,7 +1,7 @@
 name = "buildcraft"
-filename = "buildcraft-7.1.31.jar"
+filename = "buildcraft-7.1.36.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.31/buildcraft-7.1.31.jar"
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.36/buildcraft-7.1.36.jar"
 hash-format = "sha1"
-hash = "63c40980816a80d3ee88ad22cf1f7abca3adfc16"
+hash = "ca4e760f5aa72a296b17103b55962d0ef10fc497"

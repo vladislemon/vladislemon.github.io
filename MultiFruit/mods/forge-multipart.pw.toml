@@ -1,7 +1,7 @@
 name = "forge-multipart"
-filename = "ForgeMultipart-1.3.2.jar"
+filename = "ForgeMultipart-1.3.4.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.3.2/ForgeMultipart-1.3.2.jar"
+url = "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.3.4/ForgeMultipart-1.3.4.jar"
 hash-format = "sha1"
-hash = "5c5468e55635cfa971a34e0236af1fd402863ecc"
+hash = "e1728448d09bf1e4e472bc5459dcf9d025b1e353"
