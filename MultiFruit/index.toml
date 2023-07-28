@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapwriter.pw.toml"
-hash = "e8c98cb0b7970f7f9d564ffd5c3e3a4cda80e62faa63291cb47fb722d0fed01d"
+hash = "ffaf91e162ac52cd7c2e6d4eecef61f99dde376608b8aa4e3d7737e7faba4d1e"
 metafile = true
 
 [[files]]
