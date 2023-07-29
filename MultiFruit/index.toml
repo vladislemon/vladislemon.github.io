@@ -1,6 +1,1194 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AT_Recipes.txt"
+hash = "baecd769cd398684da7e88a41c8ad853d8fa7dcb7b0cfb7c2f23b63ac654abb6"
+
+[[files]]
+file = "config/AdvancedSolarPanel.cfg"
+hash = "9e762ff0917ad7fb5bb6f0385032cdac8102e0157a2457b46187e235b027bc11"
+
+[[files]]
+file = "config/AdvancedSolarPanel_MTRecipes.cfg"
+hash = "5267c1f5e34e24340fa4f26437c72c96214c90b9ebd505b8cc57a58243f7b0e4"
+
+[[files]]
+file = "config/AppleCore.cfg"
+hash = "f735f69cf6b6a5d887e8823687d09a0980a0c9ca40dd54d6443c6250bcf9a6e1"
+
+[[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "3f2a714d02e167e157cff24b9d338ef856cc34dee80587f62067280970c694f7"
+
+[[files]]
+file = "config/AppliedEnergistics2/CustomRecipes.cfg"
+hash = "097646e3565855f00d1cf8fbac25eb034796d04b5afc5147b61aff7b7ead2fbb"
+
+[[files]]
+file = "config/AppliedEnergistics2/Facades.cfg"
+hash = "10d1b559b1f7ee0ff23f5e5b89dbddbbd35205cc27acd8e8fb7cd12ebb7866a2"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "5355fadbd4c6f72a4780417c7c2cdf9d843189861ffbe56964d672fc7d8e4c87"
+
+[[files]]
+file = "config/Botania.cfg"
+hash = "a4c9956837d9b01d9fcc731e2db4e9299a1546cc42598f1716d94cb5cce4f52f"
+
+[[files]]
+file = "config/CarpentersBlocks.cfg"
+hash = "da706551e55e3ef5f7b99d3587483a70a6e224e686b1a3ae932a5fa393a2179c"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "30c749f82ffd8453db5501a568c394a5addf171ff20e2fc6cf6f40a2a49fa2d4"
+
+[[files]]
+file = "config/CompactMachines.cfg"
+hash = "24c2164a3b44c3228b8b95a8b6615d457045718409b21cfccc725336b2999343"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "2dd262fb9bac2de752d7bf310d05781da07149801300eb93cedbf269201bd856"
+
+[[files]]
+file = "config/ExtraUtilities.cfg"
+hash = "242f29481a75bf1629f4f7f8bb5f66bf3e31bb9dd67e2014e08abfbe572b123d"
+
+[[files]]
+file = "config/ForgeRelocation.cfg"
+hash = "dd0fcf0f812931f6bfe7e1eebc4eb334ba4b62bcd703219535b20bf9a0500cf3"
+
+[[files]]
+file = "config/GraviSuite.cfg"
+hash = "e42fee41fa5882048fe904f09bb8f2cf256097f173b514631bcdca6dcffbbad4"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "7cd3f594ca4ec6685b667ee1a24d7998495f3fe3b8196846bc367d116cebad6a"
+
+[[files]]
+file = "config/IC2NuclearControl.cfg"
+hash = "a479659284fa2d4587451febc0c9050cba435d04dc03822bc0c4ba89c8fa9215"
+
+[[files]]
+file = "config/IGWMod.cfg"
+hash = "52cd917ee9452639272289581db8c5cd4d299326b68bf80a04b1d13f5362d784"
+
+[[files]]
+file = "config/INpureProjects/INpureCore/INpureCore.cfg"
+hash = "a21ff24dcd6f6af4ffa9e445f8ff13d095fe68fc8cd01d554b0c0ad021c9a195"
+
+[[files]]
+file = "config/Ic2Nei.cfg"
+hash = "3f33e71ad2046845fd27d6f406e26174ff03257e213796d34d350523a710acf7"
+
+[[files]]
+file = "config/ImmersiveEngineering.cfg"
+hash = "e5c7936968c8f14aeffc0dd89fc2a49c6189cacb89b63d7239c042be630aaafb"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "98435e3495ad64100d79602aad6fa8d1f2b135909b6152a15564a0ae1bde2ad9"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "0000352266492dce0737a2e841dae5160365d7b56a7fe9a9abb8acab2c5d0827"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "cff08041dc5ce51b8d565b238ad9292774a6b34ef5bff22213d18cc37e3b1d5f"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "7518eb4b2316f197b379a615f74d7fdcd086e12fc2d67be93608fc434b722868"
+
+[[files]]
+file = "config/MCFrames.cfg"
+hash = "efb53a322465e4b10e6e7177cb9cb86b9e0e0e4e0fa454aa4dedaa851e25aef1"
+
+[[files]]
+file = "config/Magneticraft.cfg"
+hash = "2111fd2cb72d99251d214930c542e003c466cecf295e6b13c329b67a74f49efb"
+
+[[files]]
+file = "config/MineTweaker3.cfg"
+hash = "7dfc952727d4225fadee43c13c4f4dc4f2588e34f9feba5d06f5c4fbf7140836"
+
+[[files]]
+file = "config/ModernKeyBinding.cfg"
+hash = "4f45079f1b41989c249578777fb5bf4584348f02ac80c17a366ef4d9520d0302"
+
+[[files]]
+file = "config/Morpheus.cfg"
+hash = "58e96f313127202ff33121cb14fe431c655b8bf8ce3f9e49b8b20a33b30edbed"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4d4b5ccfbc1ce5241cc1ab56c7ebb6839091d90c24cdb5796fc07713e9e30f22"
+
+[[files]]
+file = "config/MrTJPCore.cfg"
+hash = "68305b9217f7ec04cd1e99a427b3375e55546cb9db0f101fc03375112d1ace76"
+
+[[files]]
+file = "config/NEIAddons.cfg"
+hash = "ddaa4294dc7eab46b6e1564493293525fff8416c9b58f27ad7bd56eb5942f36a"
+
+[[files]]
+file = "config/NotEnoughEnergistics.cfg"
+hash = "5394121d764db2fd4186ea2213a8a67c693d390456b91a0fa4e7ddb50918252a"
+
+[[files]]
+file = "config/OpenBlocks.cfg"
+hash = "1b47fc964296f56279f9d9e543729661ba67471e8853d343aa8960ad4c418150"
+
+[[files]]
+file = "config/OpenComputers.cfg"
+hash = "10a2b93b64ff03fa6ff39d0a946096805e511de4ae93eae7e33615ebbef278f7"
+
+[[files]]
+file = "config/OpenMods.cfg"
+hash = "fcb18f440341353234b5cb3e7f5e1fdb3835da8790466be9218add7d748cac12"
+
+[[files]]
+file = "config/OpenModsLibCore.json"
+hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
+
+[[files]]
+file = "config/PneumaticCraft.cfg"
+hash = "a6c04f2bd8c4f2e1c0fe0ff697ccc224683a87b7727b38f5af8b2255d10c9679"
+
+[[files]]
+file = "config/PneumaticCraft/AmadronOffersPeriodic.cfg"
+hash = "788af079ba95c04722aa1ccd3e423251888663dd761de31423fe2281cdd755ea"
+
+[[files]]
+file = "config/PneumaticCraft/AmadronOffersStatic.cfg"
+hash = "8ec9e742601a2e650c044e9c9ea69b554b38441afa5395ee208db153bb759eec"
+
+[[files]]
+file = "config/PneumaticCraft/AmadronTradingSettings.cfg"
+hash = "2ddf832c3715218a9f3da2e7d5dc42e810e9a2051794be45155a6c55ddff22b3"
+
+[[files]]
+file = "config/PneumaticCraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "3666cb98816f9bad458e98ac283e9f9305ac6b685ff7cb10136efec1cf243a09"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "eba7ae49d4988eebf2d005f1ee44cd6fcc8f77200c9925fc82f6fd0712ba032b"
+
+[[files]]
+file = "config/RTG/biomes/abyssalcraft.cfg"
+hash = "7add691129a5605b6586b54af24f02228bff1fe14ea98bd2f3a02ced7b8588f3"
+
+[[files]]
+file = "config/RTG/biomes/arsmagica.cfg"
+hash = "67a34714e36b44de436f5ebd809ad6a2a1d608165d4f8070484503e18a241f81"
+
+[[files]]
+file = "config/RTG/biomes/atg.cfg"
+hash = "3eb6f8fff8006b0c08333dc48b43aae51bd9a9b77a2257415d04df7774f9d328"
+
+[[files]]
+file = "config/RTG/biomes/biomesoplenty.cfg"
+hash = "9a88b27ebb6191c1153df633e4c6a93c02827b9c85f98d9da80dec906f757eb2"
+
+[[files]]
+file = "config/RTG/biomes/buildcraft.cfg"
+hash = "84eb69b3fff1f0c9bc78c5d39f931410ae9360f01777c9d7374689fa2b0ce7b9"
+
+[[files]]
+file = "config/RTG/biomes/chromaticraft.cfg"
+hash = "8942c3fa9ee68b133d435b51832b68e2317c8a5c0184623ee5098dd9c097d922"
+
+[[files]]
+file = "config/RTG/biomes/eccentricbiomes.cfg"
+hash = "a1cdfe41194e0fdcb077f9a3f9de9fb4c2755e3598ed19f047fabb2e4f11ff4c"
+
+[[files]]
+file = "config/RTG/biomes/enhancedbiomes.cfg"
+hash = "7583968c94c72f01100180ce01902532c4dbe36eab507690552187342e505f16"
+
+[[files]]
+file = "config/RTG/biomes/extrabiomes.cfg"
+hash = "8ca30a92b4b8a0a102efff633c8f1028e9c2a9c9f04518d2f94d2c2200974d12"
+
+[[files]]
+file = "config/RTG/biomes/flowercraft.cfg"
+hash = "a3d68710d84388374e49f41c3d50e4f5c2f2a19a7a9b0a2d842020c9cc141641"
+
+[[files]]
+file = "config/RTG/biomes/forgottennature.cfg"
+hash = "c807a533396c6507e413f1920c5b4dd7884b1e90654843a0fa9f6e67b81dd500"
+
+[[files]]
+file = "config/RTG/biomes/growthcraft.cfg"
+hash = "4125273746c84b8252eba9f201dcf7266a31dfe606768e66b836af8bf9b8f3ea"
+
+[[files]]
+file = "config/RTG/biomes/highlands.cfg"
+hash = "f0883775e729de4637ada9d1b6ceeec1732c8589f2126bfcc7a128e4d5901d2a"
+
+[[files]]
+file = "config/RTG/biomes/hotwatermod.cfg"
+hash = "dc323a4c4bd7a037be1968fd72adc1303855edcda994c7419b8c806b08d7a7f0"
+
+[[files]]
+file = "config/RTG/biomes/icecreammod.cfg"
+hash = "00c7459eefc42bacd36aab6e32b20e08d5d7e92402ed8f71207573ab075c9d57"
+
+[[files]]
+file = "config/RTG/biomes/industrialtechnologies.cfg"
+hash = "2a1269a86ecfbaecc5bec745a81e4f8fbcb2b41c04b3296571d1f60856a602cd"
+
+[[files]]
+file = "config/RTG/biomes/inthedarkness.cfg"
+hash = "271a121c7c839a050e087fdb93bff49aeafc8f071e5fb5a85ed378a5b460dd8f"
+
+[[files]]
+file = "config/RTG/biomes/ridiculousworld.cfg"
+hash = "13c1969b0390d29545b6758fd6290bdb6d8f975c54fcb39991260d2f57e9a61b"
+
+[[files]]
+file = "config/RTG/biomes/sugiforest.cfg"
+hash = "28d865f5aa8d99318f32b5a59002c8e054bf7be446a12b750ec1462ebdbcccdc"
+
+[[files]]
+file = "config/RTG/biomes/thaumcraft.cfg"
+hash = "d109b0943b7876e39e8abd227ff36e4fb7adb1e1381202044a72021d85d54ea5"
+
+[[files]]
+file = "config/RTG/biomes/tofucraft.cfg"
+hash = "e2cd0e8fffb314214bd1bd4fe2694d0c6efff3a7bea53e1475b60f6f20e7be70"
+
+[[files]]
+file = "config/RTG/biomes/vampirism.cfg"
+hash = "988ebb0b80f7360f3f9bf8290dcdb5c2854980db744ff4b42e008ea21e882d5a"
+
+[[files]]
+file = "config/RTG/biomes/vanilla.cfg"
+hash = "02ca00b6a9a0d3fdbab2562b293feab5b70d692376afbe2a1dbd57a417175e81"
+
+[[files]]
+file = "config/RTG/rtg.cfg"
+hash = "35f3d808dc75839f950bb4519ea2c8710059c41acd89a1113d015a5cdc4a9677"
+
+[[files]]
+file = "config/SolarFlux.cfg"
+hash = "43a0d36fae1a3f5211153c6ee8fa54b5529161ef5c80462709d3eee072e63323"
+
+[[files]]
+file = "config/StorageDrawers.cfg"
+hash = "310f1d56b69691dd10d62dcb2ee4315445dc98e6b164963cacbbcd72fc82915b"
+
+[[files]]
+file = "config/Translocator.cfg"
+hash = "9fcd84126c91bc873550889f5d0eca24d2d6174b86265045a7d717398902f4b6"
+
+[[files]]
+file = "config/UniDict.cfg"
+hash = "2758a7d420ed343d76036983324e0de58efc8ff0364c726a7ffd1edc543807d4"
+
+[[files]]
+file = "config/UpdateCheckLib.cfg"
+hash = "83a696da9cc74728eea573d314062ef870386897d9ebe5d0de9ede4a52066ace"
+
+[[files]]
+file = "config/Waila.cfg"
+hash = "c64159009dbbfa0f5d6c591414ac4177f43abbc33090a2dc7b519718761e01af"
+
+[[files]]
+file = "config/WirelessCraftingTerminal.cfg"
+hash = "4800f277beace937431129bb9aa59892ee1864d22d62f677d206f40affedc299"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "06b2566fdb667718c2cadfceca995e2c742c9c364005209893cee9e325e0d7af"
+
+[[files]]
+file = "config/advtech.cfg"
+hash = "25ef9b4f01386b94717d683f038e965808b365a0bf08382cf99efd43334e5f50"
+
+[[files]]
+file = "config/ae2fc.cfg"
+hash = "095d4069d92d6dd53bc95cf64efd22859ed849ceaf95979e3d5f1a2680347960"
+
+[[files]]
+file = "config/armourersWorkshop/common.cfg"
+hash = "a92bb8be78693478ad68401d1345f1a08fb753eaf9321ce2749da2c954501508"
+
+[[files]]
+file = "config/armourersWorkshop/overrides.cfg"
+hash = "d94c5508a7984050a234f388ddca3e63d6abcf1ccc095ac98d4b044652a32a3f"
+
+[[files]]
+file = "config/baubles.cfg"
+hash = "52072f6cc92b10b10491a940ebaa9465aae68739966a186f80b07e79c6d963a0"
+
+[[files]]
+file = "config/bugtorch/base.cfg"
+hash = "f03f4c88a15af5a9f5e76abff2f4d0afa890bbd0d9ce397319e5a6e98f145921"
+
+[[files]]
+file = "config/bugtorch/mixins.cfg"
+hash = "80c1200bc266b74c004a727c367981a07b1926f17a639678872d6779f881f46f"
+
+[[files]]
+file = "config/bugtorch/mixinsModSupport.cfg"
+hash = "8e5d5e3052e4638b91ac923e4b21c65adcff386d93e84cad112f871a00e84c97"
+
+[[files]]
+file = "config/bugtorch/modSupport.cfg"
+hash = "19aef1298dadfda95da10e2201f94876137def474eb33719af8d284d43652f43"
+
+[[files]]
+file = "config/buildcraft/compat.cfg"
+hash = "9152ba25826d77c3457d0edfb6edf4bb95a18c9e67b3175eb1f7170603043a1a"
+
+[[files]]
+file = "config/buildcraft/main.cfg"
+hash = "36daf4672121a315b61827abf523ff83528b1a56656cbd2e1b731270655b2d64"
+
+[[files]]
+file = "config/buildcraft/objects.cfg"
+hash = "7ae9c1ca0f8bdb456c6ed47b9d952db73dd4dbe04499ee69f20ea5777114b764"
+
+[[files]]
+file = "config/catwalks.cfg"
+hash = "2728217ba35003cb23501c00cf89bf877edeb85f2c9a10d78f91449294952298"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "de7a1e4eb9df0bdbf9ad501982fe0857f9b8fd01b204ae37c27fac58d0027c7f"
+
+[[files]]
+file = "config/cofh/core/common.cfg"
+hash = "c05036b43f1df13e45475bcd8d3d5edf7353199f2c29dd542ef80a5f63b118f4"
+
+[[files]]
+file = "config/cofh/core/loot.cfg"
+hash = "c9c8d3f4b9d73eeeed95236083e43b519a31faa586def195e822dc4c92009b51"
+
+[[files]]
+file = "config/cofh/redstonearsenal/common.cfg"
+hash = "283c90b3b4bffec4d40c4b757da371cf62a17403e108bb9f7f7b3aa0d561401c"
+
+[[files]]
+file = "config/cofh/thermaldynamics/common.cfg"
+hash = "67cfff708e007edd2292a80c0322da7d41ec14d8d0d555cd2dd986dc99239a28"
+
+[[files]]
+file = "config/cofh/thermalexpansion/common.cfg"
+hash = "bf7b61bfe850c86adf3119080f745452f774639e13f90340098144e132dd8647"
+
+[[files]]
+file = "config/cofh/thermalexpansion/florbs.cfg"
+hash = "050fb3a9013c18d53887b3ee60d2162372532ae700ac96e111fc54dea565b797"
+
+[[files]]
+file = "config/cofh/thermalexpansion/fuels.cfg"
+hash = "00a90feddd0a87e09167878ef65f731966a618a006da141f7fb522dbd77a545c"
+
+[[files]]
+file = "config/cofh/thermalfoundation/common.cfg"
+hash = "5c4b96a76634aacd2b75dd2436b7bcfc269a05b4c6be48e0831bc2c0b4ecbd30"
+
+[[files]]
+file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
+hash = "e8ee52048810ea63c9817eb8e0be0d01c0662e10e13b68cd11581d4b9f9a0cba"
+
+[[files]]
+file = "config/cofh/world/ThermalFoundation-Ores.json"
+hash = "153ca8cd3212a3472a157d8d313c37a4ae5212a5bd2f63b0901c8312c7981069"
+
+[[files]]
+file = "config/cofh/world/Vanilla.json"
+hash = "6c7215195f91d309630e8a0cc3d289ddc669b212b5fde31c67f87580b8f0b1c9"
+
+[[files]]
+file = "config/endercore/cropConfig.json"
+hash = "9013767cf42aaf9ef10ce5a0aa45cab58aa9d536020c02b1eac8bd8fe01bf626"
+
+[[files]]
+file = "config/endercore/endercore.cfg"
+hash = "be2519f5ec95f150df33c7ff5559648da4b39f4c996f1292ca8769bef9e2721d"
+
+[[files]]
+file = "config/enderio/AlloySmelterRecipes_User.xml"
+hash = "da34329f5d10d1f04299e6e73fd9549f699effc022a68ed3b50f4591bdb12916"
+
+[[files]]
+file = "config/enderio/EnchanterRecipes_User.xml"
+hash = "ce742275a5f2a038ea3d391f52c3d6121a1987b10556f16387d346e67fab8206"
+
+[[files]]
+file = "config/enderio/EnderIO.cfg"
+hash = "5d99b389361246d19bf7069b075d54b0e4e6eb068b3586b12f6a48b924276fcb"
+
+[[files]]
+file = "config/enderio/OreDictionaryPreferences_User.xml"
+hash = "d31c47a8994afc004de4790f11b7ae6040bdaf54466c065de19d09ed1446a761"
+
+[[files]]
+file = "config/enderio/PainterPaintSources_User.xml"
+hash = "c80691313787a06617249cfa769d71ac660e663ed62ec305188905cd9a2f53a7"
+
+[[files]]
+file = "config/enderio/PoweredSpawnerConfig_User.json"
+hash = "da82e7ce164ef41505d9d6cb42008b007a8aca8dc7379db3e53184d8565e8fb7"
+
+[[files]]
+file = "config/enderio/SAGMillRecipes_User.xml"
+hash = "8dbf86de49dfd829145ec615b946c13c78b7c8c3d5fdc048982297fac5e56d96"
+
+[[files]]
+file = "config/enderio/SliceAndSpliceRecipes_User.xml"
+hash = "6037f21e3ced1bd9dc3df79bf7b12106cb31f550cf76a945ee55267f0363934b"
+
+[[files]]
+file = "config/enderio/VatRecipes_User.xml"
+hash = "e5556310b265aa0765eb1386e6636401d9eb142bec6d620477ecdec551c78079"
+
+[[files]]
+file = "config/endertech/general.cfg"
+hash = "64213a9297f476e17a2461ad2913750c67e386f3e5d2d575c453a1fda82bac02"
+
+[[files]]
+file = "config/endertech/items.cfg"
+hash = "f1a574d647b0e2c0397d360a036ed8a9299a8d1451523d8891bac2522ad4cbdf"
+
+[[files]]
+file = "config/fastcraft.ini"
+hash = "01a37fb30d89f59324360d3e7ae1cae238e331af7a57913dc587ee7be8f7f814"
+
+[[files]]
+file = "config/fastleafdecay.cfg"
+hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
+
+[[files]]
+file = "config/forestry/apiculture.cfg"
+hash = "a61fb94666ee283d78a8cdc2e3c6fe882005e849c6327b83e089a6f363370956"
+
+[[files]]
+file = "config/forestry/backpacks.cfg"
+hash = "0f6cbbaa9739b5659aa73b387631b1b639cd353bff2f666fd15705cae23f2e73"
+
+[[files]]
+file = "config/forestry/common.cfg"
+hash = "89237c6ff9332b65baa231481151f75b851c26fb11db5ef035054b198683e830"
+
+[[files]]
+file = "config/forestry/fluids.cfg"
+hash = "9f41d40ae180203e20017aca3665b0fbf8256e473c96d4842d9698ed05688212"
+
+[[files]]
+file = "config/forestry/gamemodes/EASY.cfg"
+hash = "db7d196c18a31e6ac18004df06be8ed2beae2c1cb71ad53c02179ac0c5d9d63d"
+
+[[files]]
+file = "config/forestry/gamemodes/HARD.cfg"
+hash = "77ce5fc57e82ae541037982c927c59c06d48f5c1233bc60a3d21f2c0dbc827bb"
+
+[[files]]
+file = "config/forestry/gamemodes/NORMAL.cfg"
+hash = "ba23e7908a9fb957d8e9360d88ea27b0cea15bd62966779557217ce0c69efc52"
+
+[[files]]
+file = "config/forestry/gamemodes/OP.cfg"
+hash = "8253a4471f13039d27a26a62024f483595a98e84cfc1422174a098019ece31d0"
+
+[[files]]
+file = "config/forestry/lepidopterology.cfg"
+hash = "ef24ee1363ebf9ad5a0def981af400daf3decf3f1908d560e7db1325c00bd53d"
+
+[[files]]
+file = "config/forestry/modules.cfg"
+hash = "80d695ecd5231182b95ada76db05a80251752dc9ab906f39127c2330c6c606de"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "b087cd110f6de99f89a3cecd6351611360bcad69f8f4995fe6faace2f70f497c"
+
+[[files]]
+file = "config/hodgepodge.cfg"
+hash = "59d1e78a16c6889053d84ddfcf0e80b98c54b3d4265a1e0c5e09e90a0f4963bc"
+
+[[files]]
+file = "config/hodgepodgeEarly.properties"
+hash = "e107122e265b43eea662ac9a896d17f604c7b57efbbbbdf3a5b9c1aee0253e2a"
+
+[[files]]
+file = "config/immersiveintegration.cfg"
+hash = "79ebdd1d54ceb121b3ad9baedb3fa32df84a7e7c0a45fea1b56c5b3d632264e0"
+
+[[files]]
+file = "config/integratedcircuits.cfg"
+hash = "6cc436b619ea735ab9c3cf4637ad2fb67aa1fc6a96615060bd47fa979bca3e25"
+
+[[files]]
+file = "config/ironchestminecarts.cfg"
+hash = "5105062a62b43c3227413581e6be756161bac9934dffd6c0f7edab7c3d0215e6"
+
+[[files]]
+file = "config/jaopca/custom_forms.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jaopca/lang/en_us.json"
+hash = "1aa830d41af3d0e4b836e9cda3e442e13b6f2415e17edefaa87dc008ce75a289"
+
+[[files]]
+file = "config/jaopca/main.toml"
+hash = "771b2144eb83e860adbc8fc67a4fe8782f0e78e9f7ae096100f6ae1622a171dc"
+
+[[files]]
+file = "config/jaopca/materials/aerotheum.toml"
+hash = "45a518bdcb147f7349137fc46dbf991c8b89a7a90df94719c87077a9f2fe9833"
+
+[[files]]
+file = "config/jaopca/materials/aluminium.toml"
+hash = "0168cecff201e73fc5c7b3f27088db412f845698c4462bb7e193b18f06a8e6f6"
+
+[[files]]
+file = "config/jaopca/materials/aluminum.toml"
+hash = "d15192802da56eb111fd2c23af275f08e3da20b611f4b1d976dd7aebdeae2b81"
+
+[[files]]
+file = "config/jaopca/materials/apatite.toml"
+hash = "c8faecd68e8e16b5663df79e877ce89402e17e662f0b8d30477b7920f6aa5a44"
+
+[[files]]
+file = "config/jaopca/materials/ardite.toml"
+hash = "8095c9628a99c9c60cec929445f283ea992ce5c733c68ea775e2219197ed08b4"
+
+[[files]]
+file = "config/jaopca/materials/ash.toml"
+hash = "7a09c0a3bb8eb4f54f5232b26f4f9f0293d8ad02d213833160604894c2edede3"
+
+[[files]]
+file = "config/jaopca/materials/ashes.toml"
+hash = "ecc50f1f2be67df0c7b8705854e24ad0c32f89ac2083d95f2f6755d583dc34a8"
+
+[[files]]
+file = "config/jaopca/materials/basalz.toml"
+hash = "a395e331551bfa9058a0e738d470ced5892770887a77c248acabdfb089b82522"
+
+[[files]]
+file = "config/jaopca/materials/bismuth.toml"
+hash = "f1c77a8fbc65dc60c42f08af02d88a6effd6240d6ce0491767dfee33894f4874"
+
+[[files]]
+file = "config/jaopca/materials/blitz.toml"
+hash = "40b61c82deda00b2fb1c04f16a85c3d78cc1a0ee73cb000392e19d8f921dbcac"
+
+[[files]]
+file = "config/jaopca/materials/blizz.toml"
+hash = "01ad217c15781dd622f517a8d642420d1ee73c59ae3364899dfccef011af5871"
+
+[[files]]
+file = "config/jaopca/materials/brass.toml"
+hash = "b9748308356812e529a48db64cb7b8a70f4f4f60aae2409e63f9d59e38f45d57"
+
+[[files]]
+file = "config/jaopca/materials/brick.toml"
+hash = "43242c9ac4e6b087db3b7175841164d7ba9fe2367813fcdfa02322444b3c04f9"
+
+[[files]]
+file = "config/jaopca/materials/brick_nether.toml"
+hash = "c04ac590443b2d1ab66c84617504818d5e3c8b4acd3ccd85219b5267b35be692"
+
+[[files]]
+file = "config/jaopca/materials/bronze.toml"
+hash = "e57b04297a5035bfcb8661d4c063e3e38224b03119c964636afeaad35f799ef4"
+
+[[files]]
+file = "config/jaopca/materials/carbide.toml"
+hash = "eafca75c4da977ebc986a2d39f517145c8790bb8a91d9e9be720b7870ca3047f"
+
+[[files]]
+file = "config/jaopca/materials/certus_quartz.toml"
+hash = "840455a83346d59a9feb03765c245881e430a2a046f02856b25c5057c057dbf3"
+
+[[files]]
+file = "config/jaopca/materials/charcoal.toml"
+hash = "a6feb4e88712647884af338064ec547406b817285b770aa19c71cf35e664bd52"
+
+[[files]]
+file = "config/jaopca/materials/charged_certus_quartz.toml"
+hash = "107cbb01c1d151de7fe30e5c73d08714e8e42f9fd8bcc3261f1665d82f8e40f5"
+
+[[files]]
+file = "config/jaopca/materials/chromium.toml"
+hash = "9b026353a41d103adee43a5555b31fb1294e57f5f8c12cd3cf927174495e8c5a"
+
+[[files]]
+file = "config/jaopca/materials/cinnabar.toml"
+hash = "7ca831cebaad0eb6bccc802fe8d4e5188195c23ebca6a36871459d03faef88b1"
+
+[[files]]
+file = "config/jaopca/materials/clay.toml"
+hash = "de0fda063d4acb33abd6e2d46843897aa1e762182fdf7e196e831897d6905de6"
+
+[[files]]
+file = "config/jaopca/materials/coal.toml"
+hash = "bb7868ed012c8da56c07af51f8b9a1688cc4b36dd0cb473eec06c0a50ef2be59"
+
+[[files]]
+file = "config/jaopca/materials/cobalt.toml"
+hash = "7d2be49f440e85515c15d11de8c8e32b92e57c8137fb0576323582d82ed36d4a"
+
+[[files]]
+file = "config/jaopca/materials/coke.toml"
+hash = "b042c0a2d8bd3b404dfc74fb0bd7a421db450fe5f292fdcbe38f179bdfb03aa1"
+
+[[files]]
+file = "config/jaopca/materials/conductive_iron.toml"
+hash = "0231531817a1315fefd9199becd4a813b0c4e8d572183d8415dfbaacb6a115e4"
+
+[[files]]
+file = "config/jaopca/materials/constantan.toml"
+hash = "a2444217cfdbeb6eb5d903aa3244db25e4959f581dee8e3a171024ea3c6c3707"
+
+[[files]]
+file = "config/jaopca/materials/copper.toml"
+hash = "afe143652985d684f643b7d04944abaa53bb24ad7c2ddc305ce17168e40d2895"
+
+[[files]]
+file = "config/jaopca/materials/crude_steel.toml"
+hash = "13e7fa8afb462a161e4648346206c9620a69f0a01c474082a2f5f74feeee1215"
+
+[[files]]
+file = "config/jaopca/materials/cryotheum.toml"
+hash = "ab5d73102f7e3fd49c15bab6c6bf934b6cbae1609ee6dc049081f0b19ed480c5"
+
+[[files]]
+file = "config/jaopca/materials/crystal_flux.toml"
+hash = "6c262ba9f88060ac34db18938a51fd7d024f508c65c44ec16ac7074004d1cb74"
+
+[[files]]
+file = "config/jaopca/materials/crystalline_alloy.toml"
+hash = "e58b71fed13ab1efebe6e0b478b499f412498220918b708cdcdf2be26f8364dc"
+
+[[files]]
+file = "config/jaopca/materials/crystalline_pink_slime.toml"
+hash = "72fb58e30cae4475f5896c69c502075ab68d9efd353f363cc0c59ead215c448c"
+
+[[files]]
+file = "config/jaopca/materials/cupronickel.toml"
+hash = "bf67e903f2d7305210bce1025a56568a68216727213d34dc3d0808584034cecb"
+
+[[files]]
+file = "config/jaopca/materials/dark_soularium.toml"
+hash = "95f16cbc5e3dd005b970b54a0ebd7f04274fe9af0f05bedba89fac5aac16895e"
+
+[[files]]
+file = "config/jaopca/materials/dark_steel.toml"
+hash = "1b7b8f575d02387c768db14357bf95eca5e75caec0edd5d34a18339d4d1068f5"
+
+[[files]]
+file = "config/jaopca/materials/diamond.toml"
+hash = "c3da472879633eedf3f076e1014433f03bd6666c160e140be7eab55dae889cad"
+
+[[files]]
+file = "config/jaopca/materials/electrical_steel.toml"
+hash = "75a06026468d81019798778ded4607b2bb92421cff0bcab5246a896922208796"
+
+[[files]]
+file = "config/jaopca/materials/electrotine.toml"
+hash = "f2356f587fd7157382d3bd0887897c4500199b69e58886656fb9a74054d2cef4"
+
+[[files]]
+file = "config/jaopca/materials/electrotine_alloy.toml"
+hash = "24fc0cfec30740063432eab379bea46b35d2488bdc9a69175c9b0b511961f9ac"
+
+[[files]]
+file = "config/jaopca/materials/electrum.toml"
+hash = "79d3f6fe2cca024ba9afe0023333461851b7be5a80096e5117022c1c20b4e47d"
+
+[[files]]
+file = "config/jaopca/materials/electrum_flux.toml"
+hash = "0e8a37510372acd5aee217c7143e7994471601b75480ef4359ff569367a61aff"
+
+[[files]]
+file = "config/jaopca/materials/elven_elementium.toml"
+hash = "cf4b64e7cf0c3e38feb460fe2ae1d92c04bfe616b983834f657f57d3b837f704"
+
+[[files]]
+file = "config/jaopca/materials/emerald.toml"
+hash = "c84ba9ef73648f21fd5f91cba8a527b18900f9b6055abd4166f9a362371ff12b"
+
+[[files]]
+file = "config/jaopca/materials/end_steel.toml"
+hash = "cdb0cd07c9796594d01337bd283c69513ad6ff795adff67aa116e1c90c93b89b"
+
+[[files]]
+file = "config/jaopca/materials/ender_pearl.toml"
+hash = "014fd496bcc4348277a92b93ceaf593158cbca765df20799b622c36d90b6dc99"
+
+[[files]]
+file = "config/jaopca/materials/enderium.toml"
+hash = "5f1b075882e4638bf62dc0f1a9618b996037cf4d1da0c1186ad93dc52adb8d13"
+
+[[files]]
+file = "config/jaopca/materials/enderium_base.toml"
+hash = "f03aceaddc56078636a54e677d6f85750ca23457282d7196845475e77517c35d"
+
+[[files]]
+file = "config/jaopca/materials/energetic_alloy.toml"
+hash = "8ce44a0fe0948c326877bc6b227b70f79500583c8c3e8878d2e4cab7e864cc55"
+
+[[files]]
+file = "config/jaopca/materials/energetic_silver.toml"
+hash = "20f9bcaf50e65bda50701f6393accbae91c763546bf0b213a4cc690b36b88765"
+
+[[files]]
+file = "config/jaopca/materials/fluix.toml"
+hash = "a1732ec1613c4438fa1d4b2967dfa1368c32336357c1bc26758fcd7c8dba8025"
+
+[[files]]
+file = "config/jaopca/materials/galena.toml"
+hash = "78a7c003d9c21d767200d6dc12f6be07c842919168150f1e4182dacf7e0cfa7f"
+
+[[files]]
+file = "config/jaopca/materials/glowstone.toml"
+hash = "9878053ca29f7ef39a07e4f46ea9753f4ac3ab24fd450a9e0ee7fc2102d40513"
+
+[[files]]
+file = "config/jaopca/materials/gold.toml"
+hash = "14dfe766b2f027823b608e2a6f92278a30256a1a3a9fc689ff32d99654d3cd9b"
+
+[[files]]
+file = "config/jaopca/materials/gunpowder.toml"
+hash = "34859ff89a59b54d2483aa0fecfb893b3d7010ed83aa39bbe988f878fc0f46bb"
+
+[[files]]
+file = "config/jaopca/materials/h_o_p_graphite.toml"
+hash = "be4dc7f9b9d6356f1ef1e6e99b29dd631ea05046d172d2beed04ef3338418972"
+
+[[files]]
+file = "config/jaopca/materials/hydrated_coal.toml"
+hash = "126ad5906445ca3c8a98547baffc412c98c94dd89aece508147244ccc953e843"
+
+[[files]]
+file = "config/jaopca/materials/invar.toml"
+hash = "948d857521c6c125d2ffb4de1e86818d971a5755875a767df5e048299daba0f5"
+
+[[files]]
+file = "config/jaopca/materials/iridium.toml"
+hash = "500cea2fbb5cd0188dd1dd4802d4cafc9f60a750bfaebdfcaad91551bd0580d5"
+
+[[files]]
+file = "config/jaopca/materials/iron.toml"
+hash = "8c4bb681211b40b7ade70fe70014a2741cfbbf3d491afd21963027e4f06e2273"
+
+[[files]]
+file = "config/jaopca/materials/iron_compressed.toml"
+hash = "715e2dedae05f17bdb14c0f286826727126f04b4c72d301a4c3ab1bb7070639a"
+
+[[files]]
+file = "config/jaopca/materials/lapis.toml"
+hash = "2fe4257a2a556020c5725cf3ffaaf5d9b12cadb3112d6af1586bfc9bd7e117ed"
+
+[[files]]
+file = "config/jaopca/materials/lead.toml"
+hash = "97f7b069f9b6d758014a3166e2b1912bfb1a5dff48fc60c56d59775469b0dece"
+
+[[files]]
+file = "config/jaopca/materials/lithium.toml"
+hash = "81241f6d84d960f5c60b84afbd751a40094b45dbe49774280c4d86f0ce1f2d74"
+
+[[files]]
+file = "config/jaopca/materials/lumium.toml"
+hash = "7a2ebee94717ff1a06426ffc5d4df6ea6e38dd4d640066a6b5bcc78727a74c2b"
+
+[[files]]
+file = "config/jaopca/materials/mana.toml"
+hash = "72b66fce176e0dea71be7ca11d31d5b826addb859f89584f1ab63f699b29d92d"
+
+[[files]]
+file = "config/jaopca/materials/manasteel.toml"
+hash = "eaa4b1d89dbf833c524d3ada1e5cb6e77af0efc5308c5f307721870eefdea360"
+
+[[files]]
+file = "config/jaopca/materials/mangalloy.toml"
+hash = "e4d4218eb2b02324f47333d9fa15924dbe57fa37c1fe53f6deb6fa93dd73d354"
+
+[[files]]
+file = "config/jaopca/materials/manganese.toml"
+hash = "27226d492a9c88e5d99202221262908d2d21c3c82f5ceeaeebb0251327434382"
+
+[[files]]
+file = "config/jaopca/materials/meat.toml"
+hash = "0bbb6888235820286e1a40682d20ca4676cde97d6f8ba8b88fc8faa72938abae"
+
+[[files]]
+file = "config/jaopca/materials/meat_raw.toml"
+hash = "b06a915a38bc63cc77d0258dd839ddcddf724c6ce1eb9f1e27480749364120ad"
+
+[[files]]
+file = "config/jaopca/materials/melodic_alloy.toml"
+hash = "b3653df26d79176576ae5fc7b999bcb06711ac603431cf40c313a2375cca6c55"
+
+[[files]]
+file = "config/jaopca/materials/mithril.toml"
+hash = "5805bad307ce520645fb5c65a32169e5d6984c4fdf41fcf7c819ef4611ff21c2"
+
+[[files]]
+file = "config/jaopca/materials/nether_quartz.toml"
+hash = "da445679be204a37896b2f5549aea90a5727197208b133434fabac9da8e30ecb"
+
+[[files]]
+file = "config/jaopca/materials/nickel.toml"
+hash = "c6a8f20c90389ddb6f3bb5dc42e3b6dff095ee26fff5c16978019668eb483dc5"
+
+[[files]]
+file = "config/jaopca/materials/obsidian.toml"
+hash = "6c76415ebec471a7127e69b411afb155f7fe3c5b9bf7f37e6e750b2d60f76712"
+
+[[files]]
+file = "config/jaopca/materials/osmium.toml"
+hash = "927af134e7eaa4e921c89e9aea007c1bc7e749aeac9eddabdb5b8d9f75f801de"
+
+[[files]]
+file = "config/jaopca/materials/peridot.toml"
+hash = "09f1b70c7b7f1b2905b7bd10c39bbb571bb18702b07a526881e6140685aac8a0"
+
+[[files]]
+file = "config/jaopca/materials/petrotheum.toml"
+hash = "1f78f079a9a9f35b66a62f63aa8f01bc1d70c8dbbc0291d72d673e1fac16b7a1"
+
+[[files]]
+file = "config/jaopca/materials/phased_gold.toml"
+hash = "254848424a68bed3f23ef0989f4b362cd3f8d8a57a63f087b40d589619931355"
+
+[[files]]
+file = "config/jaopca/materials/phased_iron.toml"
+hash = "b671bae4f694a2fa24b0d934fa3714ebbe791e07770eaad8789ee57077f116af"
+
+[[files]]
+file = "config/jaopca/materials/plastic.toml"
+hash = "5718227506684035b8c8eb4a22b0d4cc4f93f928c6ed4e5d033a0570d5354ec3"
+
+[[files]]
+file = "config/jaopca/materials/platinum.toml"
+hash = "4f05ebc6f66aa75ff8bca35f77d49e09a7d58a48768c0eb40a98c1694809b5ec"
+
+[[files]]
+file = "config/jaopca/materials/pulsating_iron.toml"
+hash = "32b4e969542ebe0da9301bb3b8f682ab86de255c00a88113abb9295f8ed2d096"
+
+[[files]]
+file = "config/jaopca/materials/pyrotheum.toml"
+hash = "a929175b58a7830627f2cc792b3de88e9e55440a17c09a07a9209c499d74e8f3"
+
+[[files]]
+file = "config/jaopca/materials/quartz.toml"
+hash = "5a73e7aa2385e549c6fcae3570e0e106867ece7dfb4f81cb517acc4fabd0b93d"
+
+[[files]]
+file = "config/jaopca/materials/red_alloy.toml"
+hash = "4974648deaa9fa82382ec3af499b0387b83970aba06cd495c4a869a642385b0f"
+
+[[files]]
+file = "config/jaopca/materials/redstone.toml"
+hash = "408cb3b63c9010f6fecea27513024e19120feff6af370b8f5391fe225a2d35a2"
+
+[[files]]
+file = "config/jaopca/materials/redstone_alloy.toml"
+hash = "2968c55885fb51313cfb20e979f6bd47fe2ff3cee5835e649193351a5dc0f42d"
+
+[[files]]
+file = "config/jaopca/materials/ruby.toml"
+hash = "0b9c0eaa28aa003f241aa2dcc091ce3fceb555af0b796c86e8819d8dcb329bf6"
+
+[[files]]
+file = "config/jaopca/materials/salt.toml"
+hash = "6a6ecb7a25ce85619d4647db9c8c83762afbd26eb7636b8c89d5567e302d71f2"
+
+[[files]]
+file = "config/jaopca/materials/saltpeter.toml"
+hash = "fc85377ac30c307d6012f0d4deba6ccde102a765c5cc46a2abe9b84d9cc45e9d"
+
+[[files]]
+file = "config/jaopca/materials/sapphire.toml"
+hash = "853e8ce88599a0295899061bcf2a0cd8df1e78caf612e35258c89ad188fe453e"
+
+[[files]]
+file = "config/jaopca/materials/signalum.toml"
+hash = "e71f324223c152a25bfff281f94b3acbd4a57dab105ca3b0f3816da8b4cecdea"
+
+[[files]]
+file = "config/jaopca/materials/silicon.toml"
+hash = "979db4fbde20d0f70b56048f6a56fee550c25cc5ec0d7e09e700ff22b1532132"
+
+[[files]]
+file = "config/jaopca/materials/silicon_dioxide.toml"
+hash = "ac7130c90ecaa99a3f636d955f468e27068f881c537d8d981a9bb1c4ed7060ae"
+
+[[files]]
+file = "config/jaopca/materials/silver.toml"
+hash = "75cc0185f3a65aaf689d8458fd9d42b61fb8cc3adccaa90df0531fbe7d3933e0"
+
+[[files]]
+file = "config/jaopca/materials/soularium.toml"
+hash = "0bc58a73c83a773a90b3c247b49a54120ec2a36c8f1a5cf6e36965e60e4c9ba5"
+
+[[files]]
+file = "config/jaopca/materials/steel.toml"
+hash = "2c2fcbeb8143325e925842ba5f8201429921ab5820946e3cac24cb4a79dfa44b"
+
+[[files]]
+file = "config/jaopca/materials/stellar_alloy.toml"
+hash = "f0e511e350f04e4595c4117574786dbede6432aee52edea8d1323cc17c25734a"
+
+[[files]]
+file = "config/jaopca/materials/stone.toml"
+hash = "a7a6343e707357198a31a44e47f1e5cac514e2547baa528ffc7bdbdd1335bc31"
+
+[[files]]
+file = "config/jaopca/materials/sulfur.toml"
+hash = "23fa4933e2a003ac9e727f43fda48d208aee4b13ab16906bd8e756a55b602c0e"
+
+[[files]]
+file = "config/jaopca/materials/terrasteel.toml"
+hash = "b29ab04810cc64d84a09f8fd1255163013a21a5af492e93f810c93e50f7e2f48"
+
+[[files]]
+file = "config/jaopca/materials/thorium.toml"
+hash = "84f123ded84878e321c12c53e80c116b04700fe1ce897be683cd82c389530823"
+
+[[files]]
+file = "config/jaopca/materials/tin.toml"
+hash = "6caf71760379a74fd2b78f69949cf1568e7c26ed4e46372f0afae7bcc78054b6"
+
+[[files]]
+file = "config/jaopca/materials/titanium.toml"
+hash = "95571a61cd784ba0c768d83f554d153b718eea46a1fcaf047af8c0686264220c"
+
+[[files]]
+file = "config/jaopca/materials/tungsten.toml"
+hash = "d1863158b40402e17170748f6f9a2e81ec3cb9364881128cc22ebaf688c0ce43"
+
+[[files]]
+file = "config/jaopca/materials/unstable.toml"
+hash = "1c1cb53f48d5417ebcb9e21911fdbb53b388065a806e963ace16a9d64cca0b60"
+
+[[files]]
+file = "config/jaopca/materials/uranium.toml"
+hash = "ddac0ad38b407978854594e768ac6c5123d9a65664c79a9c7d7bbc517e37cc01"
+
+[[files]]
+file = "config/jaopca/materials/vibrant_alloy.toml"
+hash = "6ea6975a673672ad54962ba45f88a4f5f077aa3d6bda26911a240ae535ff4b84"
+
+[[files]]
+file = "config/jaopca/materials/vivid_alloy.toml"
+hash = "f15e362f31d65736ac37c77b1e2a4cf6ef3b0316f7ec592557cd5b2ac68ee0ba"
+
+[[files]]
+file = "config/jaopca/materials/wheat.toml"
+hash = "d9fca643c3f71770431346e553c642b7c178933c54d1ca9f952a447fbdbc9cc2"
+
+[[files]]
+file = "config/jaopca/materials/wood.toml"
+hash = "c42abda6340e9e916f262432d54bf2ce3bfa28d8cc9bf785d0a4eb48be88f8c5"
+
+[[files]]
+file = "config/jaopca/materials/zinc.toml"
+hash = "fca66e9fb45305bdeb5c27c817d2576900ed5b8362b45875cf5507c3817082e9"
+
+[[files]]
+file = "config/jaopca/modules/appliedenergistics2.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/appliedenergistics2_compat.toml"
+hash = "eb4c29c3d68d869c392c16765cb150630f4f41a3ed3d957572dcc9fece1b868d"
+
+[[files]]
+file = "config/jaopca/modules/block.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/coin.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/custom.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/dense_plate.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/dust.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/enderio.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/enderio_compat.toml"
+hash = "f74f9f6bc4a7ed2e8a93b82791e81aa2a433c0e3eadae2cdd51d908471b8bad2"
+
+[[files]]
+file = "config/jaopca/modules/enderio_non_ingot.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/gear.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/ic2.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/ic2_compat.toml"
+hash = "e25fa17bf090094ef61ee537d676419ae6e9ad9361bbad1cbe684dcc17ba95a7"
+
+[[files]]
+file = "config/jaopca/modules/magneticraft.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/magneticraft_compat.toml"
+hash = "395bdd3564e1d7cd5447ef1e25b7c6794753f8940f22fcb2ea997ac16d3004f7"
+
+[[files]]
+file = "config/jaopca/modules/magneticraft_non_ingot.toml"
+hash = "6d8d6d41bc0071e861d5759ee32e5e036cc546a26f8c1e24db89da2bfd1b4b5b"
+
+[[files]]
+file = "config/jaopca/modules/molten.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/nugget.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/plate.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/small_dust.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/jaopca/modules/stick.toml"
+hash = "a3db0484d62f81135f53646aa478e876ccbfc290d7ca56dba8318170c5a64e12"
+
+[[files]]
+file = "config/jaopca/modules/tiny_dust.toml"
+hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
+
+[[files]]
+file = "config/lwjgl3ify.cfg"
+hash = "e7db74c57874d02c3f8a1cbb09d856cf5ad70dbc7a790f55576c1529c8698e00"
+
+[[files]]
+file = "config/mcjtylib.cfg"
+hash = "b84a8e6463379555141b9c0b2823207c753f82d10d32143c9896aeb1b696358a"
+
+[[files]]
+file = "config/microblocks.cfg"
+hash = "b90a381d5c8cc61c802b67270f4b072bca1681199148ed4dbf1bf25a29954021"
+
+[[files]]
+file = "config/mixingasm/transformer_exclusion_list.txt"
+hash = "bde37420083ee5f2ac604240f01cb61390001c88269932ca8f692651f4f6f729"
+
+[[files]]
+file = "config/mixingasm/transformer_inclusion_list.txt"
+hash = "16ed4e14e97fd7d53492af09714040e1241dcb3a3babce3604fa85d64544b00c"
+
+[[files]]
+file = "config/multifruit.cfg"
+hash = "8c4cf84b2505df543d4514abf6ba29a91d78661a401309202baa255ab26e9c68"
+
+[[files]]
+file = "config/multipart.cfg"
+hash = "72aed3550cb4ff48c8b2567639323bfca0cb6e1006bd15c2cfc8e659adddbb19"
+
+[[files]]
+file = "config/neiintegration.cfg"
+hash = "c746ca72335c9edb92d9336d21af60573285b05b69f0e71b1a1d78b5d3661860"
+
+[[files]]
+file = "config/neresources.cfg"
+hash = "9b896cccc31a1a3a2e4f6fb6f36da1777fcc46076a6e79d4b96a98f234aef32b"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
+
+[[files]]
+file = "config/overloadedarmorbar.cfg"
+hash = "8b95bbd0132997e9f3c228c6134e6ab3b5c3003eece90b0dbef11b927e486087"
+
+[[files]]
+file = "config/powercrystals/minefactoryreloaded/common.cfg"
+hash = "c76c40684e0eedcc50963ff798d655b65b923c6dca396b135e6f272879e725b5"
+
+[[files]]
+file = "config/quantumflux.cfg"
+hash = "6ec93c888747cb637b7f38c42cba2711192a05d635cac0ba476b12dcef0b5aa4"
+
+[[files]]
+file = "config/rfdrills.cfg"
+hash = "c0ef8b8231efbecc3dace7622a42e3d4541411a47247f3b5dad0fc4e005a8d06"
+
+[[files]]
+file = "config/rftools/dimlets.cfg"
+hash = "8d44280f41e9d04b32d9eb18f3c16ae61e7f12c342e125c5773fc585ae290266"
+
+[[files]]
+file = "config/rftools/main.cfg"
+hash = "eb84e247ca2f996579303cdf85447f9df41415352b41c972e9f97a149548339d"
+
+[[files]]
+file = "config/roguelike_dungeons/roguelike.cfg"
+hash = "8f978b1fe4217050244ff0e2f5d801f1aa86c35d084babe3572915a97ebbe3c7"
+
+[[files]]
+file = "config/simplyjetpacks.cfg"
+hash = "1ad797cb88adf39bec1b527d66b58b7aa4a0f5d1297611e7846c75ebd1108015"
+
+[[files]]
+file = "config/sloppydeploader.cfg"
+hash = "8d8cc9378c312860ed8028427cb4dea4b68ad43d5e2b4e1ffd4e06e3f4609077"
+
+[[files]]
+file = "config/splash.properties"
+hash = "bf74e9726a55b7b4ba97b7baada7c5708fc8781de4c4b9c470442a49197f13ab"
+
+[[files]]
+file = "config/unimixins.properties"
+hash = "5d95c29da93da87152a9a57cf3a935bf8de2a26553259d3cf5324738d2d394c5"
+
+[[files]]
+file = "config/wailaplugins.cfg"
+hash = "5aa00853b3fc432908e84ece7cdd5859b1270bf15e253e14736afe09e39b3e67"
+
+[[files]]
+file = "config/zettaindustries.cfg"
+hash = "db8642410ea6438c7f775ab99159af3149b8aabeb6c05421f233ec51c7bd6028"
+
+[[files]]
+file = "icon.png"
+hash = "e98b36097432f89e155d05a97d84456a67fd150227d976653ababafb9d7030fa"
+
+[[files]]
 file = "mods/adv-tech.pw.toml"
 hash = "1e5c590d9f34dd8a9e322b4be2ba452d57c81ff2583763686e576acc136d73c0"
 metafile = true
@@ -514,3 +1702,59 @@ metafile = true
 file = "mods/zetta-industries.pw.toml"
 hash = "9a5a5ae9e2c12799e0da30907f5531aeaddba205aa9104fd822d50004522e5fb"
 metafile = true
+
+[[files]]
+file = "scripts/ae2.zs"
+hash = "c4ce3a7ac637a53dc7aadeb374d9b5a223b733f3d246bfe5815819a79114f957"
+
+[[files]]
+file = "scripts/chests.zs"
+hash = "2ed15396712c255975540d8e41730b3380c98921e425b1e9a7d566111705a243"
+
+[[files]]
+file = "scripts/chipsets.zs"
+hash = "4d7f47d4d112d0395c4dbda5313c69d0c449bc0b9af5c008c953fa9f4b3df973"
+
+[[files]]
+file = "scripts/enderio.zs"
+hash = "e744536d4d4f55e62ece2d2d90a6e1563885f517af545dc96814fcb4d885cb3b"
+
+[[files]]
+file = "scripts/gears.zs"
+hash = "105be8e32acaa7f4bbdeb97a3160259ef71afc535d3c5addb8ce279ad882dee3"
+
+[[files]]
+file = "scripts/ic2.zs"
+hash = "406d10b6c52516e2cfeda13d5d36c1f5691adeb0ee0ac4150e4a84d3ffd6b2aa"
+
+[[files]]
+file = "scripts/immersiveengineering.zs"
+hash = "42a66bdda24bf859f51aad01f8d23584f1ac264c22e946b755bf0e333d375085"
+
+[[files]]
+file = "scripts/magneticarft.zs"
+hash = "2f00f97fe03fce05c305d61779197416e89addaca3b492d11635abfc5b0b43b4"
+
+[[files]]
+file = "scripts/materials.zs"
+hash = "cdc62fd553b976310489cc1ab3cbff6747fc6f39833a1f737cd293219f767916"
+
+[[files]]
+file = "scripts/plates.zs"
+hash = "785022eeb619b47d1a9ea66134e9d4b3964b28bcceaa137021594abb75c7e997"
+
+[[files]]
+file = "scripts/projectred.zs"
+hash = "3693f0aa1c1a93c2b292e28882bbc438fa7c382d08875ddb426ace7c98be1640"
+
+[[files]]
+file = "scripts/rftools.zs"
+hash = "9e479361e1832f1ee15cabbada221cf0fafd8e34f4219ede5439259fa5c9be39"
+
+[[files]]
+file = "scripts/rods.zs"
+hash = "dd54399c19149d48908c83eafd6709f39e08823343543c0446d563141737dfa7"
+
+[[files]]
+file = "scripts/thermalexpansion.zs"
+hash = "43c25b3a55f33182ef1a0d6b88102a484a9b1cb64fa10b337bdf4feb68cbe453"
