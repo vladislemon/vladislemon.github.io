@@ -1,0 +1,501 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-glfw-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-glfw-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-glfw-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-glfw-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-glfw-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-glfw/lwjgl-glfw.jar",
+            "name": "org.lwjgl:lwjgl-glfw:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-jemalloc/lwjgl-jemalloc.jar",
+            "name": "org.lwjgl:lwjgl-jemalloc:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-openal-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-openal-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-openal-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-openal-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-openal-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-openal/lwjgl-openal.jar",
+            "name": "org.lwjgl:lwjgl-openal:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-opengl-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-opengl-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-opengl-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-opengl-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-opengl-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-opengl/lwjgl-opengl.jar",
+            "name": "org.lwjgl:lwjgl-opengl:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-stb-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-stb-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-stb-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-stb-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-stb-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-stb/lwjgl-stb.jar",
+            "name": "org.lwjgl:lwjgl-stb:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-macos-arm64.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-macos-arm64:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                },
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx-arm64"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-macos.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-macos:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "osx"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-windows-x86.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-windows-x86:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-windows.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd-natives-windows:3.3.2",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl-tinyfd/lwjgl-tinyfd.jar",
+            "name": "org.lwjgl:lwjgl-tinyfd:3.3.2"
+        },
+        {
+            "MMC-absoluteUrl": "https://build.lwjgl.org/release/3.3.2/bin/lwjgl/lwjgl.jar",
+            "name": "org.lwjgl:lwjgl:3.3.2"
+        }
+    ],
+    "name": "LWJGL 3",
+    "releaseTime": "2023-04-01T16:24:00+00:00",
+    "type": "release",
+    "uid": "org.lwjgl3",
+    "version": "3.3.2",
+    "volatile": true
+}
