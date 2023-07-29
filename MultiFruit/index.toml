@@ -1189,36 +1189,8 @@ file = "icon.png"
 hash = "e98b36097432f89e155d05a97d84456a67fd150227d976653ababafb9d7030fa"
 
 [[files]]
-file = "lwjgl3ify/mmc-pack-updater.remote"
-hash = "d0850935cd3a7b59178bb155801da6da44f50e1143b67ad820ab13ab9e1358ba"
-
-[[files]]
-file = "lwjgl3ify/mmc-pack.json"
-hash = "e7bebed32930e645bab18693b5340c4435a824c6c06cac6992be0c72fd842aee"
-
-[[files]]
-file = "lwjgl3ify/patches/me.eigenraven.lwjgl3ify.forgepatches.json"
-hash = "ddefeec6b321c1a309c53cce15eca8ab9f87ec1d66479887c9919ed9d30485e8"
-
-[[files]]
-file = "lwjgl3ify/patches/net.minecraft.json"
-hash = "6e6eeb4ac44fb92fbc641e5e371ea5db6274e78e5521544d04201d470e8d5a3f"
-
-[[files]]
-file = "lwjgl3ify/patches/net.minecraftforge.json"
-hash = "59da1d01684f51b406bea0c41a51bdd20a471e450d10258b509bb82426846584"
-
-[[files]]
-file = "lwjgl3ify/patches/org.lwjgl3.json"
-hash = "aaedbf8c2cbcdb07fa2de9431f9fc1fccf364fb47c5423a37f97d9f3c08b419e"
-
-[[files]]
-file = "mmc-pack-updater-1.0.jar"
-hash = "03f5387606d45a231ad4982c1fa75c0737a6b881163043fa574361c7672db2ae"
-
-[[files]]
 file = "mmc-pack-updater.pw.toml"
-hash = "d8749b9bc8eb1ade2e3cb1a9b1ab6c8339a9dbb18effc6e81b7a48eadc7a0c77"
+hash = "5dbd9ace890c54ab997a9e67c81a7784979a4b7d92035398d7c8c1518453600d"
 metafile = true
 
 [[files]]
