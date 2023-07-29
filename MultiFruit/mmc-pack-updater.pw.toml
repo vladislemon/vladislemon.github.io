@@ -1,0 +1,7 @@
+name = "mmc-pack-updater"
+filename = "mmc-pack-updater-1.0.jar"
+
+[download]
+url = "https://vladislemon.github.io/MultiFruit/mmc-pack-updater-1.0.jar"
+hash-format = "sha256"
+hash = "03f5387606d45a231ad4982c1fa75c0737a6b881163043fa574361c7672db2ae"
