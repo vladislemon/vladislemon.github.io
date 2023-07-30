@@ -274,7 +274,7 @@ hash = "02ca00b6a9a0d3fdbab2562b293feab5b70d692376afbe2a1dbd57a417175e81"
 
 [[files]]
 file = "config/RTG/rtg.cfg"
-hash = "35f3d808dc75839f950bb4519ea2c8710059c41acd89a1113d015a5cdc4a9677"
+hash = "57416272302c844aedbdbf6ec09987bbe2b86bc1f2d310a9a4ac435a6caa590e"
 
 [[files]]
 file = "config/SolarFlux.cfg"
@@ -1735,7 +1735,7 @@ hash = "105be8e32acaa7f4bbdeb97a3160259ef71afc535d3c5addb8ce279ad882dee3"
 
 [[files]]
 file = "scripts/ic2.zs"
-hash = "406d10b6c52516e2cfeda13d5d36c1f5691adeb0ee0ac4150e4a84d3ffd6b2aa"
+hash = "ee82e43bbf8b105d0fae4de01bb35f5ec5fec7a05af21fa6b25db02e27b5088c"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
@@ -1758,8 +1758,12 @@ file = "scripts/projectred.zs"
 hash = "3693f0aa1c1a93c2b292e28882bbc438fa7c382d08875ddb426ace7c98be1640"
 
 [[files]]
+file = "scripts/quantumflux.zs"
+hash = "a628c45cf3a5a7bee55678742041b61c23c5b1cb52e68f7a78d8cca22940960f"
+
+[[files]]
 file = "scripts/rftools.zs"
-hash = "9e479361e1832f1ee15cabbada221cf0fafd8e34f4219ede5439259fa5c9be39"
+hash = "0524a68df806b6cc0bfbfa19c3913ac701f9fcafaf0d3e2298a63710447e7906"
 
 [[files]]
 file = "scripts/rods.zs"
