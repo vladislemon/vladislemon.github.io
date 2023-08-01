@@ -1714,6 +1714,10 @@ hash = "9a5a5ae9e2c12799e0da30907f5531aeaddba205aa9104fd822d50004522e5fb"
 metafile = true
 
 [[files]]
+file = "scripts/advancedsolarpanel.zs"
+hash = "3671d7386d0dd767ae324c0aaadbab8106acad85ac908674c49592543ef3d902"
+
+[[files]]
 file = "scripts/ae2.zs"
 hash = "c4ce3a7ac637a53dc7aadeb374d9b5a223b733f3d246bfe5815819a79114f957"
 
