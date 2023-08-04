@@ -10,4 +10,4 @@ recipes.remove(quibitCrystal);
 recipes.addShaped(quibitCrystal,
 	[[null,              <ore:dustRedstone>,               null],
 	 [<ore:itemSilicon>, <ore:crystalChargedCertusQuartz>, <ore:itemSilicon>],
-         [null,              <ore:dustRedstone>,               null]]);
+     [null,              <ore:dustRedstone>,               null]]);
