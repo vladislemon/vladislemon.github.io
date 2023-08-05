@@ -1739,7 +1739,7 @@ hash = "52b2c4ea37a252e3a9571e29a8a8cac3d4dadb368fbe387080a3b971fa0b3bc4"
 
 [[files]]
 file = "scripts/ic2.zs"
-hash = "8a418ca0eefcacf83f26cd83ec576d48fb49b1086e97d90de2aed7a30e021962"
+hash = "1246736c7542eb5aa4ade4d03b0b1c4dbfdb8df5aba55bd7875adc9365f80ad0"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
@@ -1759,7 +1759,7 @@ hash = "aff4e782d4a101860c92e0bbf842a931766ab7b68becf23f7259e924da8b2587"
 
 [[files]]
 file = "scripts/projectred.zs"
-hash = "3693f0aa1c1a93c2b292e28882bbc438fa7c382d08875ddb426ace7c98be1640"
+hash = "6baca4e8c7a298f17eb96901b6167cf556727aec744c76348221f1d0e3314388"
 
 [[files]]
 file = "scripts/quantumflux.zs"
