@@ -1738,6 +1738,10 @@ file = "scripts/gears.zs"
 hash = "52b2c4ea37a252e3a9571e29a8a8cac3d4dadb368fbe387080a3b971fa0b3bc4"
 
 [[files]]
+file = "scripts/gravisuit.zs"
+hash = "0700355c877ac16e0d4dfbe5066f8d6e943dac3297225de1e79a955b5dc601d0"
+
+[[files]]
 file = "scripts/ic2.zs"
 hash = "1246736c7542eb5aa4ade4d03b0b1c4dbfdb8df5aba55bd7875adc9365f80ad0"
 
