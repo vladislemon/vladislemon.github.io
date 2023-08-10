@@ -290,7 +290,7 @@ hash = "9fcd84126c91bc873550889f5d0eca24d2d6174b86265045a7d717398902f4b6"
 
 [[files]]
 file = "config/UniDict.cfg"
-hash = "2758a7d420ed343d76036983324e0de58efc8ff0364c726a7ffd1edc543807d4"
+hash = "7e35b5d86e2374c9af6911b6a7bce315d4c3f4d85950a6a385ead1b51a9834f3"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
@@ -546,7 +546,7 @@ hash = "1aa830d41af3d0e4b836e9cda3e442e13b6f2415e17edefaa87dc008ce75a289"
 
 [[files]]
 file = "config/jaopca/main.toml"
-hash = "771b2144eb83e860adbc8fc67a4fe8782f0e78e9f7ae096100f6ae1622a171dc"
+hash = "1785997859eaff9f5002e1115e90c525d167aa9648772d17ac7338f565145c98"
 
 [[files]]
 file = "config/jaopca/materials/aerotheum.toml"
@@ -1755,7 +1755,7 @@ hash = "a0a5a68874ee9ebba69c5270ecf6c3e57b1d42a6c0eb0c20842e6069bf408be2"
 
 [[files]]
 file = "scripts/materials.zs"
-hash = "96d7e491a17cde067dc70f4b122e734f0b4ee34fe7b81d1c816da2398e63c943"
+hash = "afe193440aff5f427ec30cfa1427393b02599a3b891be6e2c0044ff7b44a851a"
 
 [[files]]
 file = "scripts/plates.zs"
