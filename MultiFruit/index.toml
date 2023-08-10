@@ -1758,6 +1758,10 @@ file = "scripts/materials.zs"
 hash = "8532ca1b29e186d52764ca0f270cd829611c0e0269c5eabb7a0ef220c24376dc"
 
 [[files]]
+file = "scripts/minerals.zs"
+hash = "d0ff37fb3ed3b1d462bbe279f36d7302f47805b590542f011bd3a4c3c648688f"
+
+[[files]]
 file = "scripts/plates.zs"
 hash = "aff4e782d4a101860c92e0bbf842a931766ab7b68becf23f7259e924da8b2587"
 
