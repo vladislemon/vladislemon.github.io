@@ -10,6 +10,7 @@ val silicon = <EnderIO:itemMaterial>;
 val slag = <ImmersiveEngineering:material:13>;
 val ieNetherQuartzDust = <ImmersiveEngineering:metal:18>;
 val mcNetherQuartzDust = <Magneticraft:item.dustQuartz>;
+val ae2NetherQuartzDust = <appliedenergistics2:item.ItemMultiMaterial:3>;
 
 // rubber
 mods.thermalexpansion.Furnace.removeRecipe(rubberOredict);
@@ -34,3 +35,4 @@ mods.immersiveengineering.ArcFurnace.addRecipe(silicon, <ore:sand>, slag, 100, 5
 // nether quartz dust
 <ore:dustNetherQuartz>.add(ieNetherQuartzDust);
 <ore:dustNetherQuartz>.add(mcNetherQuartzDust);
+<ore:dustQuartz>.add(ae2NetherQuartzDust);

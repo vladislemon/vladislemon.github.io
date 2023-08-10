@@ -546,7 +546,7 @@ hash = "1aa830d41af3d0e4b836e9cda3e442e13b6f2415e17edefaa87dc008ce75a289"
 
 [[files]]
 file = "config/jaopca/main.toml"
-hash = "1785997859eaff9f5002e1115e90c525d167aa9648772d17ac7338f565145c98"
+hash = "f218596b400b60343dc0a147461fa230f08e76599d8ac745659ca3b181eca802"
 
 [[files]]
 file = "config/jaopca/materials/aerotheum.toml"
@@ -1505,7 +1505,7 @@ metafile = true
 
 [[files]]
 file = "mods/multifruit.pw.toml"
-hash = "6a546d8a9fa12a2ce5cc3ad1083915a568ce97ca2b96809d2ab4d0aeca86c45e"
+hash = "9b978fa13f87b90410b633c58ed3098dbd2aed49f20e28c1fb1115ab22725054"
 metafile = true
 
 [[files]]
@@ -1755,7 +1755,7 @@ hash = "a0a5a68874ee9ebba69c5270ecf6c3e57b1d42a6c0eb0c20842e6069bf408be2"
 
 [[files]]
 file = "scripts/materials.zs"
-hash = "afe193440aff5f427ec30cfa1427393b02599a3b891be6e2c0044ff7b44a851a"
+hash = "8532ca1b29e186d52764ca0f270cd829611c0e0269c5eabb7a0ef220c24376dc"
 
 [[files]]
 file = "scripts/plates.zs"
