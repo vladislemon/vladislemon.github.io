@@ -1,7 +1,7 @@
 name = "mapwriter"
-filename = "MapWriter-mc1.7.10-2.2.3.jar"
+filename = "MapWriter-mc1.7.10-2.2.4.jar"
 
 [download]
-url = "https://github.com/vladislemon/mapwriter/releases/download/2.2.3/MapWriter-mc1.7.10-2.2.3.jar"
+url = "https://github.com/vladislemon/mapwriter/releases/download/2.2.4/MapWriter-mc1.7.10-2.2.4.jar"
 hash-format = "sha256"
-hash = "b94da4a4575974e7316fb095d38174feecc7c40c2fc80980b44a777b37aade71"
+hash = "11423d60aa3ade0dec9eb0ebd9ff2bfa171a673990a74d33c09662da55dad121"
