@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "2f92bb1aea927bab8e4b18840c5498a971c21e211d9e74a51304c3377a311110"
+hash = "6d9d4efbef72283510661597051cb031bb0613bb8c36c2612cd159fcce5c2d10"
 metafile = true
 
 [[files]]
@@ -1465,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapwriter.pw.toml"
-hash = "5c97335d01c2ef6f789e872a72d3b87ccf323c3ed1c80b89ba80189a47e61401"
+hash = "00e72cbd2e7118270355a5d860b0f2185a3aed4bbd3fe8b585cb874cb2e658cb"
 metafile = true
 
 [[files]]
