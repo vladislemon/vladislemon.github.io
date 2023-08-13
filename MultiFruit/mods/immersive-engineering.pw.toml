@@ -1,7 +1,7 @@
 name = "immersive-engineering"
-filename = "ImmersiveEngineering-mc1.7.10-0.7.10.jar"
+filename = "ImmersiveEngineering-mc1.7.10-0.7.11.jar"
 
 [download]
-url = "https://github.com/vladislemon/ImmersiveEngineering/releases/download/0.7.10/ImmersiveEngineering-mc1.7.10-0.7.10.jar"
+url = "https://github.com/vladislemon/ImmersiveEngineering/releases/download/0.7.11/ImmersiveEngineering-mc1.7.10-0.7.11.jar"
 hash-format = "sha256"
-hash = "cd7243b13968f4acfdcfbf63a2ca13a4ba6e11a0eef7a92337f58d2480b3d47d"
+hash = "8db2b5b216c6aeb64d4b460d04289df2638596a3348c0c8f08193f4a8607ac96"
