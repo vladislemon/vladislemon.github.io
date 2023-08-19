@@ -1541,7 +1541,7 @@ metafile = true
 
 [[files]]
 file = "mods/neodymium.pw.toml"
-hash = "331d0537eb8d16162a39f5eae3c5552d27ab93aec3a277465036c0a6c971559c"
+hash = "0ef6aeebf770692d09c457fad9620bc00732110418c47be365a5bd6c00122c9f"
 metafile = true
 
 [[files]]
