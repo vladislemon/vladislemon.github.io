@@ -20,6 +20,7 @@ val bronzeGearItem = <ThermalFoundation:material:137>;
 val signalumGearItem = <ThermalFoundation:material:138>;
 val lumiumGearItem = <ThermalFoundation:material:139>;
 val enderiumGearItem = <ThermalFoundation:material:140>;
+val steelGearItem = <Railcraft:part.gear:2>;
 val gearMold = <ImmersiveEngineering:mold:1>;
 val yetaWrench = <EnderIO:itemYetaWrench>;
 val conductiveIronThruster = <simplyjetpacks:components:21>;
@@ -45,6 +46,7 @@ recipes.remove(bronzeGearItem);
 recipes.remove(signalumGearItem);
 recipes.remove(lumiumGearItem);
 recipes.remove(enderiumGearItem);
+recipes.remove(steelGearItem);
 
 recipes.addShaped(woodenGearItem,
 	[[null,            <ore:plankWood>, null],
@@ -58,6 +60,7 @@ recipes.addShaped(stoneGearItem,
 
 //mods.immersiveengineering.MetalPress.removeRecipe(ironGearItemTE);
 mods.immersiveengineering.MetalPress.addRecipe(diamondGearItem, <ore:dustDiamond>, gearMold, 2400, 4);
+mods.immersiveengineering.MetalPress.addRecipe(steelGearItem, <ore:ingotSteel>, gearMold, 1800, 4);
 
 // replace basic gear with iron
 <ore:itemBasicGear>.add(ironGearItem);

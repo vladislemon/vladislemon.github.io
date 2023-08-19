@@ -1145,6 +1145,22 @@ file = "config/quantumflux.cfg"
 hash = "6ec93c888747cb637b7f38c42cba2711192a05d635cac0ba476b12dcef0b5aa4"
 
 [[files]]
+file = "config/railcraft/blocks.cfg"
+hash = "4985fe653011aec736fe09c1a14cc1790d63e21c0ba5838ead3e0cc898369ee0"
+
+[[files]]
+file = "config/railcraft/items.cfg"
+hash = "c30bdf7199c9b6a43799a54c01c847a715374f4ca899f4193d4e28f83a4df382"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "216c064d002c9bfaa9f03965f39062cf0da8e18544ae159afae652379c9b9b33"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "942edf28fd62b3738d6f9db81a930edd76aab596bbbcd63eaca9cd9d89bee2ea"
+
+[[files]]
 file = "config/rfdrills.cfg"
 hash = "c0ef8b8231efbecc3dace7622a42e3d4541411a47247f3b5dad0fc4e005a8d06"
 
@@ -1394,6 +1410,11 @@ hash = "f666bb4082c616fca0831e911ee30d2608c04cfbc6021bc5b8565d150b6c5da5"
 metafile = true
 
 [[files]]
+file = "mods/gendustry.pw.toml"
+hash = "20019954b02abecb327f632712c23b6ef0eeab763c8887f83aa8c0c384b1a6f2"
+metafile = true
+
+[[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "b122bdf47fc1c75ea6a4eee66d488e0d1e51fdb8f69f3b62cc4800fe743246c8"
 metafile = true
@@ -1520,7 +1541,7 @@ metafile = true
 
 [[files]]
 file = "mods/neodymium.pw.toml"
-hash = "8779f729df420ddc3b22791c95b8e19cbfab6c22445d8b8d02e81e8b76e1f84d"
+hash = "331d0537eb8d16162a39f5eae3c5552d27ab93aec3a277465036c0a6c971559c"
 metafile = true
 
 [[files]]
@@ -1570,7 +1591,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumatic-craft.pw.toml"
-hash = "ec716c4f1c7870b61ab9924dfd94978fb71416f7056c8aab7dca17c1caab145f"
+hash = "71b398a01fb41d0e8db3da288ed16476360ec465f27d556e27a0078c5615cb44"
 metafile = true
 
 [[files]]
@@ -1581,6 +1602,11 @@ metafile = true
 [[files]]
 file = "mods/quantumflux.pw.toml"
 hash = "8054ece8eb50ce9db317ff42f9503b38346bb5a79d4303c4d349769f01a79bb9"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "d6839414c7bb0b563070567904ee7d643d3b6ed29ef23da9530659bc60790b9b"
 metafile = true
 
 [[files]]
@@ -1735,7 +1761,7 @@ hash = "0c77949f05fcb5d7c43062d271d00fcfc0c6262d987c9c8c0d26f705d715cb3a"
 
 [[files]]
 file = "scripts/gears.zs"
-hash = "52b2c4ea37a252e3a9571e29a8a8cac3d4dadb368fbe387080a3b971fa0b3bc4"
+hash = "d4249fad559b5761f52c463d56cf702e0882e11da0a04d49dbca947245168610"
 
 [[files]]
 file = "scripts/gravisuit.zs"

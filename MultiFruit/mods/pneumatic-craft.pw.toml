@@ -1,7 +1,7 @@
 name = "pneumatic-craft"
-filename = "PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
+filename = "PneumaticCraft-mc1.7.10-1.12.8-MF.jar"
 
 [download]
-url = "https://vladislemon.github.io/mod-jars/PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
-hash-format = "sha1"
-hash = "b606e82ebb9bdab13f0d3e87c9700f4bb3de1eb4"
+url = "https://github.com/vladislemon/PneumaticCraft/releases/download/1.12.8-MF/PneumaticCraft-mc1.7.10-1.12.8-MF.jar"
+hash-format = "sha256"
+hash = "95b5525c5b2f4e5841eac621711596af5c79c5f7c637dbabeaf7c874c5194f55"
