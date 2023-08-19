@@ -27,6 +27,10 @@ val rawPlastic = <MineFactoryReloaded:plastic.raw>;
 val obsidianDust = <ThermalFoundation:material:4>;
 val lapisDust = <IC2:itemDust:12>;
 
+//ore dict
+<ore:itemPlastic>.add(plasticPlate);
+<ore:plateIridium>.add(<IC2:itemPartIridium>);
+
 //plates by hammer
 recipes.removeShapeless(ironPlate,   [<ore:ingotIron>,   ic2Hammer]);
 recipes.removeShapeless(copperPlate, [<ore:ingotCopper>, ic2Hammer]);

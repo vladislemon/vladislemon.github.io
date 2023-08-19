@@ -1797,7 +1797,7 @@ hash = "d0ff37fb3ed3b1d462bbe279f36d7302f47805b590542f011bd3a4c3c648688f"
 
 [[files]]
 file = "scripts/plates.zs"
-hash = "aff4e782d4a101860c92e0bbf842a931766ab7b68becf23f7259e924da8b2587"
+hash = "582bbc3858b587a93b3af60b32f4ef225fbaa8752042b7e87a038d6d295fe01b"
 
 [[files]]
 file = "scripts/projectred.zs"
@@ -1806,6 +1806,10 @@ hash = "6baca4e8c7a298f17eb96901b6167cf556727aec744c76348221f1d0e3314388"
 [[files]]
 file = "scripts/quantumflux.zs"
 hash = "f1cc05584418aff4c2fa6a5b38b7b8095b7a34f1e9dcd976e8d08effbe9ac144"
+
+[[files]]
+file = "scripts/railcraft.zs"
+hash = "c5de76ea6b8fa1d079a08208258c7ce33579ee6fccc1699763c405e4e1e646b6"
 
 [[files]]
 file = "scripts/rftools.zs"
