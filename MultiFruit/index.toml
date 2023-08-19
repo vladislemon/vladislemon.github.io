@@ -1756,8 +1756,16 @@ file = "scripts/chipsets.zs"
 hash = "4d7f47d4d112d0395c4dbda5313c69d0c449bc0b9af5c008c953fa9f4b3df973"
 
 [[files]]
+file = "scripts/compactmachines.zs"
+hash = "5aa9523eda4cec7f02e7fca8e27f1c8726de9d8348c5432bb6881c5c38bb1820"
+
+[[files]]
 file = "scripts/enderio.zs"
 hash = "0c77949f05fcb5d7c43062d271d00fcfc0c6262d987c9c8c0d26f705d715cb3a"
+
+[[files]]
+file = "scripts/extrautilities.zs"
+hash = "9134dc4f4e0fc987f4e801779b5f56dac16b424a13a1bc9ae6a01fde93787e88"
 
 [[files]]
 file = "scripts/gears.zs"
