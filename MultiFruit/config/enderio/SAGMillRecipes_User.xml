@@ -115,4 +115,14 @@
       </output>
     </recipe>
   </recipeGroup>
+  <recipeGroup name="Custom" >
+    <recipe name="CokeCoal" energyCost="1500" >
+      <input>
+        <itemStack oreDictionary="fuelCoke" />
+      </input>
+      <output>
+        <itemStack modID="ImmersiveEngineering" itemName="metal" itemMeta="17" number="1" />
+      </output>
+    </recipe>
+  </recipeGroup>
 </SAGMillRecipes>

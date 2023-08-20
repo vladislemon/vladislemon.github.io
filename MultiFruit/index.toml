@@ -442,7 +442,7 @@ hash = "da82e7ce164ef41505d9d6cb42008b007a8aca8dc7379db3e53184d8565e8fb7"
 
 [[files]]
 file = "config/enderio/SAGMillRecipes_User.xml"
-hash = "8dbf86de49dfd829145ec615b946c13c78b7c8c3d5fdc048982297fac5e56d96"
+hash = "a1c5ea2f56a23bc3366ce192ad6a4813b814992a6c633cb6ab4d8444fe2c47cb"
 
 [[files]]
 file = "config/enderio/SliceAndSpliceRecipes_User.xml"
