@@ -1809,7 +1809,7 @@ hash = "f1cc05584418aff4c2fa6a5b38b7b8095b7a34f1e9dcd976e8d08effbe9ac144"
 
 [[files]]
 file = "scripts/railcraft.zs"
-hash = "c5de76ea6b8fa1d079a08208258c7ce33579ee6fccc1699763c405e4e1e646b6"
+hash = "0367fc8e10d9c753718fa25a271a238499060936e52022276da34ec44a3d9c0c"
 
 [[files]]
 file = "scripts/rftools.zs"
