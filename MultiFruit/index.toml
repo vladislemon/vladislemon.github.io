@@ -526,7 +526,7 @@ hash = "e107122e265b43eea662ac9a896d17f604c7b57efbbbbdf3a5b9c1aee0253e2a"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
-hash = "79ebdd1d54ceb121b3ad9baedb3fa32df84a7e7c0a45fea1b56c5b3d632264e0"
+hash = "dc4a5086a5e3b4b6c1763509a467447761e98ca0ac4e5c514381beb9322b280e"
 
 [[files]]
 file = "config/integratedcircuits.cfg"
