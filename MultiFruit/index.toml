@@ -1595,6 +1595,11 @@ hash = "71b398a01fb41d0e8db3da288ed16476360ec465f27d556e27a0078c5615cb44"
 metafile = true
 
 [[files]]
+file = "mods/pressure-pipes.pw.toml"
+hash = "73fc4da5ae91c3aa2ffecb00316c667b470873069b79abe2256d372b98f9a082"
+metafile = true
+
+[[files]]
 file = "mods/project-red.pw.toml"
 hash = "49168a7ce9717343c183708f77b96809ff93c0405460f768ba59bfbd0b0f55cc"
 metafile = true
