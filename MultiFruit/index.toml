@@ -1526,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/multifruit.pw.toml"
-hash = "28ef144a0aff307d7a1ae5f3548106401a335d4a449c59913f859a6c566dd86e"
+hash = "daf7d8f577fa38384fca70d6b93f9cd7d5c9d48fd9ab6834fa64083f73f7446c"
 metafile = true
 
 [[files]]

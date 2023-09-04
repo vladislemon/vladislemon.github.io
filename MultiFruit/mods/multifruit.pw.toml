@@ -1,7 +1,7 @@
 name = "multifruit"
-filename = "multifruit-mc1.7.10-0.0.5.jar"
+filename = "multifruit-mc1.7.10-0.0.6.jar"
 
 [download]
-url = "https://github.com/vladislemon/multifruit/releases/download/0.0.5/multifruit-mc1.7.10-0.0.5.jar"
+url = "https://github.com/vladislemon/multifruit/releases/download/0.0.6/multifruit-mc1.7.10-0.0.6.jar"
 hash-format = "sha256"
-hash = "0db121b2b105d96d10588c7d4559b730a4c9c3bca4f8d98e8679cdcb0cd4f129"
+hash = "12e133f5dbdb61bdd2c135915ba2b23b3f2095b0229b56cf9197e75fb338b4ae"
