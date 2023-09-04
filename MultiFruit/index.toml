@@ -1097,6 +1097,10 @@ file = "config/lwjgl3ify.cfg"
 hash = "e7db74c57874d02c3f8a1cbb09d856cf5ad70dbc7a790f55576c1529c8698e00"
 
 [[files]]
+file = "config/malisisdoors.cfg"
+hash = "c9a0b9adcf74cad58d92fb31a0eae01b0fd1570a9793825397a9fa46dcd7602d"
+
+[[files]]
 file = "config/mcjtylib.cfg"
 hash = "b84a8e6463379555141b9c0b2823207c753f82d10d32143c9896aeb1b696358a"
 
