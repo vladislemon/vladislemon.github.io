@@ -1485,6 +1485,16 @@ hash = "3611c542106a8b0359665f95ad39dbe0ed0bac63c6c4569778bac5cce215b4f2"
 metafile = true
 
 [[files]]
+file = "mods/malisis-core.pw.toml"
+hash = "487aef7a22eec85ddab853d7fabe924fb4aa58cdf9c15c9ecf065e5abea8873c"
+metafile = true
+
+[[files]]
+file = "mods/malisis-doors.pw.toml"
+hash = "ad5451bdfd023546aebe3c098870ade96ac99123f781aabd3e04ab1c07bbfd53"
+metafile = true
+
+[[files]]
 file = "mods/mapwriter.pw.toml"
 hash = "37c02bfdc143eeb7795b2d485771cedf61b0af60f9844fd121124768bb7fa242"
 metafile = true

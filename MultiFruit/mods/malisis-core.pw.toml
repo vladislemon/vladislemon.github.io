@@ -1,0 +1,7 @@
+name = "malisis-core"
+filename = "malisiscore-0.14.9.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/MalisisCore/releases/download/0.14.9/malisiscore-0.14.9.jar"
+hash-format = "sha256"
+hash = "78c60c875267dc4474661ec5db735ed43e0e8c3de6454445398b7283cb1d9997"

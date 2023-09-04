@@ -1,12 +1,12 @@
 name = "MultiFruit"
 author = "vladislemon"
-version = "3.3.1"
+version = "3.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d382bcea7d91f666862cf530f57fb2c9a61d537c70ebbf634fb453d0bb9d2b9e"
+hash = "d7af7607daba339c315fcd1c42c2f89238aeff5b139fbbf1321bf2a06e308f99"
 
 [versions]
 forge = "10.13.4.1614"
