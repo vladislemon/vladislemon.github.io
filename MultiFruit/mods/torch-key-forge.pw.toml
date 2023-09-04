@@ -2,6 +2,11 @@ name = "Torch Key [Forge]"
 filename = "torchkey-mc1.7.10-1.0.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Place torches with hotkey"
+
 [download]
 hash-format = "sha1"
 hash = "eac8901831cfb2c49e55b226972ca444e0b40cb9"

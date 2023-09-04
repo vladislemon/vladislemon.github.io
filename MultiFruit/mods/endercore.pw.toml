@@ -1,7 +1,7 @@
 name = "endercore"
-filename = "endercore-0.2.16.jar"
+filename = "endercore-0.2.17.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.2.16/endercore-0.2.16.jar"
-hash-format = "sha1"
-hash = "7cacc90e12460726c94691e7958ec0621d8b7c01"
+url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.2.17/endercore-0.2.17.jar"
+hash-format = "sha256"
+hash = "a130933c9b5281ae8c12eff0171b96f5d34073f236fa8a6a71da349101e0582f"

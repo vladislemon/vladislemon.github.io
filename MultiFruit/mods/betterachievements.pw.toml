@@ -1,5 +1,11 @@
 name = "betterachievements"
 filename = "BetterAchievements-1.7.10-0.1.3.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Convenient screen selection by mod but weird zoom"
 
 [download]
 url = "https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.1.3/BetterAchievements-1.7.10-0.1.3.jar"
