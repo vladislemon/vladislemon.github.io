@@ -48,3 +48,7 @@ vanilla.loot.removeChestLoot("mineshaftCorridor", <IC2:itemShardIridium>);
 vanilla.loot.removeChestLoot("strongholdCorridor", <IC2:itemShardIridium>);
 vanilla.loot.removeChestLoot("strongholdCrossing", <IC2:itemShardIridium>);
 vanilla.loot.removeChestLoot("villageBlacksmith", <IC2:itemShardIridium>);
+
+//reinforced stone
+mods.thermalexpansion.Transposer.addFillRecipe(1000, ironScaffold, reinforcedFoam, <liquid:ic2constructionfoam> * 100);
+mods.thermalexpansion.Smelter.addRecipe(2500, reinforcedFoam, sandBlock, reinforcedStone);
