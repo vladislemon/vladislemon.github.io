@@ -1644,11 +1644,6 @@ hash = "2ac1a503d28cf2c70054e33e703cb6aad4afe33c0a3d00308398f912e5d7275a"
 metafile = true
 
 [[files]]
-file = "mods/optimizationsandtweaks.pw.toml"
-hash = "88cbf80ed174cc3539992e47ee3d5e57a8582f7f10bbdbcf57737eeea8b06433"
-metafile = true
-
-[[files]]
 file = "mods/pneumatic-craft.pw.toml"
 hash = "71b398a01fb41d0e8db3da288ed16476360ec465f27d556e27a0078c5615cb44"
 metafile = true
