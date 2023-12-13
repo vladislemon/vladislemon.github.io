@@ -1,7 +1,7 @@
 name = "ironchest"
-filename = "IronChest-6.0.72.jar"
+filename = "IronChest-6.0.74.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.72/IronChest-6.0.72.jar"
+url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.74/IronChest-6.0.74.jar"
 hash-format = "sha256"
-hash = "79f02a14c58670cec7afba1a1981ce59f309d9f8ad3b469b8c103010f5f7a770"
+hash = "14b3141c8dd327c615fcc8dbc1fcb7aab447a35a9483a73d77e3ba2eafb64bfa"

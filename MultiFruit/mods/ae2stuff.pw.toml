@@ -1,7 +1,7 @@
 name = "ae2stuff"
-filename = "ae2stuff-0.5.7-GTNH.jar"
+filename = "ae2stuff-0.6.0-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.7-GTNH/ae2stuff-0.5.7-GTNH.jar"
+url = "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.6.0-GTNH/ae2stuff-0.6.0-GTNH.jar"
 hash-format = "sha256"
-hash = "6789ecad6b87ed927186620a4ad2de1047364a670864407a73782e6e1981139d"
+hash = "96a412d40c6e98a5adb7cc6e044b70b2d8d3563658965cb8812fffb63efa9cf7"

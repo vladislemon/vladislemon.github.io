@@ -1,7 +1,7 @@
 name = "ftbutilities"
-filename = "FTBUtilities-1.1.0-GTNH.jar"
+filename = "FTBUtilities-1.1.1-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/FTB-Utilities/releases/download/1.1.0-GTNH/FTBUtilities-1.1.0-GTNH.jar"
-hash-format = "sha1"
-hash = "2364d4d80a13f57640142b425adc0e770b432ced"
+url = "https://github.com/GTNewHorizons/FTB-Utilities/releases/download/1.1.1-GTNH/FTBUtilities-1.1.1-GTNH.jar"
+hash-format = "sha256"
+hash = "0eedcc1801fc28322e065d6a9825ea6bef4f2ed2d5c636ca67832c7db842c765"

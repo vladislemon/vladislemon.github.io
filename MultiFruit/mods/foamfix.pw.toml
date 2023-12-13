@@ -1,0 +1,13 @@
+name = "FoamFix"
+filename = "FoamFix-1.7.10-universal-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jupr7Bf5/versions/H4Y7YwTd/FoamFix-1.7.10-universal-1.0.4.jar"
+hash-format = "sha1"
+hash = "a32624a456d2fab26241df30c1612558710202f3"
+
+[update]
+[update.modrinth]
+mod-id = "jupr7Bf5"
+version = "H4Y7YwTd"

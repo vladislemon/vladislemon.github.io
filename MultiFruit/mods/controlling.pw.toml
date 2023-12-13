@@ -1,5 +1,5 @@
 name = "controlling"
-filename = "controlling-1.0.0.5.jar"
+filename = "controlling-2.0.1.jar"
 side = "client"
 
 [option]
@@ -8,6 +8,6 @@ default = true
 description = "Search in key bindings and more"
 
 [download]
-url = "https://github.com/GTNewHorizons/Controlling/releases/download/1.0.0.5/controlling-1.0.0.5.jar"
-hash-format = "sha1"
-hash = "efbb24e532b41e9d135863aa10255833c682a84e"
+url = "https://github.com/GTNewHorizons/Controlling/releases/download/2.0.1/controlling-2.0.1.jar"
+hash-format = "sha256"
+hash = "8c3fa83bb2a881e0c39195950475907d0d9e89d5d72e5c006a26a1557da1d838"

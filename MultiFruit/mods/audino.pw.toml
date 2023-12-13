@@ -1,0 +1,13 @@
+name = "Audino"
+filename = "Audino-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9VVoLur5/versions/IWieTo3r/Audino-1.1.1.jar"
+hash-format = "sha1"
+hash = "90397e4105605f08d3b74cc5a7f6718cea98b6b1"
+
+[update]
+[update.modrinth]
+mod-id = "9VVoLur5"
+version = "IWieTo3r"

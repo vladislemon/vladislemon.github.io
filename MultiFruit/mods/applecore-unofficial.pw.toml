@@ -1,13 +1,13 @@
 name = "AppleCore Unofficial 1.7.10"
-filename = "AppleCore-3.2.11.jar"
+filename = "AppleCore-3.2.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c3I7Akgu/versions/qyuN1QM4/AppleCore-3.2.11.jar"
+url = "https://cdn.modrinth.com/data/c3I7Akgu/versions/zJ1582wR/AppleCore-3.2.12.jar"
 hash-format = "sha1"
-hash = "c8a43a960f3bf1026f511ae8af2c97944fbd346b"
+hash = "9a844db2bf06b0137ea4b55445e02fc28ffd3c71"
 
 [update]
 [update.modrinth]
 mod-id = "c3I7Akgu"
-version = "qyuN1QM4"
+version = "zJ1582wR"

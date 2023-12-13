@@ -1,0 +1,7 @@
+name = "core-tweaks"
+filename = "CoreTweaks-1.7.10-0.3.3.1+nomixin.jar"
+
+[download]
+url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.1/CoreTweaks-1.7.10-0.3.3.1+nomixin.jar"
+hash-format = "sha256"
+hash = "88ddb8eb9f3a8bced219eb54561954832292b4c5083be4712c90ae8d93a41cd0"
