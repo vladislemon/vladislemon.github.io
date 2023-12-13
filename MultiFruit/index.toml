@@ -1439,11 +1439,6 @@ hash = "e252f2d2297dc6b05c8dc8f2ded85ac09e9eee02430f7b681f7bdeb8106ba0cb"
 metafile = true
 
 [[files]]
-file = "mods/fplib.pw.toml"
-hash = "b4300df888cb1150abeb9eb7daf46828c685b7c02bf611b9eedc2c6cf0ad976d"
-metafile = true
-
-[[files]]
 file = "mods/ftblib.pw.toml"
 hash = "aa49bee9823f256272e2fb17e3d91f500bbc67b1059ae502677c51fb53f79fbf"
 metafile = true
