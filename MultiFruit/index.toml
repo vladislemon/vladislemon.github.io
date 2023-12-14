@@ -461,6 +461,42 @@ file = "config/endertech/items.cfg"
 hash = "f1a574d647b0e2c0397d360a036ed8a9299a8d1451523d8891bac2522ad4cbdf"
 
 [[files]]
+file = "config/etfuturum/blocksitems.cfg"
+hash = "d5fd29817e482c4d79353064dd7b42d5abab86f551b3dc8cfb2b3795a5615ecd"
+
+[[files]]
+file = "config/etfuturum/enchantspotions.cfg"
+hash = "291e03b3c2a13a40af98c53c19ccfa9a84b585cd853faaa99402077a0ccae066"
+
+[[files]]
+file = "config/etfuturum/entities.cfg"
+hash = "dca8c65f52791edebec8db15efc02aa0852ec1ba87315e77bf2c7a1c07aecb64"
+
+[[files]]
+file = "config/etfuturum/functions.cfg"
+hash = "5874d10712f340f03ee7ccb76a4cc2ad6f40aed9230098747b8aa06309106a49"
+
+[[files]]
+file = "config/etfuturum/mixins.cfg"
+hash = "538bb9bd5f7f8cf22c71b19ac80fb57a69bca9dc013745a132449e45f93b44dd"
+
+[[files]]
+file = "config/etfuturum/modcompat.cfg"
+hash = "4248c1c4c51458ec90451214e0cf279300f0a8486f48856ff2654f0f0c90713a"
+
+[[files]]
+file = "config/etfuturum/sounds.cfg"
+hash = "442ba1a6efd64419eb42a204c5b29768b3e07a8809cb5ec4ed42c9d7edeee9eb"
+
+[[files]]
+file = "config/etfuturum/tweaks.cfg"
+hash = "b7ed7697029c8d78b622e5dd6046102c8e8f81bb7590f0bf58ac79e73d09fc5b"
+
+[[files]]
+file = "config/etfuturum/world.cfg"
+hash = "9286915fdc3f1bc771bd82e4ffa7f924c8eaa0bc3d4ded9de04b9323e7569199"
+
+[[files]]
 file = "config/fastcraft.ini"
 hash = "01a37fb30d89f59324360d3e7ae1cae238e331af7a57913dc587ee7be8f7f814"
 
