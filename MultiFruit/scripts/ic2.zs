@@ -9,6 +9,10 @@ val copperCoil = <Magneticraft:item.copper_coil>;
 val energyCrystal = <IC2:itemBatCrystal>;
 val advancedAlloy = <IC2:itemPartAlloy>;
 val glassFibreCable = <IC2:itemCable:9>;
+val reinforcedFoam = <IC2:blockReinforcedFoam>;
+val reinforcedStone = <IC2:blockAlloy>;
+val ironScaffold = <IC2:blockIronScaffold>;
+val sandBlock = <minecraft:sand>;
 
 recipes.remove(circuit);
 recipes.addShaped(circuit,
