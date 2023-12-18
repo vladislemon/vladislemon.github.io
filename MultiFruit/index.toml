@@ -505,6 +505,10 @@ file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
 
 [[files]]
+file = "config/foamfix.cfg"
+hash = "4bff0c2b94741ef489efc063b337e52ffd99096476cdbe61ba13493ef9df27dd"
+
+[[files]]
 file = "config/forestry/apiculture.cfg"
 hash = "a61fb94666ee283d78a8cdc2e3c6fe882005e849c6327b83e089a6f363370956"
 
