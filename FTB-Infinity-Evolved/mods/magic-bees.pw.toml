@@ -1,0 +1,7 @@
+name = "magic-bees"
+filename = "magicbees-2.7.1-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/MagicBees/releases/download/2.7.1-GTNH/magicbees-2.7.1-GTNH.jar"
+hash-format = "sha256"
+hash = "d03b61aadd82bfd1b4cabb3752dec7a1dbc6b30b69cd0ec5d6371b0b3ffc08fd"

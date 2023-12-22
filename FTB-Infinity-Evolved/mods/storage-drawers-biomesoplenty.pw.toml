@@ -1,0 +1,7 @@
+name = "storage-drawers-biomesoplenty"
+filename = "StorageDrawersBop-1.7.10-1.11.17-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.11.17-GTNH/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar"
+hash-format = "sha256"
+hash = "fb97428bf11ac0f3dc643c03923dfdf36307f6cd2dbfdaff09105d716c85f3c4"

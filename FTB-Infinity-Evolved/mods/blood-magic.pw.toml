@@ -1,0 +1,7 @@
+name = "blood-magic"
+filename = "BloodMagic-1.4.3.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.4.3/BloodMagic-1.4.3.jar"
+hash-format = "sha256"
+hash = "3059f062b640f15d96afa70f847cd659f0a719ff5bf722d08335757ae1d8877b"

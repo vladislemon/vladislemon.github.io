@@ -1,0 +1,7 @@
+name = "storage-drawers-natura"
+filename = "StorageDrawersNatura-1.7.10-1.11.17-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/StorageDrawers-Natura/releases/download/1.11.17-GTNH/StorageDrawersNatura-1.7.10-1.11.17-GTNH.jar"
+hash-format = "sha256"
+hash = "29f31020a562306d9921a5c6cbab89407e51354d1bdeb9a36153d561fb27023c"

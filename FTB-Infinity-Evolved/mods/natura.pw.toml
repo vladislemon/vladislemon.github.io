@@ -1,0 +1,7 @@
+name = "natura"
+filename = "Natura-2.5.7.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Natura/releases/download/2.5.7/Natura-2.5.7.jar"
+hash-format = "sha256"
+hash = "143240601ac421671874063cc11127952cff0f4cb69297c3ed2930eb259fc761"

@@ -1,0 +1,13 @@
+name = "GraviSuiteUnoficial 1.7.10"
+filename = "GraviSuiteUnofficial.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61407249bb4414da830f2d468e99700a247f8221"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3117780
+project-id = 421184

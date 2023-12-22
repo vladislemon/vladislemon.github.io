@@ -1,0 +1,7 @@
+name = "thaumic-exploration"
+filename = "Thaumic-Exploration-1.2.0-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.2.0-GTNH/Thaumic-Exploration-1.2.0-GTNH.jar"
+hash-format = "sha256"
+hash = "a1327f5dd000f6bd7d0170128d475a2af6022c864b0e70c2c261699180c416e0"

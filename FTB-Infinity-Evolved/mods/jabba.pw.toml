@@ -1,0 +1,7 @@
+name = "jabba"
+filename = "JABBA-1.3.1.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Jabba/releases/download/1.3.1/JABBA-1.3.1.jar"
+hash-format = "sha256"
+hash = "c694440dd0e28a0fc683e761600d1d65115e34e177e94d269dd99856407f23cd"

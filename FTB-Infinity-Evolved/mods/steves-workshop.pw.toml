@@ -1,0 +1,13 @@
+name = "Steve's Workshop"
+filename = "StevesWorkshop-0.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c7e54effb7cb928aae1fdd5c88a277249fdc67b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2214014
+project-id = 223173

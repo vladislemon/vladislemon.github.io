@@ -1,0 +1,13 @@
+name = "Et Futurum Requiem"
+filename = "Et_Futurum_Requiem-2.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o56psTwz/versions/NUSiJv7c/Et_Futurum_Requiem-2.5.1.jar"
+hash-format = "sha1"
+hash = "0411a6b60676f87639b49f0f0c030ac7317622cc"
+
+[update]
+[update.modrinth]
+mod-id = "o56psTwz"
+version = "NUSiJv7c"

@@ -1,0 +1,7 @@
+name = "tic-tooltips"
+filename = "TiCTooltips-1.3.0.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.3.0/TiCTooltips-1.3.0.jar"
+hash-format = "sha256"
+hash = "7c95e2fd15334c5954778bd9cd1c86f404e7533bfc98d6c6ee6bf462f86319e4"

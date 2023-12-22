@@ -1,0 +1,7 @@
+name = "nuclear-control"
+filename = "IC2NuclearControl-2.5.0.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.5.0/IC2NuclearControl-2.5.0.jar"
+hash-format = "sha256"
+hash = "9d8991275ed37805532a9b3bb0179297bef6c49b0ba7a63352a92e668e610dfe"

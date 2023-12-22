@@ -1,0 +1,13 @@
+name = "Springboards"
+filename = "Springboards-1.7.10-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "752cbf036f61344ca61210f54b3e3bb0fb9e56eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225458
+project-id = 227301

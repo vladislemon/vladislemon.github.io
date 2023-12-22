@@ -1,0 +1,7 @@
+name = "storage-drawers-forestry"
+filename = "StorageDrawersForestry-1.7.10-1.11.17-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.11.17-GTNH/StorageDrawersForestry-1.7.10-1.11.17-GTNH.jar"
+hash-format = "sha256"
+hash = "f9a5e85718e1ae16df7f4c518c36195bcc3ff3ae1eeaa53efc0957f16a94145c"

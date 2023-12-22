@@ -1,0 +1,7 @@
+name = "applied-energistics"
+filename = "appliedenergistics2-rv3-beta-304-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-304-GTNH/appliedenergistics2-rv3-beta-304-GTNH.jar"
+hash-format = "sha256"
+hash = "01a01acd4b72357ac175313f85693525fa6e37b9770f6a1ca295501dff1d8565"

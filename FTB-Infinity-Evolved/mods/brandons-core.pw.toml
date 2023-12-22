@@ -1,0 +1,7 @@
+name = "brandons-core"
+filename = "BrandonsCore-1.7.10-1.0.0.13-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.0.0.13-GTNH/BrandonsCore-1.7.10-1.0.0.13-GTNH.jar"
+hash-format = "sha256"
+hash = "857ef3a91a3e53d622487d7736a405d885ad32e0ad8be73aa350643fd7ee0f01"

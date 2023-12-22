@@ -1,0 +1,7 @@
+name = "gendustry"
+filename = "gendustry-1.7.10-1.6.5.5-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/gendustry/releases/download/1.6.5.5-GTNH/gendustry-1.7.10-1.6.5.5-GTNH.jar"
+hash-format = "sha256"
+hash = "f55d4e3f94b948a72e67bc050486c159234db745286ea7f365e3bbe0e527c668"

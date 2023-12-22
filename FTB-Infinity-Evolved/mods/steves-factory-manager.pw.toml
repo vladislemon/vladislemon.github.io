@@ -1,0 +1,7 @@
+name = "steves-factory-manager"
+filename = "StevesFactoryManager-1.1.7-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Steve-s-Factory-Manager/releases/download/1.1.7-GTNH/StevesFactoryManager-1.1.7-GTNH.jar"
+hash-format = "sha256"
+hash = "b7a85039fbf87dc6fbeef77c8296a6e0c16b5c8f18998ec5946128b526242679"

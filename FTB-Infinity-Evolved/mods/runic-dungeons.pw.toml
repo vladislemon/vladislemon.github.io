@@ -1,0 +1,13 @@
+name = "Runic Dungeons"
+filename = "RunicDungeons-1.1.7b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1df562694aed00055a318b19fc9bb172ce157798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2310826
+project-id = 227065

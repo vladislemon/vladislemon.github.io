@@ -1,0 +1,13 @@
+name = "Baubles Expanded"
+filename = "BaublesExpanded-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pAqS7wsC/versions/uVJG9ptZ/BaublesExpanded-2.1.4.jar"
+hash-format = "sha1"
+hash = "ecb2a43bd245ec98e4bb3109ca2990e61c3f7523"
+
+[update]
+[update.modrinth]
+mod-id = "pAqS7wsC"
+version = "uVJG9ptZ"

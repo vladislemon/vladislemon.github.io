@@ -1,0 +1,7 @@
+name = "forge-relocation-fmp"
+filename = "ForgeRelocationFMP-1.7.10-0.0.4.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForgeRelocationFMP/releases/download/0.0.4/ForgeRelocationFMP-1.7.10-0.0.4.jar"
+hash-format = "sha1"
+hash = "a56c041e3116a2611e3b1b07308ce04d1ab756d5"

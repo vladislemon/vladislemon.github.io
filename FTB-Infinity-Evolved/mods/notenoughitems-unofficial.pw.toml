@@ -1,0 +1,13 @@
+name = "NotEnoughItems Unofficial 1.7.10"
+filename = "NotEnoughItems-2.4.13-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/LkVGNKhd/NotEnoughItems-2.4.13-GTNH.jar"
+hash-format = "sha1"
+hash = "b8db69c1b5dc3ef839ed1970c98e679b1466a472"
+
+[update]
+[update.modrinth]
+mod-id = "iNPc3Onu"
+version = "LkVGNKhd"

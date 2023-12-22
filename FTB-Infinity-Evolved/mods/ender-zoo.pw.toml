@@ -1,0 +1,7 @@
+name = "ender-zoo"
+filename = "EnderZoo-1.7.10-1.0.23.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/EnderZoo/releases/download/1.0.23/EnderZoo-1.7.10-1.0.23.jar"
+hash-format = "sha256"
+hash = "0ddf12cb6ac3b9cf6c8ba94a739c134224a3b690582f39f67fc20a712bc22374"

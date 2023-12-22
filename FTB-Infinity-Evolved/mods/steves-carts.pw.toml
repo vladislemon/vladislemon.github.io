@@ -1,0 +1,7 @@
+name = "steves-carts"
+filename = "StevesCarts-1.7.10-2.0.2.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/SC2/releases/download/2.0.2/StevesCarts-1.7.10-2.0.2.jar"
+hash-format = "sha256"
+hash = "dfbcfd5ec92736d58e2dac970d05943fce464ce710837de759e5169ebce1651a"

@@ -1,0 +1,7 @@
+name = "inventory-tweaks"
+filename = "inventorytweaks-1.6.1.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.6.1/inventorytweaks-1.6.1.jar"
+hash-format = "sha256"
+hash = "c105c0af2a24586a47493d116ebb82a00315ec1ff46610466028549e37c6ffd7"

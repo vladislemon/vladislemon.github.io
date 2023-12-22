@@ -1,0 +1,7 @@
+name = "mantle"
+filename = "Mantle-0.3.7.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Mantle/releases/download/0.3.7/Mantle-0.3.7.jar"
+hash-format = "sha256"
+hash = "e854310e0a4c91e2e9b77740bb96076b8f81c62f1b6616afcfc12fe221d32cc0"

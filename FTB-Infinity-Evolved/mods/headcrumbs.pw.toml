@@ -1,0 +1,13 @@
+name = "Headcrumbs"
+filename = "Headcrumbs-1.7.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcd60a65b41f6d719be8cc5ba3b34839d794142c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2279949
+project-id = 222838

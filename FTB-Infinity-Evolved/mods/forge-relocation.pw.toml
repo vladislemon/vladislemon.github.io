@@ -1,0 +1,7 @@
+name = "forge-relocation"
+filename = "ForgeRelocation-1.7.10-0.0.3.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.0.3/ForgeRelocation-1.7.10-0.0.3.jar"
+hash-format = "sha1"
+hash = "719e58b867904ee5204fefaf6aa15106f637b9d5"

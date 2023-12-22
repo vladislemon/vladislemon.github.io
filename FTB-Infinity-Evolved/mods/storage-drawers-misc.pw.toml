@@ -1,0 +1,7 @@
+name = "storage-drawers-misc"
+filename = "StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/StorageDrawers-Misc/releases/download/1.11.18-GTNH/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar"
+hash-format = "sha256"
+hash = "0de88bcd969d6bb89a344e3b8e7c1579e1997537f57bf6a82bf7f6ab51f940f5"

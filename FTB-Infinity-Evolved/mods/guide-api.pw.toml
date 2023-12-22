@@ -1,0 +1,7 @@
+name = "guide-api"
+filename = "guideapi-1.7.10-1.0.2.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Guide-API/releases/download/1.0.2/guideapi-1.7.10-1.0.2.jar"
+hash-format = "sha256"
+hash = "1b4fccedf1b9e1054808dd8bef34e295f63ec04b572b51cd46010dcbefdbe7c1"

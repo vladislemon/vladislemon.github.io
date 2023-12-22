@@ -1,0 +1,13 @@
+name = "Hardcore Questing Mode [FORGE/FABRIC]"
+filename = "HQM-The Journey-4.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb19d7d55a9411051acde00e1ff3daeb9fadd3c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2270435
+project-id = 77027

@@ -1,0 +1,7 @@
+name = "solar-expansion"
+filename = "SolarExpansion-Basic-1.6a.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/SolarExpansion-Basic-1.6a.jar"
+hash-format = "sha256"
+hash = "5fbeb618b327ebac9c5c62b04637c39b58983b58f3663dc0a14824521eead135"

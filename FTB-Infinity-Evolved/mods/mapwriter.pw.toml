@@ -1,0 +1,12 @@
+name = "mapwriter"
+filename = "MapWriter-mc1.7.10-2.2.4.jar"
+
+[option]
+optional = true
+default = true
+description = "Minimap"
+
+[download]
+url = "https://github.com/vladislemon/mapwriter/releases/download/2.2.4/MapWriter-mc1.7.10-2.2.4.jar"
+hash-format = "sha256"
+hash = "11423d60aa3ade0dec9eb0ebd9ff2bfa171a673990a74d33c09662da55dad121"
