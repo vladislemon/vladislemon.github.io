@@ -2839,6 +2839,11 @@ hash = "c21251a7b6f7f27c833bc0859f062020ca6ab2afc96962c0fa966f8f2382cbcd"
 metafile = true
 
 [[files]]
+file = "mods/realbench.pw.toml"
+hash = "21f7783fcf17865b08a85fb36362d491a7018e97796f3cc5127a65700e28d7d4"
+metafile = true
+
+[[files]]
 file = "mods/redirectionor-retro.pw.toml"
 hash = "9c946ae233b857922177f528ff168487b1dc5a3c7ac0eb9dac1d3168202b5dcc"
 metafile = true

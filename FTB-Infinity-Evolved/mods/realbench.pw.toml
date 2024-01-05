@@ -1,0 +1,13 @@
+name = "RealBench"
+filename = "RealBench-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6417596a832c5cac4772093e11c68a70ae7eef2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2264539
+project-id = 237414
