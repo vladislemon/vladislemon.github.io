@@ -1,5 +1,6 @@
 name = "custom-main-menu"
 filename = "custommainmenu-1.10.3.jar"
+side = "client"
 
 [download]
 url = "https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.10.3/custommainmenu-1.10.3.jar"

@@ -653,6 +653,10 @@ file = "config/Morpheus.cfg"
 hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "f359879a7ee4fb28fa143b1104cfc66664915c4426d1f4711e04813b89469896"
+
+[[files]]
 file = "config/MrTJPCore.cfg"
 hash = "170a748c66f97533d4b889af56cdcba01a32ee52b2c38f4bd59d72a7cdfdb55a"
 
@@ -1613,18 +1617,6 @@ file = "icon.png"
 hash = "b41bbe99fd0731f228e31f4aae201cbe7771d3fb7bc0d811c88aeea1960b5310"
 
 [[files]]
-file = "local/client/config.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "local/ftblib.json"
-hash = "5697c44c4174d8bf44350150a2f2dea3609d1970983115dada515cf17c855654"
-
-[[files]]
-file = "local/ftbu/config.json"
-hash = "f125306c9b2beb64db8b4876a60dfab42e98e19dbab2dc340cfc67cb7e1ae72b"
-
-[[files]]
 file = "mmc-pack-updater.pw.toml"
 hash = "5dbd9ace890c54ab997a9e67c81a7784979a4b7d92035398d7c8c1518453600d"
 metafile = true
@@ -2493,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
-hash = "28a0860c56a8a53f44c1c2f7f0574e5d6971352f184516fb4c5b83af75c70387"
+hash = "ad9fd28d4de67a19e703be9b77ce10e40b81572a93d29d61a3589eebf985805b"
 metafile = true
 
 [[files]]
@@ -2858,7 +2850,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-loader.pw.toml"
-hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+hash = "8403c11fa2595992f363b50488e3c96d8736831c9c63a1d34caab16e25eb1d1f"
 metafile = true
 
 [[files]]
