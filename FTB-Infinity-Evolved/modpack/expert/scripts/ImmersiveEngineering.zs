@@ -16,11 +16,11 @@ print("Initializing 'ImmersiveEngineering.zs'...");
 #plateSteel.remove(<ImmersiveEngineering:metal:38>);
 
 #removePlateHammer
-recipes.removeShaped(<ImmersiveEngineering:metal:38>, [[<ore:ingotSteel>, <ImmersiveEngineering:tool>]]);
-recipes.removeShaped(<ImmersiveEngineering:metal:36>, [[<ore:ingotConstantan>, <ImmersiveEngineering:tool>]]);
-recipes.removeShaped(<ImmersiveEngineering:metal:33>, [[<ore:ingotLead>, <ImmersiveEngineering:tool>]]);
-recipes.removeShaped(<ImmersiveEngineering:metal:32>, [[<ore:ingotAluminium>, <ImmersiveEngineering:tool>]]);
-recipes.removeShaped(<ImmersiveEngineering:metal:30>, [[<ore:ingotIron>, <ImmersiveEngineering:tool>]]);
+recipes.removeShapeless(<ImmersiveEngineering:metal:38>, [<ore:ingotSteel>, <ImmersiveEngineering:tool>]);
+recipes.removeShapeless(<ImmersiveEngineering:metal:36>, [<ore:ingotConstantan>, <ImmersiveEngineering:tool>]);
+recipes.removeShapeless(<ImmersiveEngineering:metal:33>, [<ore:ingotLead>, <ImmersiveEngineering:tool>]);
+recipes.removeShapeless(<ImmersiveEngineering:metal:32>, [<ore:ingotAluminium>, <ImmersiveEngineering:tool>]);
+recipes.removeShapeless(<ImmersiveEngineering:metal:30>, [<ore:ingotIron>, <ImmersiveEngineering:tool>]);
 
 recipes.remove(<ImmersiveEngineering:metalDevice2:10>);
 recipes.remove(<ImmersiveEngineering:metalDevice2:6>);

@@ -1795,7 +1795,7 @@ hash = "8a4c538890ceb6516f4ac6ba8b6312e2c27d9b48530b2a94c2211d43c4b446ff"
 
 [[files]]
 file = "modpack/expert/scripts/ImmersiveEngineering.zs"
-hash = "e250d33ee68f4183e13cfadb9e6dab27315a10b1725cc370c04ade9403f2f3e0"
+hash = "3a3130111e05a5293ce7ccfa27656e1a9bba12fd421ba8669e9307970f4dd965"
 
 [[files]]
 file = "modpack/expert/scripts/IndustrialCraft2.zs"
