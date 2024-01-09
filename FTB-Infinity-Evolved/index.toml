@@ -514,7 +514,7 @@ hash = "0938ea977a6a39c0e43dbed016df1fe1c266eed56639fd7d882c1f930aa311ae"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "19056f120b1c90219b472a5764facea805d52810e99a0ec05053d44d13161d0e"
+hash = "f26df76a1248ea2d54bf3a6b7fad23877dfecfa980d8817272f837b1dc03487d"
 
 [[files]]
 file = "config/IC2NuclearControl.cfg"
