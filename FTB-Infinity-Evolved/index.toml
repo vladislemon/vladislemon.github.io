@@ -1823,7 +1823,7 @@ hash = "3fcffee9342ede36d7c769ebbfe84b3330face27ff77b6a7a9d4884de62822e0"
 
 [[files]]
 file = "modpack/expert/scripts/MineFactoryReloaded.zs"
-hash = "f86c4d161fa537798d6533bda594ed17c427e68181e807a0fc42ae0c025a35ee"
+hash = "0392250a0fc35dea47e8c0e78eb7b95e235fe4ce00f2c7425863a9865f9860e5"
 
 [[files]]
 file = "modpack/expert/scripts/MinecraftGettingStarted.zs"

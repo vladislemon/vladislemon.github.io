@@ -1,12 +1,12 @@
 name = "FTB Infinity Evolved"
 author = "FTB Team (vladislemon edition)"
-version = "3.2.6"
+version = "3.2.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "42d1da7702ce72343a25003ff20daf72c9664f90448048b3e205d86b1d64cd59"
+hash = "5745644be082ce9754a5298b337bfcdb62c8e1f01ebe01635b7bf939fca384bd"
 
 [versions]
 forge = "10.13.4.1614"
