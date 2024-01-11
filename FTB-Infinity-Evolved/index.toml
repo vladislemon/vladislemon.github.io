@@ -1846,6 +1846,10 @@ file = "modpack/expert/scripts/PortalGun.zs"
 hash = "004697fa193e0b5a14e82818b02ae882e1728d1ba7ad3b182179a6cfd6ba1902"
 
 [[files]]
+file = "modpack/expert/scripts/ProjectRed.zs"
+hash = "2003509bc4aca83ef9b998b624e7b5199cb45f05eca64de02dfc1374500db96b"
+
+[[files]]
 file = "modpack/expert/scripts/RFTools.zs"
 hash = "85efd044d31b2b8b6576d3bad6cd8b77b60b81551dd940c136e55c03351f3bff"
 
