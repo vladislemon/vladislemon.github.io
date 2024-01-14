@@ -294,7 +294,7 @@ hash = "7e35b5d86e2374c9af6911b6a7bce315d4c3f4d85950a6a385ead1b51a9834f3"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
-hash = "83a696da9cc74728eea573d314062ef870386897d9ebe5d0de9ede4a52066ace"
+hash = "25976176cc4d53567ec8579bba58a3c413ea18678964b3d0b6616a7e032e04ad"
 
 [[files]]
 file = "config/Waila.cfg"
