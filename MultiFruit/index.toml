@@ -330,7 +330,7 @@ hash = "52072f6cc92b10b10491a940ebaa9465aae68739966a186f80b07e79c6d963a0"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
-hash = "f03f4c88a15af5a9f5e76abff2f4d0afa890bbd0d9ce397319e5a6e98f145921"
+hash = "609879f33cf0e59cc952ce7fa145f18a972217030f77d77bf324cd4e59f53c37"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
@@ -497,6 +497,10 @@ file = "config/etfuturum/world.cfg"
 hash = "9286915fdc3f1bc771bd82e4ffa7f924c8eaa0bc3d4ded9de04b9323e7569199"
 
 [[files]]
+file = "config/falsetweaks.cfg"
+hash = "558e2d8dec66b8240e7dd860b338d9c242026bf3734dd234489e829c47763b05"
+
+[[files]]
 file = "config/fastcraft.ini"
 hash = "01a37fb30d89f59324360d3e7ae1cae238e331af7a57913dc587ee7be8f7f814"
 
@@ -558,7 +562,7 @@ hash = "b087cd110f6de99f89a3cecd6351611360bcad69f8f4995fe6faace2f70f497c"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "59d1e78a16c6889053d84ddfcf0e80b98c54b3d4265a1e0c5e09e90a0f4963bc"
+hash = "b1bae4891b2b7f387d1deec72cbc5a0212c39f505716b73f1287d099342db77d"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
@@ -1290,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "ba52fa22ad3381739692ce8f80dde0cde8057a28d6e0f9985230a2270e0ed78b"
+hash = "7cdfce1e74291f1305ea4b9d9790ec02f06623c69ce9afdbfa44e2cb715339cd"
 metafile = true
 
 [[files]]
@@ -1449,6 +1453,11 @@ hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
 metafile = true
 
 [[files]]
+file = "mods/falsetweaks.pw.toml"
+hash = "1ab5973ea5394a8596d5ec6422e27e4fb7c1dd7b82e753e0d4dbbc7dd1a2caf0"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
@@ -1476,6 +1485,11 @@ metafile = true
 [[files]]
 file = "mods/forge-relocation.pw.toml"
 hash = "e252f2d2297dc6b05c8dc8f2ded85ac09e9eee02430f7b681f7bdeb8106ba0cb"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "b4300df888cb1150abeb9eb7daf46828c685b7c02bf611b9eedc2c6cf0ad976d"
 metafile = true
 
 [[files]]
@@ -1555,7 +1569,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "1a0885e8a71d0d41f6855326bbe2aa732991f7206a8bd65559e6253909be7a40"
+hash = "6539db1a74b73ce6c594ea9e08f24b0ce593271b6447c28bcc676f34bacf6ff2"
 metafile = true
 
 [[files]]
@@ -1630,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "mods/neodymium.pw.toml"
-hash = "d3cfaafb9df3d33dd1ab68ee8d7fa8fec60a12bd966360be940078cd3bde048e"
+hash = "aa5a695b971b87060bd877efaa65a80b9a5e6906505494a804ff7416dfe3a56c"
 metafile = true
 
 [[files]]
@@ -1810,7 +1824,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "a92a87b12420e20636dffc06a0b1e888b7563007705263e13c846ae395b92c4d"
+hash = "3e57edc5e88801b21e33e6824beff48fdaba66a4c49e615021e874c17764e743"
 metafile = true
 
 [[files]]

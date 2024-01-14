@@ -1,13 +1,13 @@
 name = "neodymium"
-filename = "neodymium-1.7.10-0.1.9+nomixin.jar"
+filename = "neodymium-1.7.10-0.2+nomixin.jar"
 side = "client"
 
 [option]
 optional = true
-default = false
-description = "Optimization mod to boost FPS, sometimes may cause graphical glitches"
+default = true
+description = "Optimization mod to boost FPS"
 
 [download]
-url = "https://github.com/makamys/Neodymium/releases/download/0.1.9/neodymium-1.7.10-0.1.9+nomixin.jar"
+url = "https://github.com/makamys/Neodymium/releases/download/0.2/neodymium-1.7.10-0.2+nomixin.jar"
 hash-format = "sha256"
-hash = "087e2cb3d8c7950e40308d84dab3f8e8a5e1f80051ad563c816358df3c1961e5"
+hash = "1a73c7d7e3f8e7d5eda3f45c9f69233ed9a0f1f79a152fa7cc962d2afd8fa038"
