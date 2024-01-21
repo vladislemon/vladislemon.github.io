@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/audino.pw.toml"
-hash = "ea0c357e60a8e3bbe9bc05c7d74828c385f52070109c89a03a3cdd46fee2f001"
+hash = "c0fdd7bdfc5a05d54c071564fcc85bfc5936b2a5f7e655baaefcedef77c63a0b"
 metafile = true
 
 [[files]]

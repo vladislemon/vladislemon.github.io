@@ -1,6 +1,6 @@
 name = "Audino"
 filename = "Audino-1.1.1.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true
