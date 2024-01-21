@@ -81,24 +81,8 @@ file = "config/INpureProjects/INpureCore/INpureCore.cfg"
 hash = "a21ff24dcd6f6af4ffa9e445f8ff13d095fe68fc8cd01d554b0c0ad021c9a195"
 
 [[files]]
-file = "config/Ic2Nei.cfg"
-hash = "3f33e71ad2046845fd27d6f406e26174ff03257e213796d34d350523a710acf7"
-
-[[files]]
 file = "config/ImmersiveEngineering.cfg"
 hash = "e5c7936968c8f14aeffc0dd89fc2a49c6189cacb89b63d7239c042be630aaafb"
-
-[[files]]
-file = "config/InvTweaks.cfg"
-hash = "98435e3495ad64100d79602aad6fa8d1f2b135909b6152a15564a0ae1bde2ad9"
-
-[[files]]
-file = "config/InvTweaksRules.txt"
-hash = "0000352266492dce0737a2e841dae5160365d7b56a7fe9a9abb8acab2c5d0827"
-
-[[files]]
-file = "config/InvTweaksTree.txt"
-hash = "cff08041dc5ce51b8d565b238ad9292774a6b34ef5bff22213d18cc37e3b1d5f"
 
 [[files]]
 file = "config/IronChest.cfg"
@@ -126,7 +110,7 @@ hash = "58e96f313127202ff33121cb14fe431c655b8bf8ce3f9e49b8b20a33b30edbed"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "4d4b5ccfbc1ce5241cc1ab56c7ebb6839091d90c24cdb5796fc07713e9e30f22"
+hash = "12025ba44f393403721a4cae1e874ab37d7890ab3ad2b5f1d71ac38ed47d8a73"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -499,10 +483,6 @@ hash = "9286915fdc3f1bc771bd82e4ffa7f924c8eaa0bc3d4ded9de04b9323e7569199"
 [[files]]
 file = "config/falsetweaks.cfg"
 hash = "558e2d8dec66b8240e7dd860b338d9c242026bf3734dd234489e829c47763b05"
-
-[[files]]
-file = "config/fastcraft.ini"
-hash = "01a37fb30d89f59324360d3e7ae1cae238e331af7a57913dc587ee7be8f7f814"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -1137,10 +1117,6 @@ file = "config/jaopca/modules/tiny_dust.toml"
 hash = "44a38da848ad438484e0c5594278541d351d0ef031690ec68fd4947df301c4fa"
 
 [[files]]
-file = "config/lwjgl3ify.cfg"
-hash = "e7db74c57874d02c3f8a1cbb09d856cf5ad70dbc7a790f55576c1529c8698e00"
-
-[[files]]
 file = "config/malisisdoors.cfg"
 hash = "c9a0b9adcf74cad58d92fb31a0eae01b0fd1570a9793825397a9fa46dcd7602d"
 
@@ -1173,16 +1149,8 @@ file = "config/neiintegration.cfg"
 hash = "c746ca72335c9edb92d9336d21af60573285b05b69f0e71b1a1d78b5d3661860"
 
 [[files]]
-file = "config/neresources.cfg"
-hash = "9b896cccc31a1a3a2e4f6fb6f36da1777fcc46076a6e79d4b96a98f234aef32b"
-
-[[files]]
 file = "config/opencomputers/user.recipes"
 hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
-
-[[files]]
-file = "config/overloadedarmorbar.cfg"
-hash = "8b95bbd0132997e9f3c228c6134e6ab3b5c3003eece90b0dbef11b927e486087"
 
 [[files]]
 file = "config/powercrystals/minefactoryreloaded/common.cfg"
@@ -1304,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/audino.pw.toml"
-hash = "4b5a247d66490ebcfff9ae82c8d1d0a716b84f97c0379e4e8b4702c9ffab6fae"
+hash = "ea0c357e60a8e3bbe9bc05c7d74828c385f52070109c89a03a3cdd46fee2f001"
 metafile = true
 
 [[files]]
