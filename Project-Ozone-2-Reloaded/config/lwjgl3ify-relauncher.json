@@ -1,0 +1,20 @@
+{
+  "javaInstallationsCache": [
+    "C:\\Users\\vladislemon\\.sdkman\\candidates\\java\\21.0.3.fx-librca\\bin\\javaw.exe"
+  ],
+  "javaInstallation": 0,
+  "minMemoryMB": 512,
+  "maxMemoryMB": 4096,
+  "garbageCollector": "G1GC",
+  "customOptions": [],
+  "hideSettingsOnLaunch": false,
+  "forwardLogs": false,
+  "allowDebugger": false,
+  "waitForDebugger": false,
+  "mixinDebug": false,
+  "mixinDebugExport": false,
+  "mixinDebugCount": false,
+  "fmlDebugAts": false,
+  "rfbDumpClasses": false,
+  "rfbDumpPerTransformer": false
+}

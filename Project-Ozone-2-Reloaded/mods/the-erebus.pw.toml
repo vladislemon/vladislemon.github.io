@@ -1,0 +1,13 @@
+name = "The Erebus"
+filename = "TheErebus-0.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37eb8c530b466c65354c49db6c7b552f1ca95ad0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305035
+project-id = 220698

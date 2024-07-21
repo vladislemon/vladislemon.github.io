@@ -1,0 +1,13 @@
+name = "Magneticraft"
+filename = "magneticraft-0.6.1-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8b88d8a61499d4a9fd0b979f3d3945e8809623a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2276268
+project-id = 224808

@@ -1,0 +1,13 @@
+name = "MFR Magical Crops Compatibility"
+filename = "minefactory-magicalcrops-compatibility-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b26c2a314f35b4dc7e8e0dbd36170b2edb20a815"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2289210
+project-id = 227983

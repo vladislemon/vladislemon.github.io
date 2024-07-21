@@ -1,0 +1,7 @@
+name = "universal-singularities"
+filename = "Universal-Singularities-8.7.0.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.7.0/Universal-Singularities-8.7.0.jar"
+hash-format = "sha256"
+hash = "5ec982dadda4e9d526c44518dc73619c9404ee9dd8db4973019209aaff2ca5b6"

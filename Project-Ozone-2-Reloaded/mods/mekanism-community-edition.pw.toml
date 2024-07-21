@@ -1,0 +1,13 @@
+name = "Mekanism Community Edition"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.36-ALL.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/toGHjw6t/versions/c7oADfCd/Mekanism-Community-Edition-1.7.10-9.10.36-ALL.jar"
+hash-format = "sha1"
+hash = "291df2f2712b8a5b3c423e40e761ae1ff9cef1d5"
+
+[update]
+[update.modrinth]
+mod-id = "toGHjw6t"
+version = "c7oADfCd"

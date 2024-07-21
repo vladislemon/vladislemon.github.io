@@ -1,0 +1,13 @@
+name = "Baublelicious"
+filename = "baublelicious-1.7.10-1.2.2-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d45ade45b3e61880d7a61d74a94f5b894cab05e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2356498
+project-id = 223951

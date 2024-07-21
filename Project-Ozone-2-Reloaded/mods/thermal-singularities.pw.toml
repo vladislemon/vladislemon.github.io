@@ -1,0 +1,13 @@
+name = "Thermal Singularities"
+filename = "ThermalSingularities-1.7.10-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16fc6d27b4f8d7fff2facced1924d8da2063c165"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2309489
+project-id = 246473

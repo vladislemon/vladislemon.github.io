@@ -1,0 +1,7 @@
+name = "open-mods-lib"
+filename = "OpenModsLibs-0.10.9.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.9/OpenModsLibs-0.10.9.jar"
+hash-format = "sha256"
+hash = "9028efa71dc98ca80aff9cfe9bb0f55ebe11ee381579ba9f04a4d028f3ad928f"

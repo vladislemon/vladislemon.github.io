@@ -1,0 +1,7 @@
+name = "better-builders-wands"
+filename = "BetterBuildersWands-0.12.0-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.12.0-GTNH/BetterBuildersWands-0.12.0-GTNH.jar"
+hash-format = "sha256"
+hash = "23a632173b833b619d0c1edd655f38db527a398ee385ef2d026e5a709ec47356"

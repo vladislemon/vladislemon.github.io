@@ -1,0 +1,13 @@
+name = "Random Things"
+filename = "RandomThings-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3295c57cce3a330bc382bbc07cde0b7de4b3824b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225310
+project-id = 59816

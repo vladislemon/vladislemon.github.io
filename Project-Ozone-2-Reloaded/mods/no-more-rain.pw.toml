@@ -1,0 +1,13 @@
+name = "No More Rain"
+filename = "nomorerain-1.7.10-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "457852e1cbd2047ca547b72fe360a554ad7a91d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2301066
+project-id = 245232

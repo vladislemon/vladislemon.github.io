@@ -1,0 +1,13 @@
+name = "Hardcore Map Reset"
+filename = "HardCoreMapReset-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "039a17e95c60b26979de201275296ca667524140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2248866
+project-id = 222536

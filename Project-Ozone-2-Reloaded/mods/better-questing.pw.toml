@@ -1,0 +1,7 @@
+name = "better-questing"
+filename = "BetterQuesting-3.6.10-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.6.10-GTNH/BetterQuesting-3.6.10-GTNH.jar"
+hash-format = "sha256"
+hash = "aedffed1d2584a2066ee7ce321f477c5ce3f37a1b151e7845438618091b3324b"

@@ -1,0 +1,12 @@
+name = "mouse-tweaks"
+filename = "MouseTweaks-2.4.17-GTNH.jar"
+
+[option]
+optional = true
+default = true
+description = "Various QoL mouse usage improvements"
+
+[download]
+url = "https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.17-GTNH/MouseTweaks-2.4.17-GTNH.jar"
+hash-format = "sha256"
+hash = "6aad3b93a6796a66910021f5f63797721c5f370eea7df91cd85006278edd939b"

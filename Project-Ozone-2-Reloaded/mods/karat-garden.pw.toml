@@ -1,0 +1,13 @@
+name = "Karat Garden"
+filename = "KaratGarden-0.1.0-[1.7.10].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c15f68d48566ad998739cabe10f6c594c8688f95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2420616
+project-id = 245831

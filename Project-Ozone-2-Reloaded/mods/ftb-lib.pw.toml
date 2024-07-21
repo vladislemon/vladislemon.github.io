@@ -1,0 +1,7 @@
+name = "ftb-lib"
+filename = "FTBLib-1.0.19-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar"
+hash-format = "sha256"
+hash = "69f33ea8367c943b167beb2c29fbe0677a2c7769d2029dd0839070683fbb4f14"

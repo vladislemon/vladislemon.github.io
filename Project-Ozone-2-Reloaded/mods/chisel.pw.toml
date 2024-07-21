@@ -1,0 +1,7 @@
+name = "chisel"
+filename = "chisel-2.15.1-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.15.1-GTNH/chisel-2.15.1-GTNH.jar"
+hash-format = "sha256"
+hash = "fd3bc26c82f38c1bfbaa71622289a9dc9c19dad59fb841c446d5e938e435d740"

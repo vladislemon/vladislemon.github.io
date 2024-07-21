@@ -1,0 +1,13 @@
+name = "Hodgepodge"
+filename = "hodgepodge-2.5.37-pre.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6QQe8Ldy/versions/mv7Eu3pw/hodgepodge-2.5.37-pre.jar"
+hash-format = "sha1"
+hash = "65943d6812643015c919a206a7a35a9300565c9d"
+
+[update]
+[update.modrinth]
+mod-id = "6QQe8Ldy"
+version = "mv7Eu3pw"

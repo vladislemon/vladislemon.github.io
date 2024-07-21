@@ -1,0 +1,13 @@
+name = "No Mob Spawning On Plants"
+filename = "NoMobSpawningOnPlants-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/j3BTyfXc/versions/OFqRVFUZ/NoMobSpawningOnPlants-1.1.jar"
+hash-format = "sha1"
+hash = "7770fa78d0c61b1ddf158c0d017d09fec8e3b506"
+
+[update]
+[update.modrinth]
+mod-id = "j3BTyfXc"
+version = "OFqRVFUZ"

@@ -1,0 +1,13 @@
+name = "Moo Fluids"
+filename = "MooFluids-1.7.10-1.5.01.19a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63502e5062e50a874a6572f83d6662ecec97fb68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225033
+project-id = 74254

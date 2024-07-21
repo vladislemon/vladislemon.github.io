@@ -1,0 +1,7 @@
+name = "defense-tech"
+filename = "DefenseTech-1.7.10-1.0.1.46.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/DefenseTech-1.7.10-1.0.1.46.jar"
+hash-format = "sha256"
+hash = "1c0ccba3e4b0080ed7d61086fd9f1ed44bfa90adcace88a24f4cca771f913b70"

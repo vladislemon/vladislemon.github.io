@@ -1,0 +1,13 @@
+name = "Entity Culling Unofficial"
+filename = "EC-Unofficial-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJyRYxmA/versions/hhwaYdO6/EC-Unofficial-1.0.1.jar"
+hash-format = "sha1"
+hash = "53f0631b9ead7739ed3fb3c0db2add161a4801ca"
+
+[update]
+[update.modrinth]
+mod-id = "tJyRYxmA"
+version = "hhwaYdO6"

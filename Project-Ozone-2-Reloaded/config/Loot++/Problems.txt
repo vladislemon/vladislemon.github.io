@@ -1,0 +1,9 @@
+The following problems were encountered while loading the config files:
+stack_size.cfg 'stack_sizes' #29: The following block or item doesn't seem to exist: 'PortalGun:RecordStillAlive'.
+
+stack_size.cfg 'stack_sizes' #30: The following block or item doesn't seem to exist: 'PortalGun:RecordRadioLoop'.
+
+stack_size.cfg 'stack_sizes' #31: The following block or item doesn't seem to exist: 'PortalGun:RecordWantYouGone'.
+
+stack_size.cfg 'stack_sizes' #39: The following block or item doesn't seem to exist: 'bq_standard:loot_chest'.
+

@@ -1,0 +1,7 @@
+name = "convenient-recipes"
+filename = "ConvenientRecipes-1.7.10-1.3.1.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/ConvenientRecipes-1.7.10-1.3.1.jar"
+hash-format = "sha256"
+hash = "5a0f817f93b99cd280bf6bca82c5d34a6fa3183804bb84c082a9986dd47e98cb"

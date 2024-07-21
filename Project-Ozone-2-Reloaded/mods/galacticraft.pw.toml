@@ -1,0 +1,7 @@
+name = "galacticraft"
+filename = "Galacticraft-3.2.0-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.2.0-GTNH/Galacticraft-3.2.0-GTNH.jar"
+hash-format = "sha256"
+hash = "ba416ae31673f05dfc96ae1829a7c581c3aa0b4c58ff3b35f59c523f6d55925d"

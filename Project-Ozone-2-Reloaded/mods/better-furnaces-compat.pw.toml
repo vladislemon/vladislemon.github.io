@@ -1,0 +1,7 @@
+name = "better-furnaces-compat"
+filename = "BFCompatV3.1.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/BFCompatV3.1.jar"
+hash-format = "sha256"
+hash = "de591bbba6fa12bf3f1eb2929023d4d74120a18de87635a3e638d668d2d8644a"

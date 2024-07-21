@@ -1,0 +1,13 @@
+name = "MoreChisels"
+filename = "MoreChisels-1.7.10-1.0-28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f59caac228bd9f41b7fd4b2e332221302222112b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2263981
+project-id = 227904

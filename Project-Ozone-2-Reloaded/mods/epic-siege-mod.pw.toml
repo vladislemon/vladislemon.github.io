@@ -1,0 +1,13 @@
+name = "Epic Siege Mod"
+filename = "EpicSiegeMod-10.0.148.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d93fc59f2981450cf24040dd90cac7eaa333cd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288000
+project-id = 229449

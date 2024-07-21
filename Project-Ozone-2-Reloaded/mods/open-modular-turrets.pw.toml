@@ -1,0 +1,7 @@
+name = "open-modular-turrets"
+filename = "OpenModularTurrets-2.3.2.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.3.2/OpenModularTurrets-2.3.2.jar"
+hash-format = "sha256"
+hash = "bfc337468ac5a36c31b12e4549299b95ff250a3a7be315cfbfb7f93367719972"

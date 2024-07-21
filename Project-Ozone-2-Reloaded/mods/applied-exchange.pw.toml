@@ -1,0 +1,13 @@
+name = "Applied Exchange"
+filename = "[1.7.10]AppliedExchange-1.7.10-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4ff5efa6c6e824d9ed67a1e8a11a8cd188bb7eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2244407
+project-id = 232028

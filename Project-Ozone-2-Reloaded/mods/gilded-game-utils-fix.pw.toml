@@ -1,0 +1,13 @@
+name = "Gilded Game Utils - Fix"
+filename = "gilded-games-util-1.7.10-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f57dbdc6b1cccd19b611509fe55ffe0759138e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2419412
+project-id = 267479

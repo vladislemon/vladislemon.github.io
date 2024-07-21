@@ -1,0 +1,7 @@
+name = "wireless-crafting-terminal"
+filename = "WirelessCraftingTerminal-1.11.2.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.11.2/WirelessCraftingTerminal-1.11.2.jar"
+hash-format = "sha256"
+hash = "f708fdbdc0800db940bc1d0f9b35ffba01860182c6c7c2501bae0c8345bd6b19"

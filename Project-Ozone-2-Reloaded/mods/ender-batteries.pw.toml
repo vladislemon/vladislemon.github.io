@@ -1,0 +1,13 @@
+name = "Ender Batteries"
+filename = "enderbatteries-MC1.7.10-0.1-5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d503c0604b3f3053a26db42a570d7c351ff2c6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2345305
+project-id = 246226

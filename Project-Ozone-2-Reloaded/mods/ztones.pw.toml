@@ -1,0 +1,7 @@
+name = "ztones"
+filename = "Ztones-2.3.1-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Ztones-Unofficial/releases/download/2.3.1-GTNH/Ztones-2.3.1-GTNH.jar"
+hash-format = "sha256"
+hash = "d05d0fe21aab9761ac0335d1f1234598c5f1b2da528b464a5cea2e1f05876f04"

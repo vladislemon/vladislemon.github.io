@@ -1,0 +1,13 @@
+name = "Ranchable Fluid Cows"
+filename = "RanchableFluidCows-1.7.10-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fa55f19df23b2ad6799e2b7b3efc1fcb32438a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2305560
+project-id = 229265

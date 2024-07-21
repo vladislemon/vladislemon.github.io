@@ -1,0 +1,13 @@
+name = "InfiniBows (Infinity Bow Fix)"
+filename = "InfiniBows-1.7.10-universal-coremod-1.3.0.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2245d08d96bb1fe40ee729640051ee9b02a15585"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2217188
+project-id = 62121

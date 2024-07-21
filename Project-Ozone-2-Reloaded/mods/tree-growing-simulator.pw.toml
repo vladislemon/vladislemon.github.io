@@ -1,0 +1,13 @@
+name = "Tree Growing Simulator"
+filename = "TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27b53063f7258041f5a97bd47cc6fa5da6253bae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2311156
+project-id = 246764

@@ -1,0 +1,13 @@
+name = "TiConAutoToolStation"
+filename = "TiConAutoToolStation-1.7.10-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9b8277263aad78e8359d7129dd2bd121f39fde3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2293397
+project-id = 237533

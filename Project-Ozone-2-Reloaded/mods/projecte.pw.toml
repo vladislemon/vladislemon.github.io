@@ -1,0 +1,13 @@
+name = "ProjectE"
+filename = "ProjectE-1.7.10-PE1.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1c4927d708447cd8829e06b9fdbc8a2535b1c02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2340786
+project-id = 226410

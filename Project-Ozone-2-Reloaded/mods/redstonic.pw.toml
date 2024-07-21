@@ -1,0 +1,13 @@
+name = "Redstonic"
+filename = "Redstonic-v1.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b84cdefc677e3b0e6a04746494f0d33688514759"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2264263
+project-id = 227716

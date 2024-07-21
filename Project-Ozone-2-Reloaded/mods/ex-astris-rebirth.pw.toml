@@ -1,0 +1,7 @@
+name = "ex-astris-rebirth"
+filename = "Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar"
+
+[download]
+url = "https://github.com/Ex-Astris-Rebirth/Ex-Astris-Rebirth/releases/download/1.01-45/Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar"
+hash-format = "sha256"
+hash = "e46ebc4ec0124407b9af53d2d4adead686dc9b87557f6cf60d8ae1f4c1ba3e4c"

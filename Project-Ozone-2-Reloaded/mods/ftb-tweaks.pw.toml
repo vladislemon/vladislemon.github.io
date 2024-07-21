@@ -1,0 +1,13 @@
+name = "FTB Tweaks"
+filename = "FTBTweaks-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35dabfe6ef63e568e292e1d1cf7429639568edaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2320394
+project-id = 237103

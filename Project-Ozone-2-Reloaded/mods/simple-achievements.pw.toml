@@ -1,0 +1,13 @@
+name = "Simple Achievements"
+filename = "SimpleAchievements-MC1.7.10-1.1.0-21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "521f3b202532a318d03fa3fdf74cb2bc3837bf6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2264022
+project-id = 231126

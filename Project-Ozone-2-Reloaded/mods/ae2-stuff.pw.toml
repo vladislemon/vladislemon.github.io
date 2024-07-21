@@ -1,0 +1,7 @@
+name = "ae2-stuff"
+filename = "ae2stuff-0.8.2-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/ae2stuff/releases/download/0.8.2-GTNH/ae2stuff-0.8.2-GTNH.jar"
+hash-format = "sha256"
+hash = "9fe5ed0857a4a243ebcd444838afb57249d7d72b0ad13229475491a0662f0608"

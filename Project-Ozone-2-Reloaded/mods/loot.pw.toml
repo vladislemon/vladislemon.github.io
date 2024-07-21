@@ -1,0 +1,13 @@
+name = "Loot++"
+filename = "Loot++-0.24_for_1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd36c2bf2986dc85b8c92a518ed7415824398548"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2311063
+project-id = 225880

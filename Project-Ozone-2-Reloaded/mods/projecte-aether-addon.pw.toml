@@ -1,0 +1,13 @@
+name = "ProjectE Aether Addon"
+filename = "peaether-1.7.10-PEA1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dff7fd017a2c2ddc7595241217c5740af828033d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2252365
+project-id = 234981

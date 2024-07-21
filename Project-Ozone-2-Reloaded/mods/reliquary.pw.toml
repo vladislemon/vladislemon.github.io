@@ -1,0 +1,7 @@
+name = "reliquary"
+filename = "Reliquary-1.2.257.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/Reliquary-1.2.257.jar"
+hash-format = "sha256"
+hash = "8fa73e5a39d17e7c74e4c5588998e4455f05a74787ba585baf9d086dd3db612c"

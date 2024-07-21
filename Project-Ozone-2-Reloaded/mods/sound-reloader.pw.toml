@@ -1,0 +1,18 @@
+name = "Sound Reloader"
+filename = "soundreloader-1.1-1.7.10.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Ability to reload output sound device in-game"
+
+[download]
+hash-format = "sha1"
+hash = "1dfe4f1282422ddf9fec6f352a6279e300832d62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2349251
+project-id = 254144

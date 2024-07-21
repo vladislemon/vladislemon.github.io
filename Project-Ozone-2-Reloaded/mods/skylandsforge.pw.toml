@@ -1,0 +1,13 @@
+name = "SkyLandsForge"
+filename = "SkyLandsForge-1.7.10_0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63a11bc0aa7888b974ec5a4c4740fc5ac1d6c3b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5498823
+project-id = 241789

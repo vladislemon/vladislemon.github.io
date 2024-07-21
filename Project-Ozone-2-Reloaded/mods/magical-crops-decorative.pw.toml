@@ -1,0 +1,13 @@
+name = "Magical Crops: Decorative"
+filename = "magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01808588f9bacc9a1056ded1ad5fe5a93393518b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2246204
+project-id = 232182

@@ -1,0 +1,13 @@
+name = "Project Ozone 2 Reloaded"
+author = "TheCazadorSniper (vladislemon edition)"
+version = "2.5.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "500a156b6a65e1ca79ba2ed002144ca646fdd06f398d39642bd95181c508fe01"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

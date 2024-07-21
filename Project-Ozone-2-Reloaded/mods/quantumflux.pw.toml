@@ -1,0 +1,13 @@
+name = "QuantumFlux"
+filename = "QuantumFlux-1.7.10-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68560fd1e9eb13b513450fbbbd71dd8e39d535cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2272589
+project-id = 228609

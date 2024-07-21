@@ -1,0 +1,7 @@
+name = "buildcraft-compat"
+filename = "buildcraft-compat-7.1.17.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.1.17/buildcraft-compat-7.1.17.jar"
+hash-format = "sha256"
+hash = "4a447731e1196feb8a3db927d015d7bd32c7e90484563138e41f515f45922954"

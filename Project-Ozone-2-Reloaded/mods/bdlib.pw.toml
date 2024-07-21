@@ -1,0 +1,7 @@
+name = "bdlib"
+filename = "bdlib-1.10.0-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/bdlib/releases/download/1.10.0-GTNH/bdlib-1.10.0-GTNH.jar"
+hash-format = "sha256"
+hash = "41915d221fc04af9483fc3d25ef243f126ecaf7836d857a6cc0b0a8cb0071414"

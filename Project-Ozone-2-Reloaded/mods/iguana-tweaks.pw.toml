@@ -1,0 +1,7 @@
+name = "iguana-tweaks"
+filename = "IguanaTweaksTConstruct-2.5.0.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.5.0/IguanaTweaksTConstruct-2.5.0.jar"
+hash-format = "sha256"
+hash = "d4415622ebe98139a3e0eb8ef72ca58bff6db93720f7113b3e133e014a9bf8b2"

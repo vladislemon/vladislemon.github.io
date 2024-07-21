@@ -1,0 +1,13 @@
+name = "Magical Crops: Core/Regrowth"
+filename = "magicalcrops-4.0.0_PUBLIC_BETA_5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "581ad6f52e33e68dd54ddb15f4de65c3aa446a78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2245371
+project-id = 232150

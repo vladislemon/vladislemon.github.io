@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.2.5-unlimited.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/jPs0YHtG/journeymap-1.7.10-5.2.5-unlimited.jar"
+hash-format = "sha1"
+hash = "8b60d1e5a74ef63f5ae0718de39679ed91b37566"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "jPs0YHtG"

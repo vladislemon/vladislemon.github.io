@@ -1,0 +1,7 @@
+name = "better-furnaces"
+filename = "Better_Furnaces_V4.3.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/Better_Furnaces_V4.3.jar"
+hash-format = "sha256"
+hash = "c012f77784b759b211949ca3f9bd7767419d90e19d029406640fe39a66b62d8d"

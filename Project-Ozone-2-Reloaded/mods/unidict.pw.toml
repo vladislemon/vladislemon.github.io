@@ -1,0 +1,7 @@
+name = "unidict"
+filename = "UniDict-mc1.7.10-2.9.3.jar"
+
+[download]
+url = "https://github.com/vladislemon/UniDict/releases/download/2.9.3/UniDict-mc1.7.10-2.9.3.jar"
+hash-format = "sha256"
+hash = "5f256a5f2136b43957fae13e94c49c40a53bce9680426233a0d093a8c247e382"

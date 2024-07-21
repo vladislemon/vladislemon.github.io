@@ -1,0 +1,13 @@
+name = "The Aether II"
+filename = "aether-1.7.10-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e66d53196fd6eef018be095fd9f190b89d02e0c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2273367
+project-id = 223796

@@ -1,0 +1,13 @@
+name = "Experience Rings"
+filename = "xprings-1.7.10-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0db20e8ed76424883cc2144250d6c494f11de29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2360292
+project-id = 243060

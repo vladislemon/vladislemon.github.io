@@ -1,0 +1,7 @@
+name = "custom-things"
+filename = "CustomThings-MC1.7.10-0.0.3-55.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/CustomThings-MC1.7.10-0.0.3-55.jar"
+hash-format = "sha256"
+hash = "625ed6326475c6d473e225d7d90577653fa74b7942289e23823924b8bf12a5d2"

@@ -1,0 +1,7 @@
+name = "ender-io-addons"
+filename = "EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.13.56_beta.jar"
+
+[download]
+url = "https://vladislemon.github.io/mod-jars/EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.13.56_beta.jar"
+hash-format = "sha256"
+hash = "60f75ee10d9931f90302155ee9fd25450bfc4bb539ff8119826ed57d19e79183"

@@ -1,0 +1,7 @@
+name = "inpure-core"
+filename = "INpureCore-1.2.0-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/INpureCore/releases/download/1.2.0-GTNH/INpureCore-1.2.0-GTNH.jar"
+hash-format = "sha256"
+hash = "0f49cc16a3440d1a20173c0d4c936b3ac975282bba82b900531f4b3805d7880a"

@@ -1,0 +1,13 @@
+name = "Magical Crops: Armoury"
+filename = "magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8499795005c5fe1101b3fb80d6767bdbcc927396"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2244865
+project-id = 232149
