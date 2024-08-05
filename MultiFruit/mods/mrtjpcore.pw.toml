@@ -1,0 +1,7 @@
+name = "mrtjpcore"
+filename = "1.7.10/MrTJPCore-1.2.1.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.2.1/MrTJPCore-1.2.1.jar"
+hash-format = "sha256"
+hash = "d2d8e6cdd6f4c8c955d49c6ace47d66acaa50772f5fec30170e8dfa19574ef33"

@@ -1,0 +1,13 @@
+name = "angelica"
+filename = "angelica-1.0.0-beta4.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Optimization mod to boost FPS"
+
+[download]
+url = "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta4/angelica-1.0.0-beta4.jar"
+hash-format = "sha256"
+hash = "27472442495833eb6a40eb287401a56d382326caffdef8f6b1d09cd97665f5f9"
