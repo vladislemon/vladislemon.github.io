@@ -1251,11 +1251,6 @@ hash = "06250d70894edf1c103aa82fd034fd8718d8f409c1db2b2de1e1c614b266e2eb"
 metafile = true
 
 [[files]]
-file = "mods/angelica.pw.toml"
-hash = "4461ae75b4f8ccbc6aed88ebefeac533fdf726670b949882dc6fc2329b5ac891"
-metafile = true
-
-[[files]]
 file = "mods/applecore-unofficial.pw.toml"
 hash = "af25834dff387032118f95418137996d7f99960fd17dabdfc768f5a6ac261f62"
 metafile = true
@@ -1426,6 +1421,11 @@ hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
 metafile = true
 
 [[files]]
+file = "mods/falsetweaks.pw.toml"
+hash = "1ac397e8f9de341358a695c553fa05eae1269d0bab34491081146e1715a07e0b"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
@@ -1453,6 +1453,11 @@ metafile = true
 [[files]]
 file = "mods/forge-relocation.pw.toml"
 hash = "ccff9239c66c10589be06924a05aae6694121570813b83545a04ea539764c669"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "0cf013b5b907bb3b6359d47c58cb2bd81aad10cb7069a488580b28db6100614e"
 metafile = true
 
 [[files]]
@@ -1593,6 +1598,11 @@ metafile = true
 [[files]]
 file = "mods/multifruit.pw.toml"
 hash = "daf7d8f577fa38384fca70d6b93f9cd7d5c9d48fd9ab6834fa64083f73f7446c"
+metafile = true
+
+[[files]]
+file = "mods/nd1710.pw.toml"
+hash = "26a2e34c9ad4d1cac106d32422d518c7eba3d8883280efcfa4cb3f7108efb64f"
 metafile = true
 
 [[files]]
