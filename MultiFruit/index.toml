@@ -1511,11 +1511,6 @@ hash = "6cbbb4d8cf4584aa6327c96a92b9274a587128525d2afb1c3f43682589ab456b"
 metafile = true
 
 [[files]]
-file = "mods/integrated-circuits.pw.toml"
-hash = "57e7be38dabcd22971cd0c19732464b05617bd45b50c25536f09657cbcadb912"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "5d1e597493a5e69353bccda215a65de66612338c28aaf1e9734445f8a3486aa6"
 metafile = true
@@ -1527,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/ironchest.pw.toml"
-hash = "7c6f450faa479d9762b63f2c2dbf13bf77ec5be18b3eec424c4af56ef737d2e5"
+hash = "81198c30ed83f22981adae26c7fe97e5c9c8fa1d6fb439281d6aa74438e2dd19"
 metafile = true
 
 [[files]]
