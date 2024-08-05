@@ -310,7 +310,7 @@ hash = "d94c5508a7984050a234f388ddca3e63d6abcf1ccc095ac98d4b044652a32a3f"
 
 [[files]]
 file = "config/baubles.cfg"
-hash = "52072f6cc92b10b10491a940ebaa9465aae68739966a186f80b07e79c6d963a0"
+hash = "fa8c52aea31f4c5797c94262b94eaf6ade44d731fab5c35efc647b2edff37678"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
