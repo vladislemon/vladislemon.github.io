@@ -1,7 +1,7 @@
 name = "core-tweaks"
-filename = "CoreTweaks-1.7.10-0.3.3.1+nomixin.jar"
+filename = "CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
 
 [download]
-url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.1/CoreTweaks-1.7.10-0.3.3.1+nomixin.jar"
+url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.2/CoreTweaks-1.7.10-0.3.3.2%2Bnomixin.jar"
 hash-format = "sha256"
-hash = "88ddb8eb9f3a8bced219eb54561954832292b4c5083be4712c90ae8d93a41cd0"
+hash = "2b5aff22ab605da145fe664c6952a52e1010d8159052c61a40f7bcc4024549c7"

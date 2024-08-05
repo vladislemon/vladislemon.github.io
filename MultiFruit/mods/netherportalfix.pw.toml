@@ -1,7 +1,7 @@
 name = "netherportalfix"
-filename = "netherportalfix-1.7.10-1.1.2.jar"
+filename = "netherportalfix-1.3.0.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.1.2/netherportalfix-1.7.10-1.1.2.jar"
-hash-format = "sha1"
-hash = "933cc3fd654f0c31fb84da827ca4b2c3279e8719"
+url = "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.3.0/netherportalfix-1.3.0.jar"
+hash-format = "sha256"
+hash = "ec60e16c3422c8c3a5149c7265531c38838557c35a7ef4ab8b327f0c166b28a3"

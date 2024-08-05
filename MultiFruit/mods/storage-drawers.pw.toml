@@ -1,7 +1,7 @@
 name = "storage-drawers"
-filename = "StorageDrawers-1.12.1-GTNH.jar"
+filename = "StorageDrawers-1.13.9-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.12.1-GTNH/StorageDrawers-1.12.1-GTNH.jar"
+url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.13.9-GTNH/StorageDrawers-1.13.9-GTNH.jar"
 hash-format = "sha256"
-hash = "3a03c52500c0cde99798668be6c296961b011262c031d18efd8110a5eae54f4a"
+hash = "3e31bf7a0806734174a132c4dbbbb263d2e4dd38e88d0f53642a9732824a3153"

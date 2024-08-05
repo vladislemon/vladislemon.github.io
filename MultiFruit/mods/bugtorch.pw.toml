@@ -1,7 +1,7 @@
 name = "bugtorch"
-filename = "bugtorch-1.2.12-GTNH.jar"
+filename = "bugtorch-1.2.14-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/BugTorch/releases/download/1.2.12-GTNH/bugtorch-1.2.12-GTNH.jar"
+url = "https://github.com/GTNewHorizons/BugTorch/releases/download/1.2.14-GTNH/bugtorch-1.2.14-GTNH.jar"
 hash-format = "sha256"
-hash = "fe05e444b9f237123f0e882e3fb039b5e49c2a0100b00a8dfe94f0ab3a890fc6"
+hash = "b5604dffa58f4b91309d2fd6746bfb46f501b392bdf3a0144ad1040fd437696f"

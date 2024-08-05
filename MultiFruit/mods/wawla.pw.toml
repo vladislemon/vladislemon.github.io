@@ -1,7 +1,7 @@
 name = "wawla"
-filename = "Wawla-1.7.10-1.1.3-GTNH.jar"
+filename = "Wawla-1.3.0-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/WAWLA/releases/download/1.1.3-GTNH/Wawla-1.7.10-1.1.3-GTNH.jar"
-hash-format = "sha1"
-hash = "818037b3f9dcda039419a17cb40a01f73914f5da"
+url = "https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.0-GTNH/Wawla-1.3.0-GTNH.jar"
+hash-format = "sha256"
+hash = "7a2de6293c8e4d485c67ef009e9f7ddce8bf99cc3f6da2a5c69d03afb2cb0cd5"
