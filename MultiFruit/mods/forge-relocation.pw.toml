@@ -1,7 +1,7 @@
 name = "forge-relocation"
-filename = "ForgeRelocation-0.2.0.jar"
+filename = "ForgeRelocation-0.3.1.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.2.0/ForgeRelocation-0.2.0.jar"
+url = "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.1/ForgeRelocation-0.3.1.jar"
 hash-format = "sha256"
-hash = "12947976a88003314d07db6b42ab34f499cf3acdc4a5fe3339c5d6164f26a1da"
+hash = "0b1a6fc982c076af02b5edce67e53c3e5b47cc4a19084580a747bf346a0cf66a"

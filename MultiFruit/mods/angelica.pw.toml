@@ -1,0 +1,13 @@
+name = "angelica"
+filename = "angelica-1.0.0-beta42.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "FPS optimizations and shaders"
+
+[download]
+url = "https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta42/angelica-1.0.0-beta42.jar"
+hash-format = "sha256"
+hash = "328acc1b24e0c1b19b64be95276577337796e95766b9342ef568b2abf10e7ba3"

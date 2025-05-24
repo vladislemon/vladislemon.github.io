@@ -1,7 +1,7 @@
 name = "malisis-doors"
-filename = "malisisdoors-1.16.4-GTNH.jar"
+filename = "malisisdoors-1.18.0-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.16.4-GTNH/malisisdoors-1.16.4-GTNH.jar"
+url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.18.0-GTNH/malisisdoors-1.18.0-GTNH.jar"
 hash-format = "sha256"
-hash = "d8e786e1f1415d55c15095f3d1d8f38b289e5a81091e4750df9c0f6f51da37ba"
+hash = "12c2b85b97f03be033281d4da3a202335a4888ef2c16ef0d5dd4655636fa7e8d"

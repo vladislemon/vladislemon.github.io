@@ -1,7 +1,7 @@
 name = "wireless-redstone"
-filename = "WR-CBE-1.6.0.jar"
+filename = "WR-CBE-1.7.0.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.6.0/WR-CBE-1.6.0.jar"
+url = "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.0/WR-CBE-1.7.0.jar"
 hash-format = "sha256"
-hash = "9532810d528e4996b412a3e17f3cf74a27cce66d6ef5b505eb63760e30a99eb2"
+hash = "5714cfd5ec0b07c709c10e57b72f397602640e30394716c0037899d6fc3c9b81"

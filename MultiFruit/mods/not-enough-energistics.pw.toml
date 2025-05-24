@@ -1,7 +1,7 @@
 name = "not-enough-energistics"
-filename = "NotEnoughEnergistics-1.6.0.jar"
+filename = "NotEnoughEnergistics-1.7.0.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.6.0/NotEnoughEnergistics-1.6.0.jar"
+url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.0/NotEnoughEnergistics-1.7.0.jar"
 hash-format = "sha256"
-hash = "5c5443e087c4d5accf93e18bc812accb3d9b29fa054df4dd7def825fc7c455dc"
+hash = "8789d9f94d37afc8cf099133cc7f37cadec53dc33d57b111a4482a98b82532b1"

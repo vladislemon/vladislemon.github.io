@@ -1,0 +1,7 @@
+name = "avaritia-addons"
+filename = "Avaritiaddons-1.8.4-GTNH.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/Avaritiaddons/releases/download/1.8.4-GTNH/Avaritiaddons-1.8.4-GTNH.jar"
+hash-format = "sha256"
+hash = "bb79671246a8ed1cc9e94d96d25dab9813e43eab3f95d6ef89bd349e8b9456f6"

@@ -1,7 +1,7 @@
 name = "roguelike"
-filename = "roguelike-1.6.0-GTNH.jar"
+filename = "roguelike-1.6.3-GTNH.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.0-GTNH/roguelike-1.6.0-GTNH.jar"
+url = "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.3-GTNH/roguelike-1.6.3-GTNH.jar"
 hash-format = "sha256"
-hash = "92b2c59fa4034445d3d111657c6b812df138aff38cd7141ea6cfad6b010db9f5"
+hash = "5b9a6970f5a3ef43be3619b2f61bc71db4c26adf2802a21188ee1ff6dff016fc"
