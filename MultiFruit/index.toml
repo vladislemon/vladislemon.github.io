@@ -1582,16 +1582,6 @@ hash = "c40d177f0aa8f872ae5d819ff3711f70d33ad2ee1410c756f9751513f2e64ed5"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers-forestry.pw.toml"
-hash = "b30206233fe2bc010df5d625646ed53bef7b4e8e836c7ce19b1f85234a333350"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers-misc.pw.toml"
-hash = "d47f3b617189afec600107b32e04a298343020d6050c0b8a1f53928c1bec2498"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "ad797f4443d86e461ade4e35c4f90f7c417c14caf5156fedeb5c842c0aed6f94"
 metafile = true
