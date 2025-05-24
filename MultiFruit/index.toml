@@ -106,7 +106,7 @@ hash = "58e96f313127202ff33121cb14fe431c655b8bf8ce3f9e49b8b20a33b30edbed"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "77ac25110167e79dff25bd39fabfa719a18f20c9ffccae153674f12a1ed0a0cb"
+hash = "0c8f13957d2a94c932dacbf6ddaa8a713175ece5b62fd519c14462ed62d181c8"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -202,11 +202,11 @@ hash = "d94c5508a7984050a234f388ddca3e63d6abcf1ccc095ac98d4b044652a32a3f"
 
 [[files]]
 file = "config/baubles.cfg"
-hash = "253160a0974f72f3f628a725228054dbe08a209ae4172928e4c909251ede1de9"
+hash = "6065a3d2566d66f3c617ebd6c6d10c8ac60354d019486576bbc3901b4af2959e"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
-hash = "742a8ea36cfb01d2fc3d98d58f6c22d45014578df55fa8727435429df4bde8fa"
+hash = "f03f4c88a15af5a9f5e76abff2f4d0afa890bbd0d9ce397319e5a6e98f145921"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
@@ -218,7 +218,7 @@ hash = "8e5d5e3052e4638b91ac923e4b21c65adcff386d93e84cad112f871a00e84c97"
 
 [[files]]
 file = "config/bugtorch/modSupport.cfg"
-hash = "3152bce064cf30a7bddfd46d632880ade0e7ec0aabaebacb2c2c10f213cc3a41"
+hash = "9bc9efbb65533512edd5cda7cce67fa8d1646db24bcff2d088aa2464642fc5de"
 
 [[files]]
 file = "config/buildcraft/compat.cfg"
@@ -338,7 +338,7 @@ hash = "f1a574d647b0e2c0397d360a036ed8a9299a8d1451523d8891bac2522ad4cbdf"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "70133c05c6dbb08f5d54ccf7b5066295da10a19a16f692136dd3db185cd80968"
+hash = "790e5902ae4106daa11203b7626f259e68d169467a933fb2431ae33c2eb9a2b1"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -346,23 +346,23 @@ hash = "291e03b3c2a13a40af98c53c19ccfa9a84b585cd853faaa99402077a0ccae066"
 
 [[files]]
 file = "config/etfuturum/entities.cfg"
-hash = "608a6f920ef4944aca8218bc819bff6fd853979ee664f2f7009a818f30141a54"
+hash = "4b13ead3ac670c20c4e213c190a1d61cf9795ec64a5f54ab08081bd4fe6c0547"
 
 [[files]]
 file = "config/etfuturum/experiments.cfg"
-hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
+hash = "ad505b1f52d353270acb4ddf19f9401edd20a6b436286f80d44a717160d39d29"
 
 [[files]]
 file = "config/etfuturum/functions.cfg"
-hash = "78007b0ffc8c503fbba25ec0dd38bbd7ed060df8d848aa754d0c60e3a4c6f1a6"
+hash = "4bcbf1fa91b4efd73443e00b78eea439fc8bdb5969a2ccdf70676906fc6e3fee"
 
 [[files]]
 file = "config/etfuturum/mixins.cfg"
-hash = "b5aee58ca0e5e9f29a0ae467d59f4229ad8345db92766dca0c02eff210b69eac"
+hash = "9e4978abf1ba5d9f159b92187aae3b45d3e1a39bf1711319c253d025d9f0df05"
 
 [[files]]
 file = "config/etfuturum/modcompat.cfg"
-hash = "c5660cec066e8ddada514ebc6e39a75904557da4eebec3b9e3f7b902b635b398"
+hash = "f93df55424c5751f04cfb80f431dfbcbe1c25cbe64b3fee21bf1ca3f500f4fb3"
 
 [[files]]
 file = "config/etfuturum/sounds.cfg"
@@ -370,11 +370,11 @@ hash = "442ba1a6efd64419eb42a204c5b29768b3e07a8809cb5ec4ed42c9d7edeee9eb"
 
 [[files]]
 file = "config/etfuturum/tweaks.cfg"
-hash = "a347d689e28e54892ed1aa8a91cb14c1a9fad961416c513dcb49647d73abfe33"
+hash = "277d32a40f31e866ffa9964366e4789cb27fdeb7f63913e2c12a38ba28e99752"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "7d5df468c9cb9f83594a732ca2f31dc5343dde6ff349c54f801518840cdb39ca"
+hash = "4889d670361469907b4ddfd557de4c868c69721fcd2aa20bdb0f0c40fd062c80"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
