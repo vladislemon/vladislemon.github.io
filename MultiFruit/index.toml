@@ -101,10 +101,6 @@ file = "config/ModernKeyBinding.cfg"
 hash = "4f45079f1b41989c249578777fb5bf4584348f02ac80c17a366ef4d9520d0302"
 
 [[files]]
-file = "config/Morpheus.cfg"
-hash = "58e96f313127202ff33121cb14fe431c655b8bf8ce3f9e49b8b20a33b30edbed"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "0c8f13957d2a94c932dacbf6ddaa8a713175ece5b62fd519c14462ed62d181c8"
 
@@ -1435,11 +1431,6 @@ metafile = true
 [[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "073ed8bee5e10100f60f6dbfaad102a078cb2a84511dd23b6f0a3ab76e941fb0"
-metafile = true
-
-[[files]]
-file = "mods/morpheus.pw.toml"
-hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
 
 [[files]]
