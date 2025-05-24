@@ -1632,6 +1632,11 @@ hash = "b88960f95c0c6bea0254eeffa237a24b16168f47127ee508f36e8bb3a2912b9f"
 metafile = true
 
 [[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "d9f58dd2157608a4fc9a93b447b3738f5c9b1a64c27d4769301a1efe9f76908e"
+metafile = true
+
+[[files]]
 file = "mods/wawla.pw.toml"
 hash = "ff6f79c6fef832a5ee1c4c1f93ce9b94dd1d3eb60d2b6ab9d239b6c9aa54c286"
 metafile = true
