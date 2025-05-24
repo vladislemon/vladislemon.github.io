@@ -166,7 +166,7 @@ hash = "9fcd84126c91bc873550889f5d0eca24d2d6174b86265045a7d717398902f4b6"
 
 [[files]]
 file = "config/UniDict.cfg"
-hash = "7e35b5d86e2374c9af6911b6a7bce315d4c3f4d85950a6a385ead1b51a9834f3"
+hash = "9e064beeffd2ca7bcb9b2332c910f2e46c778edbd415a3456612de2e60a9be35"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
@@ -379,10 +379,6 @@ hash = "4889d670361469907b4ddfd557de4c868c69721fcd2aa20bdb0f0c40fd062c80"
 [[files]]
 file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
-
-[[files]]
-file = "config/foamfix.cfg"
-hash = "4bff0c2b94741ef489efc063b337e52ffd99096476cdbe61ba13493ef9df27dd"
 
 [[files]]
 file = "config/forestry/apiculture.cfg"
@@ -1702,7 +1698,7 @@ hash = "8ab95af0c374d90d7bdc89e7fa1624af2e5549848d9e578c2022fc3df76c1f19"
 
 [[files]]
 file = "scripts/magneticarft.zs"
-hash = "a0a5a68874ee9ebba69c5270ecf6c3e57b1d42a6c0eb0c20842e6069bf408be2"
+hash = "f742cb655e7660bc508feeb44ed237f0900bc280cdcc864c28d66e6d03ad1719"
 
 [[files]]
 file = "scripts/materials.zs"

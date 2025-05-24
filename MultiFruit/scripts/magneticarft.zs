@@ -12,6 +12,7 @@ val copperCoil = <Magneticraft:item.copper_coil>;
 val heavyCopperCoil = <Magneticraft:item.heavy_copper_coil>;
 val solarPanel = <Magneticraft:solarpanel>;
 val photoelectricDust = <Magneticraft:item.photoelectric_dust>;
+val mirror = <Magneticraft:mirror>;
 
 recipes.remove(machineHousing);
 recipes.addShaped(machineHousing,
@@ -60,3 +61,9 @@ recipes.addShaped(solarPanel,
 	[[<ore:dustQuartz>,   <ore:dustQuartz>,   <ore:dustQuartz>],
 	 [photoelectricDust,  <ore:itemSilicon>,  photoelectricDust],
 	 [<ore:sheetPlastic>, <ore:sheetPlastic>, <ore:sheetPlastic>]]);
+
+recipes.remove(mirror);
+recipes.addShaped(mirror,
+	[[<ore:paneGlassColorless>, <ore:paneGlassColorless>, <ore:paneGlassColorless>],
+	 [<ore:paneGlassColorless>, <ore:dustSilver>,         <ore:paneGlassColorless>],
+	 [<ore:paneGlassColorless>, <ore:stickSteel>,         <ore:paneGlassColorless>]]);
