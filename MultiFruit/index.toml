@@ -1355,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "ad47056b16de009bd698af1a87b24c94a9a1c7c46ffbe236bde9318155b6c358"
+hash = "7212a128fdbc73ee40bff6709cdc6440a95010971c57a881e5718345e8ab1cd8"
 metafile = true
 
 [[files]]
@@ -1389,6 +1389,11 @@ hash = "218df19529b300c5c5be4f71c87418a0c520774796603682bc4e35245733a6e3"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2843dbff4188bd80a8ba41952e7438a948813b09b9a664269e8752854667418a"
+metafile = true
+
+[[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "9246c72b7b1746d635e212478f4f2564f557e41cea69b2db436753cff79cbf7b"
 metafile = true
@@ -1405,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapwriter.pw.toml"
-hash = "37c02bfdc143eeb7795b2d485771cedf61b0af60f9844fd121124768bb7fa242"
+hash = "9d8e548d2c5bd92ea8fbd482ac2d089028e0826ed96b711c3849234241cd0120"
 metafile = true
 
 [[files]]
@@ -1446,6 +1451,11 @@ metafile = true
 [[files]]
 file = "mods/multifruit.pw.toml"
 hash = "1f6bab87c80699d983c12b5b7e2cbc7d3a32a53fa2f40a86643b281554670b8e"
+metafile = true
+
+[[files]]
+file = "mods/navigator.pw.toml"
+hash = "ea766e711035a9f5632be808e03e3a09bb214e511b712c7e9be5a1ebacf3dff8"
 metafile = true
 
 [[files]]
@@ -1636,6 +1646,16 @@ metafile = true
 [[files]]
 file = "mods/wireless-redstone.pw.toml"
 hash = "acae985d6bdcd6fb9b764ce97adcc8024e7ab016f651192055e511766039d8af"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9160a8b9665a72f1de51ef6f7c6e1afbe6bec4fb4412f85e8651c0b2d08307ac"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "428b1ab7d6d8a6bc7aeace5c42be539adc846a7ab0933a0658e1988125180060"
 metafile = true
 
 [[files]]

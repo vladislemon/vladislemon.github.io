@@ -1,12 +1,12 @@
 name = "mapwriter"
-filename = "MapWriter-mc1.7.10-2.2.4.jar"
+filename = "MapWriter-2.3.0.jar"
 
 [option]
 optional = true
-default = true
-description = "Minimap"
+default = false
+description = "Minimap; not rich on features but lightweight"
 
 [download]
-url = "https://github.com/vladislemon/mapwriter/releases/download/2.2.4/MapWriter-mc1.7.10-2.2.4.jar"
+url = "https://github.com/vladislemon/mapwriter/releases/download/2.3.0/MapWriter-2.3.0.jar"
 hash-format = "sha256"
-hash = "11423d60aa3ade0dec9eb0ebd9ff2bfa171a673990a74d33c09662da55dad121"
+hash = "9c945d24595e93cb1b82f4e11f13453ed9d556205ac33e8e20556b522c6f806c"

@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.2.9-unlimited.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "Minimap; popular one but I (vladislemon) don't like it"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/acGN457p/journeymap-1.7.10-5.2.9-unlimited.jar"
+hash-format = "sha512"
+hash = "3134148a4a4505fd5440196de6539dc8362276176ce4dec26e8368ff5c74cff2b02b1c527e1403b8de18de179a6e4d8ea2d7580e9e4b2510a525836b28a7b0c1"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "acGN457p"
