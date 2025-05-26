@@ -1344,6 +1344,11 @@ hash = "ef228d18820efcb2a24829525f2e855162e8a952aebcdfc02137840b85ab06ae"
 metafile = true
 
 [[files]]
+file = "mods/help-fixer.pw.toml"
+hash = "bedc05f52c7eace49207ca1f67d9c0c37d1e17f3ba4528f8952b5b9326b29b40"
+metafile = true
+
+[[files]]
 file = "mods/hodgepodge.pw.toml"
 hash = "3ae0ec1b78b50ebd149f08e82f93173c4c28df283f3dd74ea90e2c113b7be0d2"
 metafile = true
