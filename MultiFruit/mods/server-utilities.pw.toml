@@ -1,7 +1,7 @@
 name = "server-utilities"
-filename = "ServerUtilities-2.1.48.jar"
+filename = "ServerUtilities-2.1.52.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.48/ServerUtilities-2.1.48.jar"
+url = "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.52/ServerUtilities-2.1.52.jar"
 hash-format = "sha256"
-hash = "ab32a27a9de1957fead99c2de41ca9b3493ad4e8e9192ff3276cfc5bad77e276"
+hash = "18de7d8c08e6b2b9d7f1f413ae9d1b9eea60f7dacded781e394406ea2f591bb3"

@@ -1,7 +1,7 @@
 name = "waila"
-filename = "Waila-1.8.4.jar"
+filename = "Waila-1.8.6.jar"
 
 [download]
-url = "https://github.com/GTNewHorizons/waila/releases/download/1.8.4/Waila-1.8.4.jar"
+url = "https://github.com/GTNewHorizons/waila/releases/download/1.8.6/Waila-1.8.6.jar"
 hash-format = "sha256"
-hash = "d6ed6c909fe26c7d0d8c0c8b34d2550fbe3cf2c2a84e012c88b5284551a77866"
+hash = "b028d4ae73809d04f9cc43b8a382d1a2d1ad052b1ebec1de861a1c9de68ddd2f"
