@@ -334,7 +334,7 @@ hash = "f1a574d647b0e2c0397d360a036ed8a9299a8d1451523d8891bac2522ad4cbdf"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "790e5902ae4106daa11203b7626f259e68d169467a933fb2431ae33c2eb9a2b1"
+hash = "998d3eba8473d67996211574489bd517ddafa763bd6908b9a26dad7bf27456b1"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -342,7 +342,7 @@ hash = "291e03b3c2a13a40af98c53c19ccfa9a84b585cd853faaa99402077a0ccae066"
 
 [[files]]
 file = "config/etfuturum/entities.cfg"
-hash = "4b13ead3ac670c20c4e213c190a1d61cf9795ec64a5f54ab08081bd4fe6c0547"
+hash = "a950fa870b6994b74b1703c1c3b4e3944832ad1e3bc76daf1fc81f1fb02541e1"
 
 [[files]]
 file = "config/etfuturum/experiments.cfg"
